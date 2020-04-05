@@ -10,13 +10,15 @@ Research, Teaching and Gaming
 
 [Teaching](/teaching/README.md)
 
-first year of ENSAE : Algorithme et programmation
+**ENSAE :**
 
-second year of ENSAE : Machine Learning
+- **1A :** Algorithme et programmation
 
-second year of ENSAE : Simulation et Monte Carlo
+- **2A :** Machine Learning
 
-Institut des actuaires : Text Mining
+- **2A :** Simulation et Monte Carlo
+
+**Institut des actuaires** : Text Mining
 
 # Gaming
 
