@@ -1,2 +1,3 @@
-# website
-test the github website
+# Personal homepage
+
+Research, Teaching and Gaming
