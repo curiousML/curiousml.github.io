@@ -12,11 +12,11 @@ Research, Teaching and Gaming
 
 **ENSAE :**
 
-- **(1A)** Algorithme et programmation
+- 1A : Algorithme et programmation
 
-- **(2A)** Machine Learning
+- 2A: Machine Learning
 
-- **(2A)** Simulation et Monte Carlo
+- 2A : Simulation et Monte Carlo
 
 **Institut des actuaires** : 
 - Text Mining
