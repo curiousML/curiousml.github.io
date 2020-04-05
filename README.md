@@ -16,7 +16,7 @@ second year of ENSAE : Machine Learning
 
 second year of ENSAE : Simulation et Monte Carlo
 
-Institut des actuaires : NLP
+Institut des actuaires : Text Mining
 
 # Gaming
 
