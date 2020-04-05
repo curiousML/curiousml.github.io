@@ -8,7 +8,7 @@ Research
 
 # Teaching
 
-Teaching
+[Teaching](/teaching/)
 
 # Gaming
 
