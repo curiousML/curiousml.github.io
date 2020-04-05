@@ -4,11 +4,11 @@ Research, Teaching and Gaming
 
 # Reasearch
 
-[Research](/research/)
+[Research](/research/README.md)
 
 # Teaching
 
-[Teaching](/teaching/)
+[Teaching](/teaching/README.md)
 
 first year of ENSAE : Algorithme et programmation
 
@@ -20,4 +20,4 @@ Institut des actuaires : NLP
 
 # Gaming
 
-[Gaming](/gaming/)
+[Gaming](/gaming/README.md)
