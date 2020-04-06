@@ -19,7 +19,7 @@ Research, Teaching and Gaming
 - 2A - second semester : [Simulation et Monte Carlo]()
 
 **Institut des actuaires (2019 - ...) :**
-- October : [Text Mining](https://github.com/curiousML/DSA)
+- November : [Text Mining](https://github.com/curiousML/DSA)
 
 # Gaming
 
