@@ -10,7 +10,7 @@ Research, Teaching and Gaming
 
 [Teaching](/teaching/README.md)
 
-**ENSAE :**
+**ENSAE : (september 2019 - ...)**
 
 - 1A : [Algorithme et programmation](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
 
@@ -18,7 +18,7 @@ Research, Teaching and Gaming
 
 - 2A : [Simulation et Monte Carlo]()
 
-**Institut des actuaires** : 
+**Institut des actuaires : (september 2019 - ...)**
 - [Text Mining](https://github.com/curiousML/DSA)
 
 # Gaming
