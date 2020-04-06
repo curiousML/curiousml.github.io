@@ -18,7 +18,7 @@ Research, Teaching and Gaming
 
 - 2A - second semester : [Simulation et Monte Carlo]()
 
-**Institut des Actuaires, Formation [Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
+**Formation [Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) à l'Institut des Actuaires (2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
 # Gaming
