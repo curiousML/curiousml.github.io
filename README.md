@@ -31,7 +31,7 @@ Research, Teaching and Gaming
   - **TD / TP3** : SVM, Decistion Tree and Random Forest [corrigé](teaching/2A-machine-learning/README.md)
 
   
-**Formation [Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) à l'Institut des Actuaires (2019 - ...) :**
+**[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123)(2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
 # Gaming
