@@ -4,7 +4,11 @@ Research, Teaching and Gaming
 
 # Reasearch
 
-[Research](/research/README.md)
+I am currently a second year PhD student in Machine Learning at ENSAE. My topics of interest are the following :
+- Active Learning
+- Reinforcement Learning
+- Rare Category Analysis
+- Natural Language Processing
 
 # Teaching
 
