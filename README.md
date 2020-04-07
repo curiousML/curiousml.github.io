@@ -23,7 +23,7 @@ Research, Teaching and Gaming
   - TD1 : Loi uniforme et Monte Carlo (ex1) [corrigé](/teaching/2A-monte-carlo/TD1_corr.R)
   - TD2 : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [corrigé](/teaching/2A-monte-carlo/TD2_code_corr.html)
   - TD3 : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [corrigé](/teaching/2A-monte-carlo/TD3_code_corr.html)
-  - TD4 : MCMC et Importance Sampling (ex6 et ex7) [corrigé](/teaching/2A-monte-carlo/TD4_code_corr.ipynb)
+  - TD4 : MCMC et Importance Sampling (ex6 et ex7) [corrigé](/teaching/2A-monte-carlo/TD4_code_corr.html)
   - TD5 : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [corrigé CE](/teaching/2A-monte-carlo/TD5_code_corr.html) et [corrigé QMC](/teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
   - TD6 : Soutenance
   
