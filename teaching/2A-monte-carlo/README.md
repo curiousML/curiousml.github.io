@@ -1,4 +1,4 @@
-- TD1 : Loi uniforme et Monte Carlo (ex1) [corrigé](Homepage/teaching/2A-monte-carlo/TD1_corr.R)
+- TD1 : Loi uniforme et Monte Carlo (ex1) [corrigé](TD1_corr.R)
 - TD2 : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [corrigé](Homepage/teaching/2A-monte-carlo/TD2_code_corr.html)
 - TD3 : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [corrigé](Homepage/teaching/2A-monte-carlo/TD3_code_corr.html)
 - TD4 : MCMC et Importance Sampling (ex6 et ex7) [corrigé](Homepage/teaching/2A-monte-carlo/TD4_code_corr.html)
