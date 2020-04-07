@@ -1,0 +1,168 @@
+---
+title: "quasi_monte_carlo"
+author: "Hu Fran??ois"
+date: "02/04/2020"
+output: html_document
+---
+
+## pseudo-aleatoire VS quasi-aleatoire (en dim 2)
+
+```{r cars}
+library("mvtnorm")
+library("randtoolbox")
+
+#install.packages("remotes")
+#library("remotes")
+#remotes::install_github("fOptions/LowDiscrepancy")
+```
+
+Posons :
+```{r}
+n = 500
+d = 2
+```
+
+### loi uniforme $[0, 1]^d$
+
+```{r}
+par(mfrow=c(1,2))
+
+X = cbind(runif(n),runif(n))
+plot(X, main = "Loi uniforme (pseudo-alea)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+
+X_h = halton(n, dim = d, normal = FALSE)
+plot(X_h, main = "Loi uniforme (Halton)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+```
+
+
+### loi uniforme $[a, b]^d$
+
+```{r}
+a = -1
+b = 2
+
+par(mfrow=c(1,2))
+
+X = a + (b-a)*cbind(runif(n), runif(n))
+plot(X, main = "Loi uniforme (pseudo-alea)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+
+X_h = a + (b-a)*halton(n, dim = d, normal = FALSE)
+plot(X_h, main = "Loi uniforme (Halton)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+```
+
+### pour des suites de loi normale centree reduite
+
+```{r}
+mu = rep(0, d)
+sigma = diag(d)
+
+#cbind(c(1, 0.1), c(0.1, 1))
+
+par(mfrow=c(1,2))
+
+X = rmvnorm(n, mean = mu, sigma = sigma)
+plot(X, main = "Loi normale (pseudo-alea)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+
+X_h = halton(n, dim = d, normal = TRUE)
+plot(X_h, main = "Loi normale (Halton)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+```
+
+
+### pour des suites de loi normale de moyenne $\mu$ et de variance $\sigma$
+
+```{r}
+mu = rep(2, d)
+rho = 0.4
+sigma = cbind(c(1, rho), c(rho, 1))
+
+par(mfrow=c(1,2))
+
+X = rmvnorm(n, mean = mu, sigma = sigma)
+plot(X, main = "Loi normale (pseudo-alea)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+
+X_h = mu + halton(n, dim = d, normal = TRUE) %*% sigma
+plot(X_h, main = "Loi normale (Halton)", xlab = "X1", ylab = "X2", pch="+", col = "blue")
+```
+
+
+## Question falcutative (ex 5)
+
+```{r}
+phi <- function(x, c){
+    return((abs(prod(x)) < c)*1)
+}
+
+monte_carlo_estimate <- function(n, d, c){
+    # n : taille de l'echantillon
+    # d : dimension
+    # c le parametre pour la region A
+    
+    X = rmvnorm(n, mean = rep(0,d), sigma = diag(d))
+    
+    fX = rep(0,n)
+    for (i in 1:n){
+      fX[i] = phi(X[i,], c)
+    }
+    Imc = cumsum(fX) / (1:n)
+    return(Imc)
+}
+
+quasi_monte_carlo_estimate <- function(n, d, c){
+    # n : taille de l'echantillon
+    # d : dimension
+    # c le parametre pour la region A
+    
+    Xh = halton(n, dim = d, normal = TRUE)
+    
+    fXh = rep(0,n)
+    for (i in 1:n){
+      fXh[i] = phi(Xh[i,], c)
+    }
+    Iqmc = cumsum(fXh) / (1:n)
+    return(Iqmc)
+}
+```
+
+Il est ?? noter que pour $c = 0.0001$, l'estimateur QMC ne vaut pas 0 :
+
+```{r}
+comparaison_mc_qmc <- function(n, d, c){
+  Imc = monte_carlo_estimate(n, d, c)
+  Iqmc = quasi_monte_carlo_estimate(n, d, c)
+  
+  plot(1:n, Imc, type="l", col="blue", ylab="")
+  lines(1:n, Iqmc, type="l", col="orange")
+  legend("topright", c("Imc", "Iqmc"), col=c("blue", "orange"), lwd=2)
+  return(list(Imc = Imc, Iqmc = Iqmc))
+}
+```
+
+
+```{r}
+n = 10000
+d = 2
+c = 0.01
+I = comparaison_mc_qmc(n,d,c)
+```
+
+
+```{r}
+n = 10000
+d = 40
+c = 0.0001
+I = comparaison_mc_qmc(n,d,c)
+```
+
+
+```{r}
+n = 10000
+d = 400
+c = 0.0001
+I = comparaison_mc_qmc(n,d,c)
+```
+
+
+
+
+
+
