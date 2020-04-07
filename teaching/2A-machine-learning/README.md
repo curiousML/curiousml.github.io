@@ -1,5 +1,5 @@
-- TD1 : Plug-in methods and over/under-fitting [corrigé](/README.md)
-- TP1 : Linear/polynomial regression and k-NN [corrigé](/README.md)
-- TD2 : Selection and penalization of models [corrigé](/README.md)
-- TP2 : k-NN, Perceptron and Cross-Validation [corrigé](/README.md)
+- TD1 : Plug-in methods and over/under-fitting [corrigé](README.md)
+- TP1 : Linear/polynomial regression and k-NN [corrigé](README.md)
+- TD2 : Selection and penalization of models [corrigé](README.md)
+- TP2 : k-NN, Perceptron and Cross-Validation [corrigé](README.md)
 - TD / TP3 : SVM, Decistion Tree and Random Forest
