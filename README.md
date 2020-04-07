@@ -24,6 +24,11 @@ Research, Teaching and Gaming
   
   
 - 2A - second semester : **Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
+  - **TD1** : Plug-in methods and over/under-fitting [corrigé](teaching/2A-machine-learning/README.md)
+  - **TP1** : Linear/polynomial regression and k-NN [corrigé](teaching/2A-machine-learning/README.md)
+  - **TD2** : Selection and penalization of models [corrigé](teaching/2A-machine-learning/README.md)
+  - **TP2** : k-NN, Perceptron and Cross-Validation [corrigé](teaching/2A-machine-learning/README.md)
+  - **TD / TP3** : SVM, Decistion Tree and Random Forest [corrigé](teaching/2A-machine-learning/README.md)
 
   
 **Formation [Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) à l'Institut des Actuaires (2019 - ...) :**
