@@ -20,11 +20,11 @@ Research, Teaching and Gaming
   - TD / TP3 : SVM, Decistion Tree and Random Forest 
   
 - 2A - second semester : [Simulation et Monte Carlo]() by [Nicolas Chopin](https://www.ensae.fr/author/chopin/)
-  - TD1 : Loi uniforme et Monte Carlo (ex1) [corrigé](/teaching/README.md)
-  - TD2 : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [corrigé](/teaching/README.md)
-  - TD3 : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [corrigé](/teaching/README.md)
-  - TD4 : MCMC et Importance Sampling (ex6 et ex7) [corrigé](/teaching/README.md)
-  - TD5 : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5 question falcutative) [corrigé](/teaching/README.md)
+  - TD1 : Loi uniforme et Monte Carlo (ex1) [corrigé](/teaching/2A-monte-carlo/TD1_corr.R)
+  - TD2 : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [corrigé](/teaching/2A-monte-carlo/TD2_code_corr.ipynb)
+  - TD3 : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [corrigé](/teaching/2A-monte-carlo/TD3_code_corr.ipynb)
+  - TD4 : MCMC et Importance Sampling (ex6 et ex7) [corrigé](/teaching/2A-monte-carlo/TD4_code_corr.ipynb)
+  - TD5 : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5 question falcutative) [corrigé](/teaching/2A-monte-carlo/TD5_code_corr.ipynb)
   - TD6 : Soutenance
   
 **Formation [Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) à l'Institut des Actuaires (2019 - ...) :**
