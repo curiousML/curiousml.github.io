@@ -2,7 +2,7 @@ This website is about  : Research, Teaching and Gaming
 
 # About Me
 
-My name is François HU and I am currently a second year PhD student in Machine Learning, Applied Mathematics and Insurance supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html. Half of my research is carried out at [CREST - ENSAE](http://crest.science/) and the other half at the DataLab of [Société Générale Insurance](https://www.assurances.societegenerale.com/fr/) directed by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). My current research focuses on the rare category detection in non-annotated text fields with active learning.
+My name is François HU and I am currently a second year PhD student in Machine Learning, Applied Mathematics and Insurance supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). Half of my research is carried out at [CREST - ENSAE](http://crest.science/) and the other half at the DataLab of [Société Générale Insurance](https://www.assurances.societegenerale.com/fr/) directed by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). My current research focuses on the rare category detection in non-annotated text fields with active learning.
 
 # Reasearch
 
