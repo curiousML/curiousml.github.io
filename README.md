@@ -28,16 +28,13 @@ I am currently a second year PhD student in Machine Learning at ENSAE. My topics
   
   
 - 2A - second semester : **Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
-  - **TD1** : Plug-in methods and over/under-fitting [corrigé](teaching/2A-machine-learning/README.md)
-  - **TP1** : Linear/polynomial regression and k-NN [corrigé](teaching/2A-machine-learning/README.md)
-  - **TD2** : Selection and penalization of models [corrigé](teaching/2A-machine-learning/README.md)
-  - **TP2** : k-NN, Perceptron and Cross-Validation [corrigé](teaching/2A-machine-learning/README.md)
-  - **TD / TP3** : SVM, Decistion Tree and Random Forest [corrigé](teaching/2A-machine-learning/README.md)
+  - **TD1** : Plug-in methods and over/under-fitting [corrigé](teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf)
+  - **TP1** : Linear/polynomial regression and k-NN [corrigé](teaching/2A-machine-learning/TD1_TP1_corr.html)
+  - **TD2** : Selection and penalization of models [corrigé](teaching/2A-machine-learning/correction_TD2.pdf)
+  - **TP2** : k-NN, Perceptron and Cross-Validation [corrigé](teaching/2A-machine-learning/TP2_corr.html)
+  - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction séance du 29/04/20**
 
   
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
-# Gaming
-
-[Gaming](/gaming/README.md)
