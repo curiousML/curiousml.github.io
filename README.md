@@ -12,7 +12,7 @@ My topics of interest are the following :
 - Rare Category Analysis
 - Natural Language Processing
 
-More broadly I am interested in the mathematics behind Machine Learning and Deep Learning.
+More broadly I am interested in mathematics behind Machine Learning and Deep Learning.
 
 # Teaching
 
