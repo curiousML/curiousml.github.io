@@ -38,3 +38,4 @@ I am currently a second year PhD student in Machine Learning at ENSAE. My topics
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
+# Gaming
