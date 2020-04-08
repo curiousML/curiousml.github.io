@@ -32,7 +32,7 @@ I am currently a second year PhD student in Machine Learning at ENSAE. My topics
   - **TP1** : Linear/polynomial regression and k-NN [corrigé](teaching/2A-machine-learning/TD1_TP1_corr.html)
   - **TD2** : Selection and penalization of models [corrigé](teaching/2A-machine-learning/correction_TD2.pdf)
   - **TP2** : k-NN, Perceptron and Cross-Validation [corrigé](teaching/2A-machine-learning/TP2_corr.html)
-  - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction séance du 29/04/20**
+  - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction 29/04/20**
 
   
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
