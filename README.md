@@ -43,7 +43,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 **[100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) (29/11/2019) : Active learning for the detection of categories in text fields**
 
-Dedicated to Data Science, predictive techniques, but also to new emerging professions, 100% Data Science is an event organized by the Institute of Actuaries, open to all actuarial, risk management and Data Science professionals, whether or not they are members of the Institute.
+- Dedicated to Data Science, predictive techniques, but also to new emerging professions, 100% Data Science is an event organized by the Institute of Actuaries, open to all actuarial, risk management and Data Science professionals, whether or not they are members of the Institute.
 
 - [slides](talks/100DS.pdf)
 
