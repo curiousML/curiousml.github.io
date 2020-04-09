@@ -1,4 +1,4 @@
-# About Me
+# About me
 
 My name is François HU and I am currently a second year PhD student in Machine Learning, Applied Mathematics and Insurance supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). Half of my research is carried out at [CREST - ENSAE](http://crest.science/) and the other half at the DataLab of [Société Générale Insurance](https://www.assurances.societegenerale.com/fr/) directed by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). My current research focuses on the active learning for the rare category detection in non-annotated text fields.
 
@@ -39,11 +39,13 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
-# Recent Talks
+# Recent talks
 
 **[100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields**
 
 Dedicated to Data Science, predictive techniques, but also to new emerging professions, 100% Data Science is an event organized by the Institute of Actuaries, open to all actuarial, risk management and Data Science professionals, whether or not they are members of the Institute.
+
+- [slides](talks/100DS.pdf)
 
 
 # Gaming
