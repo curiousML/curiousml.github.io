@@ -14,7 +14,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Teaching
 
-## [ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...) :**
+**[ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...) :**
 
 - 1A - first semester : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
@@ -36,12 +36,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TP2** : k-NN, Perceptron and Cross-Validation [corrigé](teaching/2A-machine-learning/TP2_corr.html)
   - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction 29/04/20**
   
-## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
+**[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
 # Talks
 
-## 100% Data Science : Active learning for the detection of categories in text fields
+**100% Data Science : Active learning for the detection of categories in text fields**
 Dedicated to Data Science, predictive techniques, but also to new emerging professions, 100% Data Science is an event organized by the Institute of Actuaries, open to all actuarial, risk management and Data Science professionals, whether or not they are members of the Institute.
 
 
