@@ -12,7 +12,7 @@ My topics of interest are the following :
 
 More broadly I am interested in mathematics behind Machine Learning and Deep Learning.
 
-# Teaching
+# Teaching assistant
 
 **[ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...) :**
 
