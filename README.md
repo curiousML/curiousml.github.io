@@ -39,8 +39,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 
 - 3A - second semester **(intervenant en text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
-  - **Lecture 1** : [Preprocessing](teaching/3A-machine-learning-finance/Introduction.slides.html)
-  - **Lecture 2** : [Vector representations](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html)
+  - **Lecture 1** : [Preprocessing](teaching/3A-machine-learning-finance/Introduction.slides.html) : tokenisation, lemmatisation, racinisation, stop-words, bag-of-words, ...
+  - **Lecture 2** : [Vector representations](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html) : topic modeling (lsa, plsa and lda), word embedding (word2vec), doc embedding (doc2vec), ...
   - **TP** : [Topic models](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) ; [corrigé notebook](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) ; [corrigé HTML](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
 
 
