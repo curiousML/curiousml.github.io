@@ -35,7 +35,15 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TD2** : Selection and penalization of models [corrigé](teaching/2A-machine-learning/correction_TD2.pdf)
   - **TP2** : k-NN, Perceptron and Cross-Validation [corrigé](teaching/2A-machine-learning/TP2_corr.html)
   - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction 29/04/20**
-  
+
+
+
+- 3A - second semester **(intervenant en text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
+  - **Lecture 1** : [Preprocessing](teaching/3A-machine-learning-finance/Introduction.slides.html)
+  - **Lecture 2** : [Vector representations](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html)
+  - **TP** : [Topic models](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) ; [corrigé notebook](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) ; [corrigé HTML](TP_topic_modeling_corr.slides.html)
+
+
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
 - November : [Text Mining](https://github.com/curiousML/DSA)
 
@@ -45,4 +53,3 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 29/04/20 - [OICA](https://oica.univ-lyon1.fr/)
 
-# Gaming
