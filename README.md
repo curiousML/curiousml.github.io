@@ -22,26 +22,26 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 2A - second semester : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
   - **TD1** : Loi uniforme et Monte Carlo (ex1) [[correction]](teaching/2A-monte-carlo/TD1_corr.R)
-  - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [correction](teaching/2A-monte-carlo/TD2_code_corr.html)
-  - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [correction](teaching/2A-monte-carlo/2A-monte-carlo/TD3_code_corr.html)
-  - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [correction](teaching/2A-monte-carlo/TD4_code_corr.html)
-  - **TD5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [correction CE](teaching/2A-monte-carlo/TD5_code_corr.html) et [correction QMC](teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
+  - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[correction]](teaching/2A-monte-carlo/TD2_code_corr.html)
+  - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[correction]](teaching/2A-monte-carlo/2A-monte-carlo/TD3_code_corr.html)
+  - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [[correction]](teaching/2A-monte-carlo/TD4_code_corr.html)
+  - **TD5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [[correction CE]](teaching/2A-monte-carlo/TD5_code_corr.html) et [[correction QMC]](teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
   - **TD6** : Soutenance
   
   
 - 2A - second semester : **Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
-  - **TD1** : Plug-in methods and over/under-fitting [correction](teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf)
-  - **TP1** : Linear/polynomial regression and k-NN [correction](teaching/2A-machine-learning/TD1_TP1_corr.html)
-  - **TD2** : Selection and penalization of models [correction](teaching/2A-machine-learning/correction_TD2.pdf)
-  - **TP2** : k-NN, Perceptron and Cross-Validation [correction](teaching/2A-machine-learning/TP2_corr.html)
+  - **TD1** : Plug-in methods and over/under-fitting [[correction]](teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf)
+  - **TP1** : Linear/polynomial regression and k-NN [[correction]](teaching/2A-machine-learning/TD1_TP1_corr.html)
+  - **TD2** : Selection and penalization of models [[correction]](teaching/2A-machine-learning/correction_TD2.pdf)
+  - **TP2** : k-NN, Perceptron and Cross-Validation [[correction]](teaching/2A-machine-learning/TP2_corr.html)
   - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction 29/04/20**
 
 
 
 - 3A - second semester **(intervenant en text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
-  - **Lecture 1** : Preprocessing in NLP [lecture](teaching/3A-machine-learning-finance/Introduction.slides.html)
-  - **Lecture 2** : Vector representations and topic models [lecture](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html)
-  - **TP** : [Topic models](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) ; [correction notebook](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) ; [correction HTML](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
+  - **Lecture 1** : Preprocessing in NLP [[lecture]](teaching/3A-machine-learning-finance/Introduction.slides.html)
+  - **Lecture 2** : Vector representations and topic models [[lecture]](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html)
+  - **TP** : [[Topic models]](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) [[correction notebook]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
 
 
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
