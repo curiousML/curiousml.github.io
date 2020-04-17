@@ -3,3 +3,11 @@ title: François HU
 description: About Research, Teaching and Gaming
 google_analytics: UA-163147530-1
 avatar: "/img/avatar-icon.png"
+
+social-network-links:
+  rss: true
+  email: "francois.hu@ensae.fr"
+  linkedin: François HU
+
+share-links-active:
+  linkedin: true
