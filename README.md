@@ -34,7 +34,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TP1** : Linear/polynomial regression and k-NN [[correction]](teaching/2A-machine-learning/TD1_TP1_corr.html)
   - **TD2** : Selection and penalization of models [[correction]](teaching/2A-machine-learning/correction_TD2.pdf)
   - **TP2** : k-NN, Perceptron and Cross-Validation [[correction]](teaching/2A-machine-learning/TP2_corr.html)
-  - **TD / TP3** : SVM, Decistion Tree and Random Forest **correction 29/04/20**
+  - **TD / TP3** : SVM, Decistion Tree and Random Forest [correction]
 
 
 
@@ -49,7 +49,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Recent & Future talks
 
-29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : **Active learning for the detection of categories in text fields** [[FR slides]](talks/100DS.pdf)
+29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : 
+- Active learning for the detection of categories in text fields [[FR slides]](talks/100DS.pdf)
 
-29/04/20 - [OICA](https://oica.univ-lyon1.fr/) : **Efficient labeling with active learning** [EN slides]
+29/04/20 - [OICA](https://oica.univ-lyon1.fr/) : 
+- Efficient labeling with active learning [EN slides]
 
