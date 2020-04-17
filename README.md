@@ -21,7 +21,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 
 - 2A - second semester : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
-  - **TD1** : Loi uniforme et Monte Carlo (ex1) [correction](teaching/2A-monte-carlo/TD1_corr.R)
+  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[correction]](teaching/2A-monte-carlo/TD1_corr.R)
   - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [correction](teaching/2A-monte-carlo/TD2_code_corr.html)
   - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [correction](teaching/2A-monte-carlo/2A-monte-carlo/TD3_code_corr.html)
   - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [correction](teaching/2A-monte-carlo/TD4_code_corr.html)
@@ -49,7 +49,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Recent & Future talks
 
-29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : **Active learning for the detection of categories in text fields** [FR slides](talks/100DS.pdf)
+29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : **Active learning for the detection of categories in text fields** [[FR slides]](talks/100DS.pdf)
 
-29/04/20 - [OICA](https://oica.univ-lyon1.fr/) : **Efficient labeling with active learning** EN slides
+29/04/20 - [OICA](https://oica.univ-lyon1.fr/) : **Efficient labeling with active learning** [EN slides]
 
