@@ -49,9 +49,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Recent & Future talks
 
-29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : 
-- Active learning for the detection of categories in text fields [[FR slides]](talks/100DS.pdf)
+29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[FR]](talks/100DS.pdf)
 
-29/04/20 - [OICA](https://oica.univ-lyon1.fr/) : 
-- Efficient labeling with active learning [EN slides]
+29/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [EN]
 
