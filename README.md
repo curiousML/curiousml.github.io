@@ -34,7 +34,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TP1** : Linear/polynomial regression and k-NN [[correction]](teaching/2A-machine-learning/TD1_TP1_corr.html)
   - **TD2** : Selection and penalization of models [[correction]](teaching/2A-machine-learning/correction_TD2.pdf)
   - **TP2** : k-NN, Perceptron and Cross-Validation [[correction]](teaching/2A-machine-learning/TP2_corr.html)
-  - **TD / TP3** : SVM, Decistion Tree and Random Forest [correction]
+  - **TD / TP3** : SVM, Decistion Tree and Random Forest [[correction]](teaching/2A-machine-learning/TP3_corr.html)
 
 
 
