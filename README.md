@@ -46,7 +46,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 **[Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...) :**
 - November 2019 : [Text Mining](https://github.com/curiousML/DSA)
-- October 2020 (<font color = "red">SOON AVAILABLE</font>): [Text Mining](), [Deep Learning]() and [Imbalanced classification]()
+- October 2020 (<font color = "red">SOON AVAILABLE</font>): [Text Mining](https://github.com/curiousML/DSA), Deep Learning and Imbalanced classification
 
 # Recent & Future talks
 
