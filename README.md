@@ -39,6 +39,10 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 
 - 3A - semester 1 (2020 - ...) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
+  - ERM
+  - SVM
+  - Boosting
+  - Neural Net and Optimization
 
 
 - 3A - semester 2 (2019 - ...) **(intervenant en text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
