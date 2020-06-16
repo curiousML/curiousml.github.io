@@ -14,7 +14,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Teaching assistant
 
-**[ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...) :**
+**[ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) :**
+
+**2019 - 2020**
 
 - 1A - first semester : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
