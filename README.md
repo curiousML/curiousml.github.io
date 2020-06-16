@@ -17,11 +17,11 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 ## [ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...)
 
 
-- 1A - first semester (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
+- 1A - first semester (2019-2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
 
 
-- 2A - second semester (2019 - ...) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
+- 2A - second semester (2019-...) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
   - **TD1** : Loi uniforme et Monte Carlo (ex1) [[correction]](teaching/2A-monte-carlo/TD1_corr.R)
   - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[correction]](teaching/2A-monte-carlo/TD2_code_corr.html)
   - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[correction]](teaching/2A-monte-carlo/TD3_code_corr.html)
@@ -30,7 +30,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TD6** : Soutenance
   
   
-- 2A - second semester (2019 - 2020) : **Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
+- 2A - second semester (2019-2020) : **Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
   - **TD1** : Plug-in methods and over/under-fitting [[correction]](teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf)
   - **TP1** : Linear/polynomial regression and k-NN [[correction]](teaching/2A-machine-learning/TD1_TP1_corr.html)
   - **TD2** : Selection and penalization of models [[correction]](teaching/2A-machine-learning/correction_TD2.pdf)
@@ -38,7 +38,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TD / TP3** : SVM, Decistion Tree and Random Forest [[correction]](teaching/2A-machine-learning/TP3_corr.html)
 
 
-- 3A - first semester (2020 - ...) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
+- 3A - first semester (2020-...) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
 
 
 - 3A - second semester **(intervenant en text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
