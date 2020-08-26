@@ -30,7 +30,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TD6** : Soutenance
   
   
-- 2A - semester 2 (2019 - 2020) : **Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
+- 2A - semester 2 (2019 - 2020) : **Theoretical foundations of Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
   - **TD1** : Plug-in methods and over/under-fitting [[correction]](teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf)
   - **TP1** : Linear/polynomial regression and k-NN [[correction]](teaching/2A-machine-learning/TD1_TP1_corr.html)
   - **TD2** : Selection and penalization of models [[correction]](teaching/2A-machine-learning/correction_TD2.pdf)
