@@ -45,7 +45,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - Neural Net and Optimization
 
 
-- 3A - semester 2 (2019 - ...) **(intervenant en text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
+- 3A - semester 2 (2019 - ...) **(speaker in text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - **Lecture 1** : Preprocessing in NLP [[lecture]](teaching/3A-machine-learning-finance/Introduction.slides.html)
   - **Lecture 2** : Vector representations and topic models [[lecture]](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html)
   - **TP** : [[Topic models]](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) [[correction notebook]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
