@@ -44,16 +44,19 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - Boosting
   - Neural Net and Optimization
 
-
 - 3A - semester 2 (2019 - ...) **(speaker in text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
-  - **Lecture 1** : Preprocessing in NLP [[lecture]](teaching/3A-machine-learning-finance/Introduction.slides.html)
-  - **Lecture 2** : Vector representations and topic models [[lecture]](teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html)
-  - **TP** : [[Topic models]](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) [[correction notebook]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
-
+  - NLP
+  - word / doc embebeddings
+  - topic models
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
-- November 2019 : [Text Mining](https://github.com/curiousML/DSA)
-- October 2020 (<font color = "red">SOON AVAILABLE</font>) : [Text Mining](https://github.com/curiousML/DSA), Deep Learning and Imbalanced classification
+- November 2019 : Text Mining
+- October 2020 : [Text Mining](https://github.com/curiousML/DSA) and Deep Learning
+  - **Introduction** : Preprocessing in NLP [[lecture]](teaching/3A-machine-learning-finance/intro.pdf)
+  - **Lecture 1** : vector representations and topic models [[lecture]](teaching/3A-machine-learning-finance/lecture1.pdf)
+  - **Lecture 2** : Deep Learning for NLP [[lecture]](teaching/3A-machine-learning-finance/lecture2.pdf)
+  - **Lecture 3** : Active Learning [[lecture]](teaching/3A-machine-learning-finance/lecture3.pdf)
+  - **TP** : [[Topic models]](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) [[correction notebook]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
 
 # Recent & Future talks
 
