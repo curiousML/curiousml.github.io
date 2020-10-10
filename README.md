@@ -46,8 +46,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 3A - semester 2 (2019 - ...) **(speaker in text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - NLP
-  - word / doc embebeddings
-  - topic models
+  - Word / doc embebeddings
+  - Topic models
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
@@ -57,7 +57,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 2** : Deep Learning for NLP [[lecture]](teaching/DSA/lecture2.pdf)
   - **Lecture 3** : Active Learning [[lecture]](teaching/DSA/lecture3.pdf)
   - **TP** : [[Topic models]](teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb) [[correction notebook]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
-  - **animations** : [[forward propagation for RNN]](teaching/DSA/RNNforward.html) ; 
+  - **Animations** : [[forward propagation for RNN]](teaching/DSA/RNNforward.html) ; 
 [[back propagation for RNN]](teaching/DSA/RNNbackprop.html) ; 
 [[forward propagation for BRNN]](teaching/DSA/BRNNforward.html) ; 
 # Recent & Future talks
