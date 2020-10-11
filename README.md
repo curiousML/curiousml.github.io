@@ -61,7 +61,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 [[back propagation for RNN]](teaching/DSA/RNNbackprop.html) ; 
 [[forward propagation for BRNN]](teaching/DSA/BRNNforward.html) ; 
 
-![[forward propagation for RNN]](RNNforward.gif)
+![forward propagation for RNN](RNNforward.gif)
 
 # Recent & Future talks
 
