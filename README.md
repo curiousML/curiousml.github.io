@@ -60,6 +60,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Animations** : [[forward propagation for RNN]](teaching/DSA/RNNforward.html) ; 
 [[back propagation for RNN]](teaching/DSA/RNNbackprop.html) ; 
 [[forward propagation for BRNN]](teaching/DSA/BRNNforward.html) ; 
+
+![](RNNforward.gif)
+
 # Recent & Future talks
 
 29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[FR]](talks/100DS.pdf)
