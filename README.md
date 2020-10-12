@@ -44,7 +44,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - Boosting
   - Neural Net and Optimization
 
-- 3A - semester 2 (2019 - ...) **(speaker in text mining)** : **Machine Learning pour la finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
+- 3A - semester 2 (2019 - ...) : **Machine Learning for finance (speaker in NLP)** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - NLP
   - Word / doc embebeddings
   - Topic models
