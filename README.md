@@ -51,12 +51,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
-- October 2020 : [Text Mining](https://github.com/curiousML/DSA) and Deep Learning
+- October 2020 : Text Mining and Active Learning
   - **Introduction** : Preprocessing in NLP [[lecture]](teaching/DSA/introduction.pdf)
   - **Lecture 1** : vector representations and topic models [[lecture]](teaching/DSA/lecture1.pdf)
   - **Lecture 2** : Deep Learning for NLP [[lecture]](teaching/DSA/lecture2.pdf)
   - **Lecture 3** : Active Learning [[lecture in HTML]](teaching/DSA/Annotations.html), [[lecture in pdf]](teaching/DSA/lecture3.pdf)
-  - **TP** : [[Topic models]](teaching/DSA/TP_topic_modeling.ipynb) [[correction notebook]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/3A-machine-learning-finance/TP_topic_modeling_corr.slides.html)
+  - **TP** : [[Topic models]](teaching/DSA/TP_topic_modeling.ipynb) [[correction notebook]](teaching/DSA/TP_topic_modeling_corr.ipynb) [[correction HTML]](teaching/DSA/TP_topic_modeling_corr.html)
   - **Animations** : [[forward propagation for RNN]](teaching/DSA/RNNforward.html) ; 
 [[back propagation for RNN]](teaching/DSA/RNNbackprop.html) ; 
 [[forward propagation for BRNN]](teaching/DSA/BRNNforward.html) ; 
