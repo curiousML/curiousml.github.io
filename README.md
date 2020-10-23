@@ -46,7 +46,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 3A - semester 2 (2019 - ...) : **Machine Learning for finance (speaker in NLP)** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - NLP
-  - Word / doc embebeddings
+  - Word / doc embeddings
   - Topic models
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
