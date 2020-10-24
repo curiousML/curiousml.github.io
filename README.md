@@ -16,7 +16,6 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 ## [ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...)
 
-
 - 1A - semester 1 (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
 
@@ -44,7 +43,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - Boosting
   - Neural Net and Optimization
 
-- 3A - semester 2 (2019 - ...) : **Machine Learning for finance (speaker in NLP)** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
+- 3A - semester 2 (2019 - 2020) : **Machine Learning for finance (speaker in NLP)** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - NLP
   - Word / doc embeddings
   - Topic models
