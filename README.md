@@ -38,7 +38,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 
 - 3A - semester 1 (2020 - ...) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
-  - This course is about **ERM**, **SVM**, **Boosting**, **Neural Net and Optimization**
+  - This course is about ERM, SVM, Boosting, Neural Net and Optimization
   - **TD1** : *(soon available)*
   - **TP** : Python, Linear Regression and SVM [[correction]](teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
   - **TD2** : *(soon available)*
