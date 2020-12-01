@@ -39,10 +39,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 3A - semester 1 (2020 - ...) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
   - This course is about ERM, SVM, Boosting, Neural Net and Optimization
-  - **TD1** : *(soon available)*
+  - **TD1** : VC-dimension and ERM *(correction soon available)*
   - **TP** : Python, Linear Regression and SVM [[correction]](teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
-  - **TD2** : *(soon available)*
-  
+  - **TD2** : RKHS, optimization and neural networks [[correction]](aml_td2_raw correction.pdf) [[neural nets]](teaching/3A-advanced-machine-learning/aml_neural_nets.html)
 
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance (speaker in NLP)** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - NLP
