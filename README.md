@@ -18,7 +18,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 1A - semester 1 (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
-  - Génie Logiciel [[slides]](teaching/1A-info/genie_logiciel_slides.html)
+  - Software Engineering [[slides FR]](teaching/1A-info/genie_logiciel_slides.html)
 
 - 2A - semester 2 (2019 - ...) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
   - **TD1** : Loi uniforme et Monte Carlo (ex1) [[correction]](teaching/2A-monte-carlo/TD1_corr.R)
