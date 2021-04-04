@@ -21,7 +21,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - Software Engineering [[slides FR]](teaching/1A-info/genie_logiciel_slides.html)
 
 - 2A - semester 2 (2019 - ...) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
-  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[R corr]](teaching/2A-monte-carlo/TD1_corr.R) [[Py corr]](teaching/2A-monte-carlo/TD1_MC.html)
+  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[R corr]](teaching/2A-monte-carlo/TD1_corr.R) [[Py corr]](teaching/2A-monte-carlo/TD1_MC.html) [[written corr]](teaching/2A-monte-carlo/TD1_MC.pdf)
   - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[R corr]](teaching/2A-monte-carlo/TD2_code_corr.html)
   - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[R corr]](teaching/2A-monte-carlo/TD3_code_corr.html)
   - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [[R corr]](teaching/2A-monte-carlo/TD4_code_corr.html)
