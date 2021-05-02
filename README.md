@@ -14,6 +14,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Teaching assistant
 
+## [EPITA](https://www.epita.fr/) (2020 - ...)
+
+- **Bayesian Machine Learning (2020- ...)**
+  - **lecture 1** [[Bayesian statistics]](teaching/epita-BML/bayes_1_intro.pdf)
+
+
 ## [ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...)
 
 - 1A - semester 1 (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
