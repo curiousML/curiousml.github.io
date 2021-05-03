@@ -18,7 +18,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
 
-  - **lecture 1** [[Bayesian statistics]](teaching/epita-BML/bayes_1_intro.pdf)
+  - **lecture 1** [[Bayesian statistics]](teaching/epita-BML/bayes_1_intro.pdf) [[practical work : statistics with python]](teaching/epita-BML/bayes_1_intro.pdf)
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
