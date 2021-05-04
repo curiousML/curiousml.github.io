@@ -14,7 +14,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Teaching
 
-## [EPITA](https://www.epita.fr/) (2020 - ...) 
+## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...) 
 
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : [[Bayesian statistics]](teaching/epita-BML/bayes_1_intro.pdf) 
