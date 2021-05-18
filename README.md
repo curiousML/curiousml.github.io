@@ -52,7 +52,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [[R corr]](teaching/2A-monte-carlo/TD4_code_corr.html)
   - **TD5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [[R corr CE]](teaching/2A-monte-carlo/TD5_code_corr.html) et [[R corr QMC]](teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
   - **TD6** : Soutenance
-  - **Python corr** : [[ex 1, (2, 3)]](teaching/2A-monte-carlo/TD1_MC.html) [[ex 4, 5, 6, (7)]](teaching/2A-monte-carlo/TD2_MC.html)
+  - **Python corr** : [[ex 1, (2, 3)]](teaching/2A-monte-carlo/TD1_MC.html) [[ex 4, 5, 6]](teaching/2A-monte-carlo/TD2_MC.html) [[ex 7, 9]](teaching/2A-monte-carlo/TD3_MC.html)
   
   
 - 2A - semester 2 (2019 - 2020) : **Theoretical foundations of Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
