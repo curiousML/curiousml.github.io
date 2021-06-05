@@ -19,7 +19,12 @@
       <div class="inner">
         <div class="row">
             <div class="column"></div>
-              <img src="{{site.logo}}">
+              <img src="{{site.logo}}" 
+	                style="object-fit:cover;
+                    		object-position: right;
+                           width:200px;
+                           height:300px;
+                           border: solid 1px #CCC"\>
             <div class="column"></div>
               <a href="{{ '/' | absolute_url }}">
                 <h1>{{ site.title | default: site.github.repository_name }}</h1>
