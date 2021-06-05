@@ -17,11 +17,15 @@
   <body>
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.logo site.title | default: site.github.repository_name }}</h1>
-          <h1>{{ site.logo}}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <div class="row">
+            <div class="column"></div>
+              <img src="{{site.logo}}">
+            <div class="column"></div>
+              <a href="{{ '/' | absolute_url }}">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+              </a>
+              <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          </div> 
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
         {% endif %}
