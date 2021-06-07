@@ -21,7 +21,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 1** : [[Bayesian statistics]](teaching/epita-BML/bayes_1_intro.pdf) 
   - **Practical work 1** : [[Conjugate distributions]](teaching/epita-BML/conjugate_prior.ipynb) [[Correction]](teaching/epita-BML/conjugate_prior_corr.html)
   - **Lecture 2** : [[Latent Variable Models and EM-algorithm]](teaching/epita-BML/bayes_2_LVM.pdf) 
-  - **Practical work 2** : [[Probabilistic K-means and probabilistic PCA]](teaching/epita-BML/latent_variable_models.ipynb) [[Correction Part1]](teaching/epita-BML/latent_variable_models_corr.html)
+  - **Practical work 2** : [[Probabilistic K-means and probabilistic PCA]](teaching/epita-BML/latent_variable_models.ipynb) [[Part1 corr, HTML]](teaching/epita-BML/latent_variable_models_corr.html) [[Part1 corr, notebook]](teaching/epita-BML/latent_variable_models_corr.ipynb)
   - **Lecture 3** : [[Variational Inference and intro to NLP]](teaching/epita-BML/bayes_3_VI.pdf) 
   - **Practical work 3** : [[Topic Modeling with LDA]](teaching/epita-BML/topic_modeling_lda_corr.ipynb) [No correction]
   - **Lecture 4** : (soon available)
