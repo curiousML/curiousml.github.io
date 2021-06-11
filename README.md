@@ -70,7 +70,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TP** : Python, Linear Regression and SVM [[correction]](teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
   - **TD2** : RKHS, optimization and neural networks [[correction]](teaching/3A-advanced-machine-learning/aml_td2_raw_correction.pdf) [[neural nets]](teaching/3A-advanced-machine-learning/aml_neural_nets.html)
 
-- 3A - semester 2 (2019 - 2020) : **Machine Learning for finance (speaker in NLP)** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
+- 3A - semester 2 (2019 - 2020) : **Speaker in NLP** for the course : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
 
 
 # Recent & Future talks
