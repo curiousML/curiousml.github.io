@@ -24,8 +24,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 2** : [[Probabilistic K-means and probabilistic PCA]](teaching/epita-BML/latent_variable_models.ipynb) [[corr1, HTML]](teaching/epita-BML/latent_variable_models_corr.html) [[corr1, ipynb]](teaching/epita-BML/latent_variable_models_corr.ipynb)
   - **Lecture 3** : [[Variational Inference and intro to NLP]](teaching/epita-BML/bayes_3_VI.pdf) 
   - **Practical work 3** : [[Topic Modeling with LDA]](teaching/epita-BML/topic_modeling_lda_corr.ipynb) [No correction]
-  - **Lecture 4** : (soon available)
-  - **Practical work 4** : (soon available)
+  - **Lecture 4** : [[Markov Chain Monte Carlo]](teaching/epita-BML/bayes_4_MCMC.pdf) 
+  - **Practical work 4** : [[MCMC samples]](teaching/epita-BML/mcmc_gaussian.ipynb) 
   - **Lecture 5** : (soon available)
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
