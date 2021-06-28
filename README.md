@@ -26,7 +26,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 3** : [[Topic Modeling with LDA]](teaching/epita-BML/topic_modeling_lda_corr.ipynb) [No correction]
   - **Lecture 4** : [[Markov Chain Monte Carlo]](teaching/epita-BML/bayes_4_MCMC.pdf) 
   - **Practical work 4** : [[MCMC samples]](teaching/epita-BML/mcmc_gaussian.ipynb) 
-  - **Lecture 5** : (soon available)
+  - **Lecture 5** : [Oral presentations]
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
