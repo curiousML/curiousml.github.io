@@ -31,12 +31,13 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
 - October 2020 : Text Mining and Active Learning
+- July 2021 : Text Mining and Active Learning
   - **Introduction** : Preprocessing in NLP [[lecture]](teaching/DSA/introduction.pdf)
   - **Lecture 1** : vector representations and topic models [[lecture]](teaching/DSA/lecture1.pdf)
   - **Lecture 2** : Deep Learning for NLP [[lecture]](teaching/DSA/lecture2.pdf)
   - **Lecture 3** : Active Learning [[lecture in HTML]](teaching/DSA/Annotations.html), [[lecture in pdf]](teaching/DSA/lecture3.pdf)
   - **Animations** : [[forward propagation for RNN]](teaching/DSA/RNNforward.html) [[back propagation for RNN]](teaching/DSA/RNNbackprop.html) [[forward propagation for BRNN]](teaching/DSA/BRNNforward.html)
-- July 2021 : Text Mining
+  - **TP** : [[Topic modeling]](teaching/DSA/dsa_tp.ipynb) [[Corrigé]](teaching/DSA/dsa_tp_corr.html)
 
 # Teaching assistant
 
