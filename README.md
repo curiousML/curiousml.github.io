@@ -37,7 +37,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 2** : Deep Learning for NLP [[lecture]](teaching/DSA/dsa_nlp_lecture2.pdf)
   - **Lecture 3** : Active Learning [[lecture in HTML]](teaching/DSA/Annotations.html), [[lecture in pdf]](teaching/DSA/dsa_nlp_lecture3.pdf)
   - **Animations** : [[forward propagation for RNN]](teaching/DSA/RNNforward.html) [[back propagation for RNN]](teaching/DSA/RNNbackprop.html) [[forward propagation for BRNN]](teaching/DSA/BRNNforward.html)
-  - **TP** : [[Topic modeling]](teaching/DSA/dsa_nlp_tp.ipynb) [[Corrigé]](teaching/DSA/dsa_nlp_tp_corr.html)
+  - **TP** : Topic modeling [[TP]](teaching/DSA/dsa_nlp_tp.ipynb) [[Corrigé]](teaching/DSA/dsa_nlp_tp_corr.html)
 
 # Teaching assistant
 
