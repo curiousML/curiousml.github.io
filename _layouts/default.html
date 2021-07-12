@@ -31,17 +31,9 @@
 			{% endif %}	   
       <![endif]-->  
 
-        <li>
           {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><i class="fab fa-fw fa-github" aria-hidden="true"></i><small>Follow me on</small> GitHub</a>
             {% endif %}
-        </li>
-
-        <li>
-          {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}" class="button"><i class="fab fa-fw fa-github" aria-hidden="true"></i><small>Follow me on</small> GitHub</a>
-            {% endif %}
-        </li>
 
 		</div> 
     </header>
@@ -69,8 +61,10 @@
           {% endif %}
 		
           <img src="images/francois_HU.jpeg"  alt="Avatar" class="avatar" width="200"/>
- 
-        <li><a href="{{ site.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true" width="100"></i> LinkedIn</a></li>
+        
+          {% if site.github.is_user_page %}
+          <a href="{{ site.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true" width="100"></i> LinkedIn</a>
+          {% endif %}
 
         </aside>
       </div>
