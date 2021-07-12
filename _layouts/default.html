@@ -31,9 +31,11 @@
 			{% endif %}	   
       <![endif]-->  
 
-      {% if site.github.is_user_page %}
-      <a href="{{ site.github.owner_url }}" class="button"><i class="fab fa-fw fa-github" aria-hidden="true"></i><small>Follow me on</small> GitHub</a>
-        {% endif %}
+        <li>
+          {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}" class="button"><i class="fab fa-fw fa-github" aria-hidden="true"></i><small>Follow me on</small> GitHub</a>
+            {% endif %}
+        </li>
 
 		</div> 
     </header>
