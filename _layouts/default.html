@@ -17,11 +17,6 @@
   <body>
     <header>
 	    <div class="inner">
-	       <div class="row">
-		  <div class="column">
-		       <img src="{{site.logo}}" style="object-fit:cover; width:200px;/>
-		  </div>
-		  <div class="column">
 			<a href="{{ '/' | absolute_url }}">
 			<h1>{{ site.title | default: site.github.repository_name }}</h1>
 		      </a>
@@ -32,8 +27,7 @@
 			{% if site.github.is_user_page %}
 			  <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
 			{% endif %}	     
-		  </div>
-		</div> 
+
 		</div> 
     </header>
 
