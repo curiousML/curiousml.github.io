@@ -47,7 +47,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
   - Software Engineering [[slides FR]](teaching/1A-info/genie_logiciel_slides.html)
 
-- 2A - semester 2 (2019 - ...) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
+- 2A - semester 2 (2019 - 2021) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
   - **TD1** : Loi uniforme et Monte Carlo (ex1) [[R corr]](teaching/2A-monte-carlo/TD1_corr.R) [[written corr]](teaching/2A-monte-carlo/TD1_MC.pdf) 
   - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[R corr]](teaching/2A-monte-carlo/TD2_code_corr.html)
   - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[R corr]](teaching/2A-monte-carlo/TD3_code_corr.html) 
@@ -64,7 +64,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **TD / TP3** : SVM, Decistion Tree and Random Forest [[correction]](teaching/2A-machine-learning/TP3_corr.html)
 
 
-- 3A - semester 1 (2020 - ...) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
+- 3A - semester 1 (2020 - 2021) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
   - This course is about ERM, SVM, Boosting, Neural Net and Optimization
   - **TD1** : VC-dimension and ERM *(correction soon available)*
   - **TP** : Python, Linear Regression and SVM [[correction]](teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
