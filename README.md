@@ -17,8 +17,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
 
 - Master of Science in Artificial Intelligence Systems : **Python** by [François HU](https://curiousml.github.io/)
-  - **Practical work 1** : [Soon available]
-  - **Practical work 2** : [Soon available]
+  - **Practical work 1** : Basics of Python [Soon available]
+  - **Practical work 2** : Application [Soon available]
   - **Practical work 3** : [Soon available]
   - **Practical work 4** : [Soon available]
   - **Practical work 5** : [Soon available]
@@ -26,16 +26,16 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Project** : [Soon available]
 
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
-  - **Training session / prerequisite :** [[Statistics with python]](teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](teaching/epita-BML/defra_consumption.csv)
-  - **Lecture 1** : [[Bayesian statistics]](teaching/epita-BML/bayes_1_intro.pdf) 
-  - **Practical work 1** : [[Conjugate distributions]](teaching/epita-BML/conjugate_prior.ipynb) [[Correction]](teaching/epita-BML/conjugate_prior_corr.html)
-  - **Lecture 2** : [[Latent Variable Models and EM-algorithm]](teaching/epita-BML/bayes_2_LVM.pdf) 
-  - **Practical work 2** : [[Probabilistic K-means and probabilistic PCA]](teaching/epita-BML/latent_variable_models.ipynb) [[corr1, HTML]](teaching/epita-BML/latent_variable_models_corr2partly.html) [[corr1, ipynb]](teaching/epita-BML/latent_variable_models_corr2partly.ipynb)
-  - **Lecture 3** : [[Variational Inference and intro to NLP]](teaching/epita-BML/bayes_3_VI.pdf) 
-  - **Practical work 3** : [[Topic Modeling with LDA]](teaching/epita-BML/topic_modeling_lda_corr.ipynb) [No correction]
-  - **Lecture 4** : [[Markov Chain Monte Carlo]](teaching/epita-BML/bayes_4_MCMC.pdf) 
-  - **Practical work 4** : [[MCMC samples]](teaching/epita-BML/mcmc_gaussian.ipynb) 
+  - **Lecture 1** : Bayesian statistics [[lecture]](teaching/epita-BML/bayes_1_intro.pdf) 
+  - **Lecture 2** : Latent Variable Models and EM-algorithm [[lecture]](teaching/epita-BML/bayes_2_LVM.pdf) 
+  - **Lecture 3** : Variational Inference and intro to NLP [[lecture]](teaching/epita-BML/bayes_3_VI.pdf) 
+  - **Lecture 4** : Markov Chain Monte Carlo [[lecture]](teaching/epita-BML/bayes_4_MCMC.pdf) 
   - **Lecture 5** : [Oral presentations]
+  - **Training session / prerequisite :** Statistics with python [[Notebook]](teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](teaching/epita-BML/defra_consumption.csv)
+  - **Practical work 1** : Conjugate distributions [[Notebook]](teaching/epita-BML/conjugate_prior.ipynb) [[Correction]](teaching/epita-BML/conjugate_prior_corr.html)
+  - **Practical work 2** : Probabilistic K-means and probabilistic PCA [[Notebook]](teaching/epita-BML/latent_variable_models.ipynb) [[corr1, HTML]](teaching/epita-BML/latent_variable_models_corr2partly.html) [[corr1, ipynb]](teaching/epita-BML/latent_variable_models_corr2partly.ipynb)
+  - **Practical work 3** : Topic Modeling with LDA [[Notebook]](teaching/epita-BML/topic_modeling_lda_corr.ipynb) [No correction]
+  - **Practical work 4** : MCMC samples [[Notebook]](teaching/epita-BML/mcmc_gaussian.ipynb) 
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
