@@ -6,9 +6,9 @@ I am a Data Scientist and also a third year PhD Candidate in Machine Learning, A
 
 My topics of interest are the following :
 - Natural Language Processing
-- Active Learning and sampling methods
+- Semi-supervised learning and sampling methods
 - ML fairness and transparency in insurance domain
-- Rare Category Analysis
+- Imbalanced dataset analysis
 
 More broadly I am interested in mathematics behind Machine Learning and Deep Learning.
 
