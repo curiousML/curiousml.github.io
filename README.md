@@ -34,7 +34,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 4** : Markov Chain Monte Carlo [Soon available]
   - **Lecture 5** : [Oral presentations]
   - **Training session / prerequisite :** Statistics with python [[Notebook]](teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](teaching/epita-BML/defra_consumption.csv)
-  - **Practical work 1** : Conjugate distributions [[Notebook]](teaching/epita-BML/conjugate_prior.ipynb)
+  - **Practical work 1** : Conjugate distributions [[Notebook]](teaching/epita-BML/conjugate_prior.ipynb) [[Correction]](teaching/epita-BML/conjugate_prior_corr.html)
   - **Practical work 2** : Probabilistic K-means and probabilistic PCA [Soon available]
   - **Practical work 3** : Topic Modeling with LDA [Soon available]
   - **Practical work 4** : MCMC samples [Soon available]
