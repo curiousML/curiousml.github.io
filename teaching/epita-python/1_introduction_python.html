@@ -17916,12 +17916,24 @@ boat     9    16  25   36   49</code></pre>
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="Exercice-2.">Exercice 2.<a class="anchor-link" href="#Exercice-2.">&#182;</a></h3><p>For the following list of dictionaries, write a script that add a field <em>registrations</em> which is twice the number of accepted papers.</p>
 
-<pre><code>confs = [{"Name": "NeurIPS", "Date": 2016, "Location": "Barcelona", "acc_papers": 300},
-         {"Name": "ICML", "Date": 2016, "Location": "New York City", "acc_papers": 450},
-         {"Name": "ICML", "Date": 2015, "Location": "Lille", "acc_papers": 250},
-         {"Name": "AISTATS", "Date": 2016, "Location": "Cadiz", "acc_papers": 100}]</code></pre>
-
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">confs</span> <span class="o">=</span> <span class="p">[{</span><span class="s2">&quot;Name&quot;</span><span class="p">:</span> <span class="s2">&quot;NeurIPS&quot;</span><span class="p">,</span> <span class="s2">&quot;Date&quot;</span><span class="p">:</span> <span class="mi">2016</span><span class="p">,</span> <span class="s2">&quot;Location&quot;</span><span class="p">:</span> <span class="s2">&quot;Barcelona&quot;</span><span class="p">,</span> <span class="s2">&quot;acc_papers&quot;</span><span class="p">:</span> <span class="mi">300</span><span class="p">},</span>
+             <span class="p">{</span><span class="s2">&quot;Name&quot;</span><span class="p">:</span> <span class="s2">&quot;ICML&quot;</span><span class="p">,</span> <span class="s2">&quot;Date&quot;</span><span class="p">:</span> <span class="mi">2016</span><span class="p">,</span> <span class="s2">&quot;Location&quot;</span><span class="p">:</span> <span class="s2">&quot;New York City&quot;</span><span class="p">,</span> <span class="s2">&quot;acc_papers&quot;</span><span class="p">:</span> <span class="mi">450</span><span class="p">},</span>
+             <span class="p">{</span><span class="s2">&quot;Name&quot;</span><span class="p">:</span> <span class="s2">&quot;ICML&quot;</span><span class="p">,</span> <span class="s2">&quot;Date&quot;</span><span class="p">:</span> <span class="mi">2015</span><span class="p">,</span> <span class="s2">&quot;Location&quot;</span><span class="p">:</span> <span class="s2">&quot;Lille&quot;</span><span class="p">,</span> <span class="s2">&quot;acc_papers&quot;</span><span class="p">:</span> <span class="mi">250</span><span class="p">},</span>
+             <span class="p">{</span><span class="s2">&quot;Name&quot;</span><span class="p">:</span> <span class="s2">&quot;AISTATS&quot;</span><span class="p">,</span> <span class="s2">&quot;Date&quot;</span><span class="p">:</span> <span class="mi">2016</span><span class="p">,</span> <span class="s2">&quot;Location&quot;</span><span class="p">:</span> <span class="s2">&quot;Cadiz&quot;</span><span class="p">,</span> <span class="s2">&quot;acc_papers&quot;</span><span class="p">:</span> <span class="mi">100</span><span class="p">}]</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -17939,16 +17951,16 @@ boat     9    16  25   36   49</code></pre>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Exercice-3.">Exercice 3.<a class="anchor-link" href="#Exercice-3.">&#182;</a></h3><p>Write a function <em>append</em>, that produces the following results:</p>
+<h3 id="Exercice-3.">Exercice 3.<a class="anchor-link" href="#Exercice-3.">&#182;</a></h3><p>Write a function <em>include</em>, that produces the following results:</p>
 
-<pre><code>&gt;&gt;&gt; l = [1]
-&gt;&gt;&gt; append(l, 5)
+<pre><code>&gt;&gt;&gt; l = [0]
+&gt;&gt;&gt; include(l, 2)
 &gt;&gt;&gt; print(l)
-[1, 5]
-&gt;&gt;&gt; append(l, "-1")
+[0, 2]
+&gt;&gt;&gt; include(l, "-1")
 &gt;&gt;&gt; print(l)
-[1, 5, '-1']
-&gt;&gt;&gt; append(l)
+[0, 2, '-1']
+&gt;&gt;&gt; include(l)
 &gt;&gt;&gt; print(l)
 []</code></pre>
 
