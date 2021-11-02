@@ -19,7 +19,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - Master of Science in Artificial Intelligence Systems : **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](teaching/why_python.html)**
   - **[Installing Python](teaching/install_python.html)**
-  - **Practical work 1** : Basics of Python [Soon available]
+  - **Practical work 1** : [Basics of Python](teaching/epita-python/1_introduction_python.html) [[Notebook]](teaching/epita-python/1_introduction_python.ipynb)
   - **Practical work 2** : Application [Soon available]
   - **Practical work 3** : [Soon available]
   - **Practical work 4** : [Soon available]
