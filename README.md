@@ -30,7 +30,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](teaching/epita-BML/bayes_1_intro.pdf) 
   - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](teaching/epita-BML/bayes_2_LVM.pdf) 
-  - **Lecture 3** : Variational Inference and intro to NLP [Soon available]
+  - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](teaching/epita-BML/bayes_3_VI.pdf) 
   - **Lecture 4** : Markov Chain Monte Carlo [Soon available]
   - **Lecture 5** : [Oral presentations]
   - **Training session / prerequisite :** Statistics with python [[Notebook]](teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](teaching/epita-BML/defra_consumption.csv)
