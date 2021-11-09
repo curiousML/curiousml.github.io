@@ -20,12 +20,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **[Why Python ?](teaching/why_python.html)**
   - **[Installing Python](teaching/install_python.html)**
   - **Practical work 1** : [Basics of Python](teaching/epita-python/1_introduction_python.html) [[Notebook]](teaching/epita-python/1_introduction_python.ipynb)
-  - **Practical work 2** : Application [Soon available]
-  - **Practical work 3** : [Soon available]
-  - **Practical work 4** : [Soon available]
-  - **Practical work 5** : [Soon available]
-  - **Practical work 6** : [Soon available]
-  - **Project** : [Soon available]
+  - **Practical work 2** : [Application](teaching/epita-python/2_application_slides.html) [[Notebook]](teaching/epita-python/2_application.ipynb)
+  - **Practical work 3** : Scientific Computing [Soon available]
+  - **Practical work 4** : Data Visualizations [Soon available]
+  - **Practical work 5** : Statistical tools [Soon available]
+  - **Practical work 6** : Engineering tools [Soon available]
+  - **Exam** : ??? [Soon available]
 
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](teaching/epita-BML/bayes_1_intro.pdf) 
