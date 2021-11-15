@@ -22,7 +22,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 1** : [Basics of Python](teaching/epita-python/1_introduction_python.html) [[Notebook]](teaching/epita-python/1_introduction_python.ipynb)
   - **Practical work 2** : [Application](teaching/epita-python/2_application_slides.html) [[Notebook]](teaching/epita-python/2_application.ipynb)
   - **Practical work 3** : Scientific Computing [Soon available]
-  - **Practical work 4** : Data Visualizations [Soon available]
+  - **Practical work 4** : Data Visualization [Soon available]
   - **Practical work 5** : Statistical tools [Soon available]
   - **Practical work 6** : Engineering tools [Soon available]
   - **Exam** : ??? [Soon available]
@@ -31,13 +31,13 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 1** : Bayesian statistics [[Lecture]](teaching/epita-BML/bayes_1_intro.pdf) 
   - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](teaching/epita-BML/bayes_2_LVM.pdf) 
   - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](teaching/epita-BML/bayes_3_VI.pdf) 
-  - **Lecture 4** : Markov Chain Monte Carlo [Soon available]
+  - **Lecture 4** : Markov Chain Monte Carlo [[Lecture]](teaching/epita-BML/bayes_4_MCMC.pdf) 
   - **Lecture 5** : [Oral presentations]
   - **Training session / prerequisite :** Statistics with python [[Notebook]](teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](teaching/epita-BML/defra_consumption.csv)
   - **Practical work 1** : Conjugate distributions [[Notebook]](teaching/epita-BML/conjugate_prior.ipynb) [[Correction]](teaching/epita-BML/conjugate_prior_corr.html)
   - **Practical work 2** : Probabilistic K-means and probabilistic PCA [[Notebook]](teaching/epita-BML/latent_variable_models.ipynb)
   - **Practical work 3** : Topic Modeling with LDA [[Notebook]](teaching/epita-BML/topic_modeling_lda.ipynb)
-  - **Practical work 4** : MCMC samples [Soon available]
+  - **Practical work 4** : MCMC samples [[Notebook]](teaching/epita-BML/mcmc_gaussian.ipynb)
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 - November 2019 : Text Mining
