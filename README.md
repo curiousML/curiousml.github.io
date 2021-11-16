@@ -23,8 +23,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 2** : [Application](teaching/epita-python/2_application_slides.html) [[Notebook]](teaching/epita-python/2_application.ipynb)
   - **Practical work 3** : [Scientific Computing](teaching/epita-python/3_scientific_computing.html) [[Notebook]](teaching/epita-python/3_scientific_computing.ipynb)
   - **Practical work 4** : Data Visualization [Soon available]
-  - **Practical work 5** : Statistical tools [Soon available]
-  - **Practical work 6** : Engineering tools [Soon available]
+  - **Practical work 5** : Data Manipulation [Soon available]
+  - **Practical work 6** : Statistical and Engineering tools [Soon available]
   - **Exam** : ??? [Soon available]
 
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
