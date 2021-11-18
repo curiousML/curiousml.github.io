@@ -16,7 +16,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
 
-- Master of Science in Artificial Intelligence Systems : **Python** by [François HU](https://curiousml.github.io/)
+- Master of Science : **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](teaching/why_python.html)**
   - **[Installing Python](teaching/install_python.html)**
   - **Practical work 1** : [Basics of Python](teaching/epita-python/1_introduction_python.html) [[Notebook]](teaching/epita-python/1_introduction_python.ipynb)
