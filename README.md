@@ -19,11 +19,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - Master of Science : **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](teaching/why_python.html)**
   - **[Installing Python](teaching/install_python.html)**
+  - **Datasets** : [[Iris dataset]](teaching/epita-python/Iris.csv) [[Defra consumption dataset]](teaching/epita-BML/defra_consumption.csv)
   - **Practical work 1** : [Basics of Python](teaching/epita-python/1_introduction_python.html) [[Notebook]](teaching/epita-python/1_introduction_python.ipynb)
   - **Practical work 2** : [Application](teaching/epita-python/2_application_slides.html) [[Notebook]](teaching/epita-python/2_application.ipynb)
   - **Practical work 3** : [Scientific Computing](teaching/epita-python/3_scientific_computing.html) [[Notebook]](teaching/epita-python/3_scientific_computing.ipynb) [[Correction]](teaching/epita-python/3_scientific_computing_corr.html) 
   - **Practical work 4** : [Data Visualization](teaching/epita-python/4_dataviz.html) [[Notebook]](teaching/epita-python/4_dataviz.ipynb)
-  - **Practical work 5** : [Data Manipulation](teaching/epita-python/5_dataframe.html) [[Notebook]](teaching/epita-python/5_dataframe.ipynb) [[Iris dataset]](teaching/epita-python/Iris.csv) [[Defra consumption dataset]](teaching/epita-BML/defra_consumption.csv)
+  - **Practical work 5** : [Data Manipulation](teaching/epita-python/5_dataframe.html) [[Notebook]](teaching/epita-python/5_dataframe.ipynb)
   - **Practical work 6** : Engineering tools
   - **Exam** : ??? [Soon available]
 
