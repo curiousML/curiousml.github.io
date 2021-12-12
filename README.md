@@ -25,7 +25,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 3** : Scientific Computing [[Lecture]](teaching/epita-python/3_scientific_computing.html) [[Notebook]](teaching/epita-python/3_scientific_computing.ipynb) [[Correction]](teaching/epita-python/3_scientific_computing_corr.html) 
   - **Practical work 4** : Data Visualization [[Lecture]](teaching/epita-python/4_dataviz.html) [[Notebook]](teaching/epita-python/4_dataviz.ipynb) [[Correction]](teaching/epita-python/4_dataviz_corr.html) 
   - **Practical work 5** : Data Manipulation [[Lecture]](teaching/epita-python/5_dataframe.html) [[Notebook]](teaching/epita-python/5_dataframe.ipynb) [[Correction]](teaching/epita-python/5_dataframe_corr.html)
-  - **Practical work 6** : Engineering tools [[Lecture]](teaching/epita-python/6_intro_engineering slides.html)
+  - **Practical work 6** : Engineering tools [[Lecture]](teaching/epita-python/6_intro_engineering_slides.html)
   - **Addional exercices** : [[Lecture]](teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb)
   - **Exam** : ??? [Soon available]
 
