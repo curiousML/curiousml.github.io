@@ -60,12 +60,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
 
 - 2A - semester 2 (2019 - 2021) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
-  - **Directed work 1** : Loi uniforme et Monte Carlo (ex1) [[Correction in R]](teaching/2A-monte-carlo/TD1_corr.R) [[written correction]](teaching/2A-monte-carlo/TD1_MC.pdf) 
-  - **Directed work 2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[Correction in R]](teaching/2A-monte-carlo/TD2_code_corr.html)
-  - **Directed work 3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[Correction in R]](teaching/2A-monte-carlo/TD3_code_corr.html) 
-  - **Directed work 4** : MCMC et Importance Sampling (ex6 et ex7) [[Correction in R]](teaching/2A-monte-carlo/TD4_code_corr.html)
-  - **Directed work 5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [[Correction in R (part1)]](teaching/2A-monte-carlo/TD5_code_corr.html) et [[Correction in R (part1) (part2)]](teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
-  - **Directed work 1** : Soutenance
+  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[Correction in R]](teaching/2A-monte-carlo/TD1_corr.R) [[written correction]](teaching/2A-monte-carlo/TD1_MC.pdf) 
+  - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[Correction in R]](teaching/2A-monte-carlo/TD2_code_corr.html)
+  - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[Correction in R]](teaching/2A-monte-carlo/TD3_code_corr.html) 
+  - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [[Correction in R]](teaching/2A-monte-carlo/TD4_code_corr.html)
+  - **TD5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [[Correction in R (part1)]](teaching/2A-monte-carlo/TD5_code_corr.html) et [[Correction in R (part2)]](teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
+  - **TD6** : Soutenance
   
   
 - 2A - semester 2 (2019 - 2020) : **Theoretical foundations of Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
@@ -79,8 +79,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - 3A - semester 1 (2020 - 2021) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
   - This course is about ERM, SVM, Boosting, Neural Net and Optimization
   - **Directed work** : VC-dimension and ERM *(correction soon available)*
-  - **Practical work** : Python, Linear Regression and SVM [[Correction]](teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
-  - **Practical work** : RKHS, optimization and neural networks [[Correction]](teaching/3A-advanced-machine-learning/aml_td2_raw_correction.pdf) [[neural nets]](teaching/3A-advanced-machine-learning/aml_neural_nets.html)
+  - **Practical work** : Python, Linear Regression and SVM [[Correction in Python]](teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
+  - **Practical work** : RKHS, optimization and neural networks [[Written correction]](teaching/3A-advanced-machine-learning/aml_td2_raw_correction.pdf) [[Neural Nets in python]](teaching/3A-advanced-machine-learning/aml_neural_nets.html)
 
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
