@@ -85,8 +85,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
 
+# Recent papers
+- Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/abs/2109.13642). ArXiv: 2109.13642
 
-# Recent & Future talks
+- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/abs/2112.09466). arXiv:2112.09466
+
+# Recent talks
 
 29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
 
