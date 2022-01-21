@@ -86,9 +86,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - Speaker in NLP
 
 # Recent papers
-- Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/abs/2109.13642). ArXiv: 2109.13642
+- Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). ArXiv: 2109.13642
 
-- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/abs/2112.09466). arXiv:2112.09466
+- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
 
 # Recent talks
 
