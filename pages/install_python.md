@@ -58,17 +58,21 @@ Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equat
 In a shell, execute:
 
     $ python
+    
 Then, start using it:
 
     >>> print("hello world!")
+    
 Press CTRL+D or type:
 
-    >>> quit()    
+    >>> quit()
+    
 to exit.
 
 If your code is written in a file *script.py*, you can run it from a shell with:
 
-    $ python script.py    
+    $ python script.py
+    
 or in Python with:
 
     >>> execfile('script.py')
