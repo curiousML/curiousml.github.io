@@ -4,15 +4,15 @@
 
 [Python](https://www.python.org/about/) is a widely-used **high-level programming** language created by Guido van Rossum and first released in 1991. In the last decade, Python became one of the most popular language: according to [TIOBE](https://www.tiobe.com/tiobe-index/) programming community, since 2021 Python is the second most popular language just behind C language (a low-level programming). With only 0.16\% difference, Python has never been so close to the number 1 position of the TIOBE index (historically only C and Java have been leading the pack so far). This index is calculated by popular search engines (e.g. Google, Bing, Yahoo!, Wikipedia, Amazon, YouTube and Baidu).
 
-![image-4.png](attachment:image-4.png)
+![image-4.png](images/ranking_languages.png)
 
 If we only take account on how often programming language tutorials are searched on Google, Python is currently the most popular language according to [PYPL](https://www.tiobe.com/tiobe-index/)
 
-![image-5.png](attachment:image-5.png)
+![image-5.png](images/ranking_languages_google.png)
 
 ## 2. Evolution of the language in the last 20 years <a name="subpar12"></a>
 
-![image-2.png](attachment:image-2.png)
+![image-2.png](images/ranking_languages_evolution.png)
 
 
 What makes this language so popular ?
