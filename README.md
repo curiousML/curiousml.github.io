@@ -17,8 +17,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
 
 - Master of Science : **Python** by [François HU](https://curiousml.github.io/)
-  - **[Why Python ?](teaching/why_python.html)**
-  - **[Installing Python](teaching/install_python.html)**
+  - **[Why Python ?](pages/why_python.html)**
+  - **[Installing Python](pages/install_python.html)**
   - **Datasets** : [[Iris]](teaching/epita-python/Iris.csv) [[Defra consumption]](teaching/epita-BML/defra_consumption.csv)
   - **Practical work 1** : Basics of Python [[Lecture]](teaching/epita-python/1_introduction_python.html) [[Notebook]](teaching/epita-python/1_introduction_python.ipynb)
   - **Practical work 2** : Application + Correction 1 [[Lecture]](teaching/epita-python/2_application_slides.html) [[Notebook]](teaching/epita-python/2_application.ipynb)
@@ -95,12 +95,3 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
 
 28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
-
-
-# Fun experimentations
-
-[Why Python ?](teaching/why_python.html)
-
-[Why Python 2 ?](pages/why_python.html)
-
-[Test page :)](./another-page.html)
