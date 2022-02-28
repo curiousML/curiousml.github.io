@@ -35,7 +35,7 @@ Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equat
 
 - Let us launch it:
 
-![image-5.png](anaconda_navigators2.png)
+![image-5.png](anaconda_navigators_2.png)
 
 **Remark:** since Python is a scripting language, there are several ways to use this language. The main ones are detailed below.
 
