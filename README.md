@@ -1,3 +1,5 @@
+
+
 # About me
 
 I am a Data Scientist and also a third year PhD Candidate in Machine Learning, Applied Mathematics and Insurance supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). Half of my research is carried out at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST - ENSAE](http://crest.science/)) and the other half at the DataLab of [Société Générale Insurance](https://www.assurances.societegenerale.com/fr/) directed by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). My current research focuses on the semi-supervised learning for textual data.
@@ -15,6 +17,10 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 # Teaching
 
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
+
+
+<details>
+<summary><font color="blue">More info</font></summary>
 
 - Master of Science : **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
@@ -48,7 +54,16 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb)
   - **Practical work 4** : MCMC samples [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
 
+
+</details>
+
+
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
+
+<details>
+<summary><font color="blue">More info</font></summary>
+
+
 - November 2019 : Text Mining
 - October 2020 : Text Mining
 - July 2021 : Text Mining and Active Learning
@@ -59,9 +74,15 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Animations** : [[RNN, forward propagation]](./teaching/DSA/RNNforward.html) [[RNN, back propagation]](./teaching/DSA/RNNbackprop.html) [[BRNN, forward propagation]](./teaching/DSA/BRNNforward.html)
   - **Practical work** : Topic modeling [[Notebook]](./teaching/DSA/dsa_nlp_tp.ipynb) [[Correction]](./teaching/DSA/dsa_nlp_tp_corr.html)
 
+</details>
+
+
 # Teaching assistant
 
 ## [ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...)
+
+<details>
+<summary><font color="blue">More info</font></summary>
 
 - 1A - semester 1 (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
@@ -92,6 +113,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
 
+</details>
+
+
 # Recent papers
 - Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). ArXiv: 2109.13642
 
@@ -102,3 +126,4 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
 
 28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
+
