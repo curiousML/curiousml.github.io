@@ -2,15 +2,15 @@
 
 The easiest way to install python (and some related data science toolkits) is to install [Anaconda](https://www.anaconda.com/products/individual-d).
 
-# 1. Anaconda <a name="subpar21"></a>
+## 1. Anaconda <a name="subpar21"></a>
 
 Anaconda is created by Continuum Analytics, and it is a Python distribution that comes preinstalled with lots of useful python libraries for data science. Installing ananconda enables you to have a functional python environment alongside with many tools for coding *data science / machine learning* projects.
 
-# 2. Step by step installation <a name="subpar22"></a>
+## 2. Step by step installation <a name="subpar22"></a>
 
 Let us install Anaconda, python and Jupyter Notebook
 
-## STEP 1 : Download & Install Anaconda
+### STEP 1 : Download & Install Anaconda
 
 - Go to https://www.anaconda.com/products/individual
 - Scroll down and choose the **adequate operating system**
@@ -27,7 +27,7 @@ Let us install Anaconda, python and Jupyter Notebook
 
 - Great, now you have the environment python (and as a bonus the language R) installed on your computer!
 
-## STEP 2 : Install Jupyter Notebook (and eventually Spyder)
+### STEP 2 : Install Jupyter Notebook (and eventually Spyder)
 
 - Install Jupyter Notebook. 
 
@@ -39,7 +39,7 @@ Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equat
 
 **Remark:** since Python is a scripting language, there are several ways to use this language. The main ones are detailed below.
 
-## STEP 3 : print hello world! with Jupyter Notebook
+### STEP 3 : print hello world! with Jupyter Notebook
 
 - After launching Jupyter Notebook you'll have the following window on your default browser (at least something roughly similar):
 
@@ -51,7 +51,7 @@ Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equat
 
 ![image-7.png](images/example_jupyter_first_code.png)
 
-## STEP 3b (OPTIONAL) : print hello world! with command line or Spyder
+### STEP 3b (OPTIONAL) : print hello world! with command line or Spyder
 
 **Command line**
 
