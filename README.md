@@ -18,10 +18,6 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
 
-
-<details>
-<summary><font color="blue">More info</font></summary>
-
 - Master of Science : **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
@@ -55,13 +51,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 4** : MCMC samples [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
 
 
-</details>
-
-
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
-
-<details>
-<summary><font color="blue">More info</font></summary>
 
 
 - November 2019 : Text Mining
@@ -74,15 +64,11 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Animations** : [[RNN, forward propagation]](./teaching/DSA/RNNforward.html) [[RNN, back propagation]](./teaching/DSA/RNNbackprop.html) [[BRNN, forward propagation]](./teaching/DSA/BRNNforward.html)
   - **Practical work** : Topic modeling [[Notebook]](./teaching/DSA/dsa_nlp_tp.ipynb) [[Correction]](./teaching/DSA/dsa_nlp_tp_corr.html)
 
-</details>
-
 
 # Teaching assistant
 
 ## [ENSAE - Institut polytechnique de Paris](https://www.ensae.fr/) (2019 - ...)
 
-<details>
-<summary><font color="blue">More info</font></summary>
 
 - 1A - semester 1 (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
@@ -112,8 +98,6 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
-
-</details>
 
 
 # Recent papers
