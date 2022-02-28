@@ -11,5 +11,3 @@ logo1: images/logo1.png
 logo2: images/logo2.png
 photo: images/logo.png
 linkedin: https://www.linkedin.com/in/fran%C3%A7ois-hu-9b6295136/?originalSubdomain=fr
-
-gem "github-pages", group: :jekyll_plugins
