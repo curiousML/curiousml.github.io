@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # About me
 
 I am a Data Scientist and also a third year PhD Candidate in Machine Learning, Applied Mathematics and Insurance supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). Half of my research is carried out at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST - ENSAE](http://crest.science/)) and the other half at the DataLab of [Société Générale Insurance](https://www.assurances.societegenerale.com/fr/) directed by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). My current research focuses on the semi-supervised learning for textual data.
@@ -96,3 +100,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
 
+
+# Fun experimentations
+
+[Why Python ?](teaching/why_python.html)
+
+[back](./)
