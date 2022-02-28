@@ -17,7 +17,7 @@ If we only take account on how often programming language tutorials are searched
 
 What makes this language so popular ?
 
-## 3. Some pros and cons <a name="subpar13"></a>
+## 3. Some pros <a name="subpar13"></a>
 
 We enumerate some of the (non-exhaustive) **reasons of its popularity**:
 
@@ -40,6 +40,8 @@ We enumerate some of the (non-exhaustive) **reasons of its popularity**:
 9. <b>Last but not least:</b> <font color="red">The community</font>. Often you can easily find answers to your questions in Python forums, blogs and/or lectures. Python is continuously improving with the help of its community members;
 
 However, Python has also **some drawbacks**.
+
+## 4. Some cons <a name="subpar14"></a>
 
 1. Python has **less packages** than Matlab and R *in their own domain of research*;
 
