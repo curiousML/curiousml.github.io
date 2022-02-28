@@ -1,5 +1,3 @@
-
-
 # About me
 
 I am a Data Scientist and also a third year PhD Candidate in Machine Learning, Applied Mathematics and Insurance supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). Half of my research is carried out at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST - ENSAE](http://crest.science/)) and the other half at the DataLab of [Société Générale Insurance](https://www.assurances.societegenerale.com/fr/) directed by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). My current research focuses on the semi-supervised learning for textual data.
@@ -21,8 +19,6 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - Master of Science : **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
-  - **Datasets** : 
-    [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
   - **Practical work 1** : Basics of Python 
     [[Lecture]](./teaching/epita-python/1_introduction_python.html) [[Notebook]](./teaching/epita-python/1_introduction_python.ipynb)
   - **Practical work 2** : Application + Correction 1 
@@ -36,6 +32,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 6** : Engineering tools 
     [[Lecture]](./teaching/epita-python/6_intro_engineering_slides.html)
   - **Addional exercices** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_corr.html)
+  - **Datasets** : 
+    [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
   - **Exam** : [[Exam]](teaching/epita-python/exam.ipynb)
 
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
