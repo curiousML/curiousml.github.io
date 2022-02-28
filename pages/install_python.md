@@ -15,7 +15,7 @@ Let us install Anaconda, python and Jupyter Notebook
 - Go to https://www.anaconda.com/products/individual
 - Scroll down and choose the **adequate operating system**
 
-![image-8.png](attachment:image-8.png)
+![image](anaconda_installers.png)
 
 - Be careful, Ananconda might ask you which python's version to choose. <font color="orange">*You have to choose Python 3.X*</font>: do not choose Python 2.X displayed bellow since it will not be updated or improved anymore.
 
@@ -23,7 +23,7 @@ Let us install Anaconda, python and Jupyter Notebook
 
 - Once the Anaconda ecosystem installed, you will have the following home screen of the Anaconda Navigator app
 
-![image-3.png](attachment:image-3.png)
+![image-3.png](anaconda_navigators.png)
 
 - Great, now you have the environment python (and as a bonus the language R) installed on your computer!
 
@@ -35,7 +35,7 @@ Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equat
 
 - Let us launch it:
 
-![image-5.png](attachment:image-5.png)
+![image-5.png](anaconda_navigators2.png)
 
 **Remark:** since Python is a scripting language, there are several ways to use this language. The main ones are detailed below.
 
@@ -43,13 +43,13 @@ Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equat
 
 - After launching Jupyter Notebook you'll have the following window on your default browser (at least something roughly similar):
 
-![image-6.png](attachment:image-6.png)
+![image-6.png](example_jupyter.png)
 
 - Click **New** and then select **Python 3**. A new window will be created: it's your Jupyter Notebook!
 
 - Congratulations you can now write your first python program:
 
-![image-7.png](attachment:image-7.png)
+![image-7.png](example_jupyter_first_code.png)
 
 #### STEP 3b (OPTIONAL) : print hello world! with command line or Spyder
 
