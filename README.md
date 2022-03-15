@@ -36,6 +36,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
     [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
   - **Exam** : [[Exam]](teaching/epita-python/exam.ipynb)
 
+- Master of Science in Artificial Intelligence Systems : **Python & Algorithm Workshop** by [François HU](https://curiousml.github.io/)
+  - In progress...
+
+- Master of Science in Artificial Intelligence Systems : **Numerical Algorithms** by [François HU](https://curiousml.github.io/)
+  - In progress...
+
 - Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
   - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
