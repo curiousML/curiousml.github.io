@@ -16,7 +16,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
 
-- Master of Science : **Python** by [François HU](https://curiousml.github.io/)
+Master of Science :
+
+- **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
   - **Practical work 1** : Basics of Python 
@@ -36,13 +38,15 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
     [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
   - **Exam** : [[Exam]](teaching/epita-python/exam.ipynb)
 
-- Master of Science in Artificial Intelligence Systems : **Python & Algorithm Workshop** by [François HU](https://curiousml.github.io/)
+Master of Science in Artificial Intelligence Systems :
+
+- **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
+  - In progress... 
+
+- **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
   - In progress...
 
-- Master of Science in Artificial Intelligence Systems : **Numerical Algorithms** by [François HU](https://curiousml.github.io/)
-  - In progress...
-
-- Master of Science in Artificial Intelligence Systems : **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
+- **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
   - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
   - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](./teaching/epita-BML/bayes_3_VI.pdf) 
