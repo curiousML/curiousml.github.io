@@ -18,6 +18,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 Master of Science :
 
+- **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
+  - In progress... 
+
 - **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
@@ -39,9 +42,6 @@ Master of Science :
   - **Exam** : [[Exam]](teaching/epita-python/exam.ipynb)
 
 Master of Science in Artificial Intelligence Systems :
-
-- **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
-  - In progress... 
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
   - In progress...
