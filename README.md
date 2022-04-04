@@ -19,32 +19,43 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 *Master of Science :*
 
 - **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
-  - In progress... 
+  - **Workshop 1** : Floating-point arithmetic (1/2) [In progress ...]
+  - **Workshop 2** : Floating-point arithmetic (2/2) [In progress ...]
+  - **Workshop 3** : Matrix representation and arithmetic (1/2) [In progress ...]
+  - **Workshop 4** : Matrix representation and arithmetic (2/2) [In progress ...]
+  - **Workshop 5** : Continuous optimization [In progress ...]
+  - **Workshop 6** : Interpolation and approximation [In progress ...]
+  - **Workshop 7** : Exam [In progress ...]
 
 - **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
   - **Practical work 1** : Basics of Python 
-    [[Lecture]](./teaching/epita-python/1_introduction_python.html) [[Notebook]](./teaching/epita-python/1_introduction_python.ipynb)
-  - **Practical work 2** : Application + Correction 1 
-    [[Lecture]](./teaching/epita-python/2_application_slides.html) [[Notebook]](./teaching/epita-python/2_application.ipynb)
+    [In progress ...]
+  - **Practical work 2** : Application
+    [In progress ...]
   - **Practical work 3** : Scientific Computing 
-    [[Lecture]](./teaching/epita-python/3_scientific_computing.html) [[Notebook]](./teaching/epita-python/3_scientific_computing.ipynb) [[Correction]](./teaching/epita-python/3_scientific_computing_corr.html) 
+    [In progress ...]
   - **Practical work 4** : Data Visualization 
-    [[Lecture]](./teaching/epita-python/4_dataviz.html) [[Notebook]](./teaching/epita-python/4_dataviz.ipynb) [[Correction]](./teaching/epita-python/4_dataviz_corr.html) 
+    [In progress ...]
   - **Practical work 5** : Data Manipulation 
-    [[Lecture]](./teaching/epita-python/5_dataframe.html) [[Notebook]](./teaching/epita-python/5_dataframe.ipynb) [[Correction]](./teaching/epita-python/5_dataframe_corr.html)
+    [In progress ...]
   - **Practical work 6** : Engineering tools 
-    [[Lecture]](./teaching/epita-python/6_intro_engineering_slides.html)
-  - **Additional exercices** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_corr.html)
+    [In progress ...]
+  - **Additional exercices** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb)
   - **Datasets** : 
     [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
-  - **Exam** : [[Exam]](teaching/epita-python/exam.ipynb)
+  - **Exam 14/01/2022** : [[Exam]](teaching/epita-python/exam.ipynb)
 
 *Master of Science in Artificial Intelligence Systems :*
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
-  - In progress...
+  - **Lecture 1** : [In progress ...]
+  - **Lecture 2** : [In progress ...]
+  - **Lecture 3** : [In progress ...]
+  - **Lecture 4** : [In progress ...]
+  - **Lecture 5** : [In progress ...]
+  - **Lecture 6** : [In progress ...]
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
