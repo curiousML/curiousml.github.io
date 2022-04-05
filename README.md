@@ -47,7 +47,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
     [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
   - **Exam** : [In progress ...]
   - ~~**Old lectures**~~ (still available) :
-    - [Basics of Python](./teaching/epita-python/1_introduction_python.html), [Basics of Python](./pages/1_introduction_python.html)
+    - [Basics of Python](./pages/epita-python/1_introduction_python.html)
     - [Scientific Computing](./pages/3_scientific_computing.html)
     - [Data Visualization](./pages/4_dataviz.html)
     - [Data Manipulation](./pages/5_dataframe.html)
