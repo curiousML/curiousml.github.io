@@ -51,7 +51,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
     - [Scientific Computing](./teaching/epita-python/3_scientific_computing.html)
     - [Data Visualization](./teaching/epita-python/4_dataviz.html)
     - [Data Manipulation](./teaching/epita-python/5_dataframe.html)
-    - [Engineering tools](./teaching/epita-python/6_intro_engineering.html)
+    - [Engineering tools](./teaching/epita-python/6_intro_engineering_slides.html)
     - [2022.01.14 Exam](teaching/epita-python/exam.ipynb)
 
 *Master of Science in Artificial Intelligence Systems :*
@@ -94,7 +94,6 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 # Teaching assistant
 
 ## [Institut polytechnique de Paris (ENSAE, Polytechnique)](https://www.ensae.fr/) (2019 - ...)
-
 
 - 1A - semester 1 (2019 - 2020) : **Algorithme et programmation** by [Xavier Dupré](http://www.xavierdupre.fr/)
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
