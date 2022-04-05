@@ -19,12 +19,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 *Master of Science :*
 
 - **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
-  - **Workshop 1** : Floating-point arithmetic (1/2) [In progress ...]
-  - **Workshop 2** : Floating-point arithmetic (2/2) [In progress ...]
-  - **Workshop 3** : Matrix representation and arithmetic (1/2) [In progress ...]
-  - **Workshop 4** : Matrix representation and arithmetic (2/2) [In progress ...]
-  - **Workshop 5** : Continuous optimization [In progress ...]
-  - **Workshop 6** : Interpolation and approximation [In progress ...]
+  - **Workshop 1** : Floating-point arithmetic [In progress ...]
+  - **Workshop 2** : Floating-point arithmetic [In progress ...]
+  - **Workshop 3** : Matrix representation and arithmetic [In progress ...]
+  - **Workshop 4** : Solving a linear system [In progress ...]
+  - **Workshop 5** : Evaluation and interpolation [In progress ...]
+  - **Workshop 6** : Equation solving [In progress ...]
   - **Workshop 7** : Exam [In progress ...]
 
 - **Python** by [François HU](https://curiousml.github.io/)
@@ -57,12 +57,12 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 *Master of Science in Artificial Intelligence Systems :*
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
-  - **Lecture 1** : [In progress ...]
-  - **Lecture 2** : [In progress ...]
-  - **Lecture 3** : [In progress ...]
-  - **Lecture 4** : [In progress ...]
-  - **Lecture 5** : [In progress ...]
-  - **Lecture 6** : [In progress ...]
+  - **Lecture 1** : Linear algebra and calculus refresher [In progress ...]
+  - **Lecture 2** : Numerical optimization (1/2) [In progress ...]
+  - **Lecture 3** : Numerical optimization (2/2) [In progress ...]
+  - **Lecture 4** : Numerical methods in linear algebra [In progress ...]
+  - **Lecture 5** : Machine learning applications [In progress ...]
+  - **Lecture 6** : Exam [In progress ...]
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
