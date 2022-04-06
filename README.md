@@ -31,7 +31,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
   - **Practical work 1** : Basics of Python 
-    [In progress ...]
+    [[Lecture]](./teaching/epita-python/1_introduction_python.html) [[Notebook]](./teaching/epita-python/1_introduction_python.ipynb)
   - **Practical work 2** : Application
     [In progress ...]
   - **Practical work 3** : Scientific Computing 
