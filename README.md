@@ -19,7 +19,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 *Master of Science :*
 
 - **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
-  - **Workshop 1** : Integers arithmetic [In progress ...]
+  - **Workshop 1** : Integer arithmetic [In progress ...]
   - **Workshop 2** : Floating-point arithmetic [In progress ...]
   - **Workshop 3** : Matrix representation and arithmetic [In progress ...]
   - **Workshop 4** : Solving a linear system [In progress ...]
