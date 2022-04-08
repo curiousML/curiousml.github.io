@@ -22,9 +22,9 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Workshop 1** : Integer arithmetic [In progress ...]
   - **Workshop 2** : Floating-point arithmetic [In progress ...]
   - **Workshop 3** : Matrix representation and arithmetic [In progress ...]
-  - **Workshop 4** : Solving a linear system [In progress ...]
-  - **Workshop 5** : Evaluation and interpolation [In progress ...]
-  - **Workshop 6** : Equation solving [In progress ...]
+  - **Workshop 4** : Solving linear systems [In progress ...]
+  - **Workshop 5** : Solving nonlinear systems [In progress ...]
+  - **Workshop 6** : Evaluation and interpolation [In progress ...]
   - **Workshop 7** : Exam [In progress ...]
 
 - **Python** by [François HU](https://curiousml.github.io/)
