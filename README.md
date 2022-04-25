@@ -20,7 +20,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
   - **Workshop 1** : Integer arithmetic [[Lecture]](./teaching/epita-AW/AW1_integers.pdf) [[Exercices ipynb]](./teaching/epita-AW/1_integer_python.ipynb) [[Exercices html]](./teaching/epita-AW/1_integer_python.html)
-  - **Workshop 2** : Floating-point arithmetic & (pseudo-)random numbers [[Lecture]](./teaching/epita-AW/1_integer_python.html) [[Notebook]](./teaching/epita-AW/1_integer_python.ipynb)
+  - **Workshop 2** : Floating-point arithmetic & (pseudo-)random numbers [[Lecture]](./teaching/epita-AW/2_float_python.html) [[Notebook]](./teaching/epita-AW/2_float_python.ipynb)
   - **Workshop 3** : Matrix representation and arithmetic [In progress ...]
   - **Workshop 4** : Solving linear systems [In progress ...]
   - **Workshop 5** : Solving nonlinear systems [In progress ...]
