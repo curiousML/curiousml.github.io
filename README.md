@@ -102,7 +102,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
 
 - 2A - semester 2 (2019 - 2021) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
-  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[Corr in R]](./teaching/2A-monte-carlo/TD1_corr.R) [[Written corr]](./teaching/2A-monte-carlo/TD1_MC.pdf) 
+  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[Corr in R]]() [[Written corr]]() 
   - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[Corr in R]](./teaching/2A-monte-carlo/TD2_code_corr.html)
   - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[Corr in R]](./teaching/2A-monte-carlo/TD3_code_corr.html) 
   - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [[Corr in R]](./teaching/2A-monte-carlo/TD4_code_corr.html)
