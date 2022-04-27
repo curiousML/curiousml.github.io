@@ -57,7 +57,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 *Master of Science in Artificial Intelligence Systems :*
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
-  - **Lecture 1** : Linear algebra and calculus refresher [In progress ...]
+  - **Lecture 1** : Calculus refresher 
+ [[Lecture]](./teaching/epita-NA/1_calculus_refresher_slides.html) [[Notebook]](./teaching/epita-NA/1_calculus_refresher.ipynb)
   - **Lecture 2** : Numerical optimization (1/2) [In progress ...]
   - **Lecture 3** : Numerical optimization (2/2) [In progress ...]
   - **Lecture 4** : Numerical methods in linear algebra [In progress ...]
