@@ -37,7 +37,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 3** : Scientific Computing 
     [[Lecture]](./teaching/epita-python/3_scientific_computing.html) [[Notebook]](./teaching/epita-python/3_scientific_computing.ipynb)
   - **Practical work 4** : Data Visualization 
-    [In progress ...]
+    [[Lecture]](./teaching/epita-python/4_dataviz.html) [[Notebook]](./teaching/epita-python/4_dataviz.ipynb)
   - **Practical work 5** : Data Manipulation 
     [In progress ...]
   - **Practical work 6** : Engineering tools 
@@ -67,15 +67,17 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
-  - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
-  - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](./teaching/epita-BML/bayes_3_VI.pdf) 
-  - **Lecture 4** : Markov Chain Monte Carlo [[Lecture]](./teaching/epita-BML/bayes_4_MCMC.pdf) 
-  - **Lecture 5** : [Oral presentations]
+  - **Lecture 2** : Latent Variable Models and EM-algorithm
+  - **Lecture 3** : Variational Inference and intro to NLP
+  - **Lecture 4** : Markov Chain Monte Carlo
+  - **Lecture 5** : Gaussian Process
+  - **Lecture 6** : [Oral presentations]
   - **Training session / prerequisite :** Statistics with python [[Notebook]](./teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](./teaching/epita-BML/defra_consumption.csv)
-  - **Practical work 1** : Conjugate distributions [[Notebook]](./teaching/epita-BML/conjugate_prior.ipynb) [[Correction]](./teaching/epita-BML/conjugate_prior_corr.html)
-  - **Practical work 2** : Probabilistic K-means and probabilistic PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb)
-  - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb)
-  - **Practical work 4** : MCMC samples [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
+  - **Practical work 1** : Conjugate distributions [[Notebook]](./teaching/epita-BML/conjugate_prior.ipynb)
+  - **Practical work 2** : Probabilistic K-means and probabilistic PCA
+  - **Practical work 3** : Topic Modeling with LDA
+  - **Practical work 4** : Gaussian Process
+
 
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
