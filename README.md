@@ -67,16 +67,16 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
-  - **Lecture 2** : Latent Variable Models and EM-algorithm
+  - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
   - **Lecture 3** : Variational Inference and intro to NLP
   - **Lecture 4** : Markov Chain Monte Carlo
   - **Lecture 5** : Gaussian Process
   - **Lecture 6** : [Oral presentations]
-  - **Training session / prerequisite :** Statistics with python [[Notebook]](./teaching/epita-BML/bayes_intro_statistics.ipynb), [[Data]](./teaching/epita-BML/defra_consumption.csv)
-  - **Practical work 1** : Conjugate distributions [[Notebook]](./teaching/epita-BML/conjugate_prior.ipynb)
-  - **Practical work 2** : Probabilistic K-means and probabilistic PCA
+  - **Practical work 1** : Naive Bayes Classifier [[Notebook]](./teaching/epita-BML/naive_bayes_classifier.ipynb)
+  - **Practical work 2** : Probabilistic K-means and PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb)
   - **Practical work 3** : Topic Modeling with LDA
-  - **Practical work 4** : Gaussian Process
+  - **Practical work 4** : Bayesian Linear Regression
+  - **Practical work 5** : Gaussian Process
 
 
 
