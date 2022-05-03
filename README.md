@@ -39,7 +39,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 4** : Data Visualization 
     [[Lecture]](./teaching/epita-python/4_dataviz.html) [[Notebook]](./teaching/epita-python/4_dataviz.ipynb)
   - **Practical work 5** : Data Manipulation 
-    [In progress ...]
+    [[Lecture]](./teaching/epita-python/5_dataframe.html) [[Notebook]](./teaching/epita-python/5_dataframe.ipynb)
   - **Practical work 6** : Engineering tools 
     [In progress ...]
   - **Additional exercices** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb)
