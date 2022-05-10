@@ -14054,10 +14054,10 @@ $$</p>
 <p>with
 $$
 B_i = \begin{bmatrix}
-   a_{0,0}  &amp; \cdots &amp; a_{0,i-1} &amp; b_0 &amp; a_{0,i-1} &amp; \cdots &amp; a_{0,n-1} \\
-   a_{1,0}  &amp; \cdots &amp; a_{1,i-1} &amp; b_1 &amp; a_{1,i-1} &amp; \cdots &amp; a_{1,n-1} \\
+   a_{0,0}  &amp; \cdots &amp; a_{0,i-1} &amp; b_0 &amp; a_{0,i+1} &amp; \cdots &amp; a_{0,n-1} \\
+   a_{1,0}  &amp; \cdots &amp; a_{1,i-1} &amp; b_1 &amp; a_{1,i+1} &amp; \cdots &amp; a_{1,n-1} \\
     &amp;  &amp;  &amp; \vdots &amp; \\
-   a_{n-1,0} &amp; \cdots &amp; a_{n-1,i-1} &amp; b_{n-1} &amp; a_{n-1,i-1}&amp; \cdots &amp; a_{n-1,n-1}
+   a_{n-1,0} &amp; \cdots &amp; a_{n-1,i-1} &amp; b_{n-1} &amp; a_{n-1,i+1}&amp; \cdots &amp; a_{n-1,n-1}
 \end{bmatrix}
 $$</p>
 <p>This method is <strong>very costly</strong>, as the calculation of a determinant by the co-factors is in $O(n!)$</p>
