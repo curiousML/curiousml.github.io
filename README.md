@@ -60,10 +60,10 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Calculus refresher 
  [[Lecture]](./teaching/epita-NA/1_calculus_refresher_slides.html) [[Notebook]](./teaching/epita-NA/1_calculus_refresher.ipynb)
-  - **Lecture 2** : Numerical unconstrained optimization
+  - **Lecture 2** : Unconstrained optimization
  [[Lecture]](./teaching/epita-NA/2_optim1_slides.html) [[Notebook]](./teaching/epita-NA/2_optim1.ipynb)
-  - **Lecture 3** : Numerical constrained optimization: SVM and penalization [In progress ...]
-  - **Lecture 4** : Numerical methods in linear algebra: SVD and PCA [In progress ...]
+  - **Lecture 3** : Constrained optimization [In progress ...]
+  - **Lecture 4** : Numerical methods in linear algebra [In progress ...]
   - **Lecture 5** : Machine learning applications [In progress ...]
   - **Lecture 6** : Exam [In progress ...]
 
