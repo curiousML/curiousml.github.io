@@ -14355,7 +14355,7 @@ $$<p><strong>pseudo-code of the LU decomposition:</strong></p>
     for i=0 to n-1 do:
         for j=i+1 to n-1 do:
             L[j, i] = (U[j, i]/U[i, i])
-            U[j, i..n-1] = U[j, i..n-1] - L[j, i..n-1] - L[j, i] * U[i, i:n-1]</code></pre>
+            U[j, i..] = U[j, i..] - L[j, i] * U[i, i..]</code></pre>
 <p><strong>Remarks:</strong>
 the naive approach may not give a solution if the pivot is zero, whereas the system can be solved
 (the Gauss pivot method requires exchanging rows in case of a zero pivot).</p>
