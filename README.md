@@ -25,7 +25,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Workshop 4** : Solving linear systems [[Lecture]](./teaching/epita-AW/4_linear_systems.html) [[Notebook]](./teaching/epita-AW/4_linear_systems.ipynb)
   - **Workshop 5** : Solving nonlinear systems [[Lecture]](./teaching/epita-AW/5_nonlinear_systems.html) [[Notebook]](./teaching/epita-AW/5_nonlinear_systems.ipynb)
   - **Workshop 6** : Evaluation and interpolation [In progress ...]
-  - **Workshop 7** : Exam [In progress ...]
+  - **Workshop 7** : Exam
 
 - **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
@@ -65,7 +65,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 3** : Constrained optimization [In progress ...]
   - **Lecture 4** : Numerical methods in linear algebra [In progress ...]
   - **Lecture 5** : Machine learning applications [In progress ...]
-  - **Lecture 6** : Exam [In progress ...]
+  - **Lecture 6** : Exam
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) 
