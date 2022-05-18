@@ -23,7 +23,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Workshop 2** : Floating-point arithmetic & pseudo-random numbers [[Lecture]](./teaching/epita-AW/2_float_python.html) [[Notebook]](./teaching/epita-AW/2_float_python.ipynb)
   - **Workshop 3** : Matrix representation and arithmetic [[Lecture]](./teaching/epita-AW/3_matrix_python.html) [[Notebook]](./teaching/epita-AW/3_matrix_python.ipynb)
   - **Workshop 4** : Solving linear systems [[Lecture]](./teaching/epita-AW/4_linear_systems.html) [[Notebook]](./teaching/epita-AW/4_linear_systems.ipynb)
-  - **Workshop 5** : Solving nonlinear systems [In progress ...]
+  - **Workshop 5** : Solving nonlinear systems [[Lecture]](./teaching/epita-AW/5_nonlinear_systems.html) [[Notebook]](./teaching/epita-AW/5_nonlinear_systems.ipynb)
   - **Workshop 6** : Evaluation and interpolation [In progress ...]
   - **Workshop 7** : Exam [In progress ...]
 
