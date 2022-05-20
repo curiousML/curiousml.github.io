@@ -66,7 +66,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 4** : Numerical methods in linear algebra [In progress ...]
   - **Lecture 5** : Machine learning applications [In progress ...]
   - **Lecture 6** : Exam **-> Titanic challenge**
-  - **Practical work 1** : [[Linear regression (and SVM)]](./teaching/epita-NA/3_application_linear.ipynb)
+  - **Practical work 1** : Linear regression (and SVM) [[Notebook]](./teaching/epita-NA/3_application_linear.ipynb)
   - **Practical work 2** : Ridge regression
   - **Practical work 3** : SVD and PCA
 
