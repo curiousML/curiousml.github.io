@@ -71,17 +71,23 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 3** : SVD and PCA
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
-  - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf) (p85 ex1, bonus point: 1)
+  - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf)
   - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
   - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](./teaching/epita-BML/bayes_3_VI.pdf) 
-  - **Lecture 4** : Markov Chain Monte Carlo & Gaussian Process [In progress ...]
+  - **Lecture 4** : Markov Chain Monte Carlo (& Gaussian Process) [In progress ...]
   - **Lecture 5** : [Oral presentations]
-  - **Practical work 1** : Naive Bayes Classifier [[Notebook]](./teaching/epita-BML/naive_bayes_classifier.ipynb) (bonus point: 1)
-  - **Practical work 2** : GMM, Probabilistic K-means and PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb) (bonus point: 2)
-  - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb) (bonus point: 0.5)
-  - **Practical work 4** : MCMC [In progress ...] (bonus point: 0.5)
-  - **Practical work 5** : Bayesian Linear Regression [In progress ...] (bonus point: 1)
-
+  - **Practical work 1** : Naive Bayes Classifier [[Notebook]](./teaching/epita-BML/naive_bayes_classifier.ipynb)
+  - **Practical work 2** : GMM, Probabilistic K-means and PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb)
+  - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb)
+  - **Practical work 4** : MCMC [In progress ...]
+  - **Practical work 5** : Bayesian Linear Regression [In progress ...]
+  - **Bonus points** :
+    - 1pt: p85-ex1 of Lecture 1
+    - 1pt: PW1
+    - 2pt: PW2
+    - 0.5pt: PW3
+    - 0.5pt: PW4
+    - 1pt: PW5
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 
