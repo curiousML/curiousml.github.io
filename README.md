@@ -79,7 +79,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Practical work 1** : Naive Bayes Classifier [[Notebook]](./teaching/epita-BML/naive_bayes_classifier.ipynb)
   - **Practical work 2** : GMM, Probabilistic K-means and PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb)
   - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb)
-  - **Practical work 4** : Sampling a posterior with MCMC [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
+  - **Practical work 4** : Sampling posteriors with MCMC [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
   - **Practical work 5** : Bayesian Linear Regression [[Notebook]](./teaching/epita-BML/bayesian_linear_regression.ipynb)
   - **Bonus points** : p85-ex1 of Lecture 1 (0.5pt); PW1 (1pt); PW2 (2pt); PW3 (0.5pt); PW4 (1pt); PW5 (1pt)
 
