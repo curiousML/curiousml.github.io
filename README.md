@@ -42,8 +42,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
     [[Lecture]](./teaching/epita-python/5_dataframe.html) [[Notebook]](./teaching/epita-python/5_dataframe.ipynb) [[Correction]](./teaching/epita-python/5_dataframe_corr.html)
   - **Practical work 6** : Engineering tools 
     [[Lecture]](./teaching/epita-python/6_intro_engineering_slides.html)
-  - **Additional exercices (basics of python)** : [[Exercices]](./teaching/epita-python/6_additional_exercices_basics.html) [[Notebook]](teaching/epita-python/6_additional_exercices_basics.ipynb)
-  - **Additional exercices (exam-like)** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb)
+  - **Additional exercices (basics of python)** : [[Exercices]](./teaching/epita-python/6_additional_exercices_basics.html) [[Notebook]](teaching/epita-python/6_additional_exercices_basics.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_basics_corr.html)
+  - **Additional exercices (exam-like)** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_corr.html)
   - **Datasets** : 
     [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
   - **Exam** : [In progress ...]
