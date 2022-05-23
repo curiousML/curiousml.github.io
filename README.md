@@ -75,13 +75,13 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
   - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](./teaching/epita-BML/bayes_3_VI.pdf) 
   - **Lecture 4** : Markov Chain Monte Carlo (& Gaussian Process) [[Lecture]](./teaching/epita-BML/bayes_4_MCMC.pdf) 
-  - **Lecture 5** : [Oral presentations] **-> Topic modeling, Bayesian optimization, Uncertainty and t-SNE**
+  - **Lecture 5** : [Oral presentations]**-> Topic models, Bayesian optimization, Uncertainty and t-SNE**
   - **Practical work 1** : Naive Bayes Classifier [[Notebook]](./teaching/epita-BML/naive_bayes_classifier.ipynb)
   - **Practical work 2** : GMM, Probabilistic K-means and PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb)
   - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb)
   - **Practical work 4** : Sampling posteriors with MCMC [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
   - **Practical work 5** : Bayesian Linear Regression [[Notebook]](./teaching/epita-BML/bayesian_linear_regression.ipynb)
-  - **Bonus points** : p85-ex1 of Lecture 1 (0.5pt); PW1 (1pt); PW2 (2pt); PW3 (0.5pt); PW4 (1pt); PW5 (1pt)
+  - **Bonus points** : p85-ex1 Lecture1 (0.5pt); PW1 (1pt); PW2 (2pt); PW3 (0.5pt); PW4 (1pt); PW5 (1pt)
 
 ## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 
