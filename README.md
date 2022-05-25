@@ -46,7 +46,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Additional exercices (exam-like)** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_corr.html)
   - **Datasets** : 
     [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
-  - **Exam** : 
+  - **Exam** : [2022.05.25 Exam](teaching/epita-python/firstname_lastname.ipynb)
   - ~~**Old lectures**~~ (still available) :
     - [Basics of Python](./pages/1_introduction_python.html)
     - [Scientific Computing](./pages/3_scientific_computing.html)
