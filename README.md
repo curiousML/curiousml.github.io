@@ -66,9 +66,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
   - **Lecture 4** : Numerical methods in linear algebra [[Lecture]](./teaching/epita-NA/4_linalg_ml_lecture_slides.html) 
   - **Lecture 5** : Machine learning applications
   - **Lecture 6** : [Oral presentations]**-> Titanic challenge**
-  - **Practical work 1** : Linear regression (and SVM) [[Notebook]](./teaching/epita-NA/3_application_linear.ipynb)
-  - **Practical work 2** : Ridge regression 
-  - **Practical work 3** : PCA [[Notebook]](./teaching/epita-NA/4_application_pca.ipynb)
+  - **Practical work** : Linear/Logistic regression, PCA (and SVM) [[Notebook]](./teaching/epita-NA/5_application_ml_all.ipynb)
+
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf)
