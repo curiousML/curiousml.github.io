@@ -1,6 +1,6 @@
 # About me
 
-I am a Data Scientist and lecturer in Machine Learning. My PhD thesis (2018-2022) in Applied Mathematics (Machine Learning / Insurance) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST - ENSAE](http://crest.science/)) was upervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home), [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html) and [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). I worked for 4 years as a data scientist in the Datalab of Société Générale Insurance. My current research focuses on the semi-supervised learning for textual data.
+I am a Data Scientist and lecturer in Machine Learning. My PhD thesis (2018-2022) in Applied Mathematics (Machine Learning / Insurance) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST - ENSAE](http://crest.science/)) was supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home), [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html) and [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). I worked for 4 years as a data scientist in the Datalab of Société Générale Insurance. My current research focuses on the semi-supervised learning for unstructured data (texts, images and voices).
 
 # Research
 
