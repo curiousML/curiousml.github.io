@@ -1,13 +1,16 @@
 # About me
 
-I am a Data Scientist and lecturer in Machine Learning. My PhD thesis (2018-2022) in Applied Mathematics (Machine Learning / Insurance) at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST - ENSAE](http://crest.science/)) was supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home), [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html) and [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). I worked for 4 years as a data scientist in the Datalab of Société Générale Insurance. My current research focuses on the semi-supervised learning for unstructured data (texts, images and voices).
+I am a PhD Data Scientist and lecturer in Machine Learning and statistics (at ENSAE, EPITA and Insitut des Actuaires). In a nutshell...
+- **Since 2022**: Postdoctoral Position in the Department of Mathematics and Statistics at l’[Université de Montréal](https://www.umontreal.ca/) (UdeM) under the supervision of [Manuel Morales](https://www.manuelmorales.org/) and [Arthur Charpentier](https://freakonometrics.github.io/).
+- **Apr.2019-2022**: PhD thesis in Statistical/Machine Learning and Insurance at [CREST](http://crest.science/)-[ENSAE](https://www.ensae.fr/) [Institut Polytechnique de Paris](https://www.ip-paris.fr/) entitled *Semi-supervised learning in insurance: Fairness and Active Learning* was supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html).
+- **Apr.2018-2022**: Data scientist in the Datalab of [Société Générale](https://particuliers.societegenerale.fr/) Insurance under the supervision of [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard).
 
 # Research
 
 My topics of interest are the following :
 - Natural Language Processing
-- Semi-supervised learning and sampling methods
 - ML fairness and transparency in insurance domain
+- Semi-supervised learning and sampling methods
 - Imbalanced dataset analysis
 
 More broadly I am interested in mathematics behind Machine Learning and Deep Learning.
