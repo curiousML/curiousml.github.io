@@ -140,14 +140,16 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - François HU (2022). [PhD Thesis](papers/SLIDES_PhD_defense_HU_VF.pdf) (Prix de la meilleure thèse en Actuariat)
 
+- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
+
 - Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). ArXiv: 2109.13642
 
-- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
+
 
 # Recent talks
 
 15/06/22 - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  (Prix de la meilleure thèse en Actuariat)
 
-29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
-
 28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
+
+29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
