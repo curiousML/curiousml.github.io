@@ -148,7 +148,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Recent talks
 
-15/06/22 - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  (Award for the best thesis in Actuarial Science)
+15/06/22 - [[PhD Defense]](talks/SLIDES_PhD_defense_HU_VF.pdf)  (Award for the best thesis in Actuarial Science)
 
 28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
 
