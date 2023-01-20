@@ -2,7 +2,7 @@
 
 I am a Data Scientist PhD and lecturer in Machine Learning and statistics (at ENSAE, EPITA and Insitut des Actuaires). In a nutshell...
 - **Since 2022**: Postdoctoral Researcher in the Department of Mathematics and Statistics at l’[Université de Montréal](https://www.umontreal.ca/) (UdeM) under the supervision of [Manuel Morales](https://www.manuelmorales.org/) and [Arthur Charpentier](https://freakonometrics.github.io/).
-- **Apr.2019-2022**: PhD thesis in Statistical/Machine Learning and Insurance at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST](http://crest.science/)-[ENSAE](https://www.ensae.fr/)) entitled *Semi-supervised learning in insurance: Fairness and Labeling* was supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html).
+- **Apr.2019-2022**: PhD thesis in Statistical/Machine Learning and Insurance at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST](http://crest.science/)-[ENSAE](https://www.ensae.fr/)) entitled *Semi-supervised learning in insurance: Fairness and Labeling* was supervised by [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). <b><font color = "red">Award for the best thesis in Actuarial Science</font></b>
 - **Apr.2018-2022**: 4 years of industry experience in Data Science in the Datalab of [Société Générale](https://particuliers.societegenerale.fr/) Insurance supervised by [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). 
 
 # Research
@@ -148,7 +148,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Recent talks
 
-15/06/22 - [[PhD Defense]](talks/SLIDES_PhD_defense_HU_VF.pdf)  (Award for the best thesis in Actuarial Science)
+15/06/22 - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  (Award for the best thesis in Actuarial Science)
 
 28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
 
