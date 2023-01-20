@@ -138,7 +138,7 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 # Recent papers
 
-- François HU (2022). [PhD Thesis](papers/SLIDES_PhD_defense_HU_VF.pdf) (Award for the best thesis in Actuarial Science)
+- François HU (2022). [PhD Thesis](research/SLIDES_PhD_defense_HU_VF.pdf) (Award for the best thesis in Actuarial Science)
 
 - Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
 
