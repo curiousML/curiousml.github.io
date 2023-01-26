@@ -22,11 +22,11 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 **Recent papers**
 
-- François HU (2022). [PhD Thesis](research/TheseFrancoisHUSubmitted.pdf) ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
+2022 - [PhD Thesis](research/TheseFrancoisHUSubmitted.pdf). François HU ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
 
-- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
+2021 - [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu.
 
-- Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). ArXiv: 2109.13642
+2021 - [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). Romuald Elie, Caroline Hillairet, François HU and Marc Juillard.
 
 
 
