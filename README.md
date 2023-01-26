@@ -31,8 +31,8 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 **Recent talks**
 
 - **15/06/22** - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
-- **28/04/20** - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
-- **29/11/19** - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
+- **28/04/20** - [OICA](https://oica.univ-lyon1.fr/): Efficient labeling with active learning [[slides]](talks/HU_OICA_slides.pdf)
+- **29/11/19** - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128): Active learning for the detection of categories in text fields [[slides]](talks/100DS.pdf)
 
 # Teaching
 
