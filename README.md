@@ -20,7 +20,7 @@ My topics of interest are the following :
 
 **Recent papers**
 
-- **2022** - [PhD Thesis](research/TheseFrancoisHUSubmitted.pdf). François HU ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
+- **2022** PhD Thesis - [Semi-supervised learning in insurance: Fairness and Labeling](research/TheseFrancoisHUSubmitted.pdf). François HU -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
 - **2021** Arxiv - [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu.
 - **2021** Arxiv - [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). Romuald Elie, Caroline Hillairet, François HU and Marc Juillard.
 
@@ -28,9 +28,9 @@ My topics of interest are the following :
 
 **Recent talks**
 
-- **15/06/22** - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
-- **28/04/20** - [OICA](https://oica.univ-lyon1.fr/): Efficient labeling with active learning [[slides]](talks/HU_OICA_slides.pdf)
-- **29/11/19** - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128): Active learning for the detection of categories in text fields [[slides]](talks/100DS.pdf)
+- **15/06/22** - PhD Defense [[slides]](talks/SLIDES_PhD_defense_HU_VF.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
+- **28/04/20** [OICA](https://oica.univ-lyon1.fr/) - Efficient labeling with active learning [[slides]](talks/HU_OICA_slides.pdf)
+- **29/11/19** [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) - Active learning for the detection of categories in text fields [[slides]](talks/100DS.pdf)
 
 # Teaching
 
