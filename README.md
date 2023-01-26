@@ -19,6 +19,25 @@ My topics of interest are the following :
 
 More broadly I am interested in mathematics behind Machine Learning and Deep Learning.
 
+
+**Recent papers**
+
+- François HU (2022). [PhD Thesis](research/TheseFrancoisHUSubmitted.pdf) ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
+
+- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
+
+- Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). ArXiv: 2109.13642
+
+
+
+**Recent talks**
+
+15/06/22 - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
+
+28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
+
+29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
+
 # Teaching
 
 ## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
@@ -138,22 +157,3 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
-
-
-# Recent papers
-
-- François HU (2022). [PhD Thesis](research/TheseFrancoisHUSubmitted.pdf) ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
-
-- Romuald Elie, Caroline Hillairet, François HU and Marc Juillard (2021). [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). arXiv:2112.09466
-
-- Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu (2021). [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). ArXiv: 2109.13642
-
-
-
-# Recent talks
-
-15/06/22 - [PhD Defense](talks/SLIDES_PhD_defense_HU_VF.pdf)  ([Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/))
-
-28/04/20 - [OICA](https://oica.univ-lyon1.fr/) : Efficient labeling with active learning [[Slides EN]](talks/HU_OICA_slides.pdf)
-
-29/11/19 - [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) : Active learning for the detection of categories in text fields [[Slides FR]](talks/100DS.pdf)
