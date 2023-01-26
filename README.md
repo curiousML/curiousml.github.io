@@ -17,8 +17,6 @@ My topics of interest are the following :
 - Semi-supervised learning and sampling methods
 - Machine learning in Insurance & Finance
 
-More broadly I am interested in mathematics behind Machine Learning and Deep Learning.
-
 
 **Recent papers**
 
@@ -109,11 +107,11 @@ More broadly I am interested in mathematics behind Machine Learning and Deep Lea
 
 - November 2019 : Text Mining
 - October 2020 : Text Mining
-- July 2021 : Text Mining and Active Learning
+- July 2021 : Text Mining and Introduction to Active Learning
   - **Introduction** : Preprocessing in NLP [[Lecture]](./teaching/DSA/dsa_nlp_introduction.pdf)
   - **Lecture 1** : vector representations and topic models [[Lecture]](./teaching/DSA/dsa_nlp_lecture1.pdf)
   - **Lecture 2** : Deep Learning for NLP [[Lecture]](./teaching/DSA/dsa_nlp_lecture2.pdf)
-  - **Lecture 3** : Active Learning [[Lecture in HTML (recommended)]](./teaching/DSA/Annotations.html), [[Lecture in pdf]](./teaching/DSA/dsa_nlp_lecture3.pdf)
+  - **Lecture 3** : Introduction to Active Learning [[Lecture]](./teaching/DSA/Annotations.html)
   - **Animations** : 
     - [RNN, forward propagation](./teaching/DSA/RNNforward.html) 
     - [RNN, back propagation](./teaching/DSA/RNNbackprop.html) 
