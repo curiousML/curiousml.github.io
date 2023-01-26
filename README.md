@@ -12,10 +12,10 @@ I am a Data Scientist (PhD) and lecturer in machine learning and computational s
 # Research
 
 My topics of interest are the following :
-- Natural Language Processing
-- ML fairness and transparency
-- Semi-supervised learning and sampling methods
-- Machine learning in Insurance & Finance
+- ML in Insurance & Finance
+- ML fairness & transparency
+- NLP in ESG Reporting for Sustainable Finance
+- Semi-supervised learning & sampling methods
 
 
 **Recent papers**
