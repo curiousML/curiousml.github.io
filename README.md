@@ -1,6 +1,6 @@
 # About me
 
-I am a Data Scientist PhD and lecturer in Machine Learning and statistics (at ENSAE, EPITA and Insitut des Actuaires). In a nutshell...
+I am a Data Scientist (PhD) and lecturer in Machine Learning and statistics (at ENSAE, EPITA and Institut des Actuaires). In a nutshell...
 - **Since 2022**: Postdoctoral Researcher in the Department of Mathematics and Statistics at l’[Université de Montréal](https://www.umontreal.ca/) (UdeM) under the supervision of [Manuel Morales](https://www.manuelmorales.org/) and [Arthur Charpentier](https://freakonometrics.github.io/).
 
 - **Apr.2019-2022**: [Award for the best thesis in actuarial science in France](https://www.institutdesactuaires.com/news/ceremonie-de-remise-des-prix-actuariat-2022-5762).
