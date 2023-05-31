@@ -16,6 +16,7 @@ I am a Data Scientist (PhD) and lecturer in machine learning and computational s
 My topics of interest are the following :
 - ML in Insurance & Finance
 - ML fairness & transparency
+- ML-based for Early Warning Systems
 - NLP in ESG Reporting for Sustainable Finance
 - Semi-supervised learning & sampling methods
 
