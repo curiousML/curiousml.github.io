@@ -23,6 +23,8 @@ My topics of interest are the following :
 
 **Recent papers**
 
+- **2023** ECML-PKDD 2023 - [Fairness in Multi-Task Learning via Wasserstein Barycenters](http://arxiv.org/abs/2306.10155).
+François Hu, Philipp Ratz and Arthur Charpentier
 - **2022** PhD Thesis - [Fairness and Labeling for multi-class problems](research/TheseFrancoisHUSubmitted.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
 - **2021** Arxiv - [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu.
 - **2021** Arxiv - [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). Romuald Elie, Caroline Hillairet, François HU and Marc Juillard.
