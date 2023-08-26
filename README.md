@@ -23,14 +23,14 @@ My topics of interest are the following :
 
 **Recent papers**
 
-- **2023** Arxiv - [Addressing Fairness and Explainability in Image Classification Using Optimal Transport](https://arxiv.org/abs/2308.11090). Philipp Ratz, François Hu and Arthur Charpentier
+- **2023** Arxiv - [Addressing Fairness and Explainability in Image Classification Using Optimal Transport](https://arxiv.org/abs/2308.11090). P. Ratz, F. Hu and A. Charpentier
 - **2023** BIAS (*ECML-PKDD Workshop*) - [Mitigating Discrimination in Insurance with Wasserstein Barycenters](https://arxiv.org/abs/2306.12912).
-Arthur Charpentier, François Hu and Philipp Ratz 
+A. Charpentier, F. Hu and P. Ratz 
 - **2023** ECML-PKDD (*Research Track*) - [Fairness in Multi-Task Learning via Wasserstein Barycenters](http://arxiv.org/abs/2306.10155).
-François Hu, Philipp Ratz and Arthur Charpentier
+F. Hu, P. Ratz and A. Charpentier
 - **2022** PhD Thesis - [Fairness and Labeling for multi-class problems](research/TheseFrancoisHUSubmitted.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
-- **2021** Arxiv - [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). Christophe Denis, Romuald Elie, Mohamed Hebiri and François Hu.
-- **2021** Arxiv - [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). Romuald Elie, Caroline Hillairet, François HU and Marc Juillard.
+- **2021** Arxiv - [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642). C. Denis, R. Elie, M. Hebiri and F. Hu.
+- **2021** Arxiv - [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466). R. Elie, C. Hillairet, F. HU and M. Juillard.
 
 
 
