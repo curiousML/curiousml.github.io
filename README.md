@@ -35,7 +35,8 @@ My topics of interest are the following :
    - Authors: F. Hu, P. Ratz and A. Charpentier
    - (Pre-)publication: *ECML-PKDD 2023 Research Track*
    
-- **2022** [Fairness and Labeling for multi-class problems](research/TheseFrancoisHUSubmitted.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/).
+- **2022** [Fairness and Labeling for multi-class problems](research/TheseFrancoisHUSubmitted.pdf)
+   - **[SCOR 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/):** Awarded best actuarial thesis in France in 2022
    - *PhD Thesis*
  
 - **2021** [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642).
