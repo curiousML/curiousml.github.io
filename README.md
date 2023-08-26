@@ -21,7 +21,7 @@ My topics of interest are the following :
 - Semi-supervised learning & sampling methods
 
 
-## Recent papers
+**Recent papers**
 
 - **2023** [Fairness in Multi-Task Learning via Wasserstein Barycenters](http://arxiv.org/abs/2306.10155)
    - Authors: F. Hu, P. Ratz and A. Charpentier
@@ -48,7 +48,7 @@ My topics of interest are the following :
    - (Pre-)publication: *Arxiv*.
 
 
-## Recent talks
+**Recent talks**
 
 - **07/02/22** [Institut des actuaires](https://www.institutdesactuaires.com/agenda/equite-et-apprentissage-actif-dans-les-problemes-multi-classes-3914) - Fairness and Labeling for multi-class problems: application [[slides]](talks/TheseHuAppliedPDF.pdf)
 - **15/06/22** - PhD Defense [[slides]](talks/SLIDES_PhD_defense_HU_VF.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
@@ -57,7 +57,7 @@ My topics of interest are the following :
 
 # Teaching
 
-## [EPITA - École pour l'informatique et les techniques avancées](https://www.epita.fr/) (2020 - ...)
+## [EPITA](https://www.epita.fr/) (2020 - ...)
 
 *Master of Science :*
 
@@ -125,8 +125,9 @@ My topics of interest are the following :
   - **Practical work 5** : Bayesian Linear Regression [[Notebook]](./teaching/epita-BML/bayesian_linear_regression.ipynb)
   - **Bonus points** : p85-ex1 Lec1 (0.5pt); PW1 (1pt); PW2 (2pt); PW3 (0.5pt); PW4 (1pt); PW5 (1pt)
 
-## [Institut des Actuaires - Formation Data Science pour l'Actuaire](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
+## [Institut des Actuaires](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
 
+*Formation Data Science pour l'Actuaire :*
 
 - November 2019 : Text Mining
 - October 2020 : Text Mining
