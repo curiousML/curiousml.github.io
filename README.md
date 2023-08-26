@@ -23,6 +23,9 @@ My topics of interest are the following :
 
 **Recent papers**
 
+- **2023** Arxiv - [Addressing Fairness and Explainability in Image Classification Using Optimal Transport](https://arxiv.org/abs/2308.11090). Philipp Ratz, François Hu and Arthur Charpentier
+- **2023** BIAS (*ECML-PKDD Workshop*) - [Mitigating Discrimination in Insurance with Wasserstein Barycenters](https://arxiv.org/abs/2306.12912).
+Arthur Charpentier, François Hu and Philipp Ratz 
 - **2023** ECML-PKDD (*Research Track*) - [Fairness in Multi-Task Learning via Wasserstein Barycenters](http://arxiv.org/abs/2306.10155).
 François Hu, Philipp Ratz and Arthur Charpentier
 - **2022** PhD Thesis - [Fairness and Labeling for multi-class problems](research/TheseFrancoisHUSubmitted.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
