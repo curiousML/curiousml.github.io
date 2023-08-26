@@ -21,7 +21,7 @@ My topics of interest are the following :
 - Semi-supervised learning & sampling methods
 
 
-**Recent papers**
+## Recent papers
 
 - **2023** [Fairness in Multi-Task Learning via Wasserstein Barycenters](http://arxiv.org/abs/2306.10155)
    - Authors: F. Hu, P. Ratz and A. Charpentier
@@ -48,7 +48,7 @@ My topics of interest are the following :
    - (Pre-)publication: *Arxiv*.
 
 
-**Recent talks**
+## Recent talks
 
 - **07/02/22** [Institut des actuaires](https://www.institutdesactuaires.com/agenda/equite-et-apprentissage-actif-dans-les-problemes-multi-classes-3914) - Fairness and Labeling for multi-class problems: application [[slides]](talks/TheseHuAppliedPDF.pdf)
 - **15/06/22** - PhD Defense [[slides]](talks/SLIDES_PhD_defense_HU_VF.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
