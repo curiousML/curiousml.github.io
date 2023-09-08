@@ -9,11 +9,11 @@ I am currently engaged in collaborative research within multiple domains, notabl
 2. **Epidemiology / Biostatistics**: I also work on the project "*Design and implementation of an early warning system for infectious diseases*" which is part of the [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health) (Mfph) initiative.
 3. **Statistics**: I specialize in the domain of algorithmic fairness, particularly within the context of statistical (machine/deep) and mathematical models.
 
-**2019-2022:** [Award for the best thesis in actuarial science in France](https://www.institutdesactuaires.com/news/ceremonie-de-remise-des-prix-actuariat-2022-5762). 
+**2019 - 2022:** [Award for the best thesis in actuarial science in France](https://www.institutdesactuaires.com/news/ceremonie-de-remise-des-prix-actuariat-2022-5762). 
 
 PhD thesis in Machine Learning and Insurance at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST](http://crest.science/)-[ENSAE](https://www.ensae.fr/)) entitled *Semi-supervised learning in insurance: Fairness and Labeling* with [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html).
 
-**2018-2022:** 4 years of industry experience in Data Science in the Datalab of [Société Générale](https://particuliers.societegenerale.fr/) Insurance with [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). 
+**2018 - 2022:** 4 years of industry experience in Data Science in the Datalab of [Société Générale](https://particuliers.societegenerale.fr/) Insurance with [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard). 
 
 # Research
 
