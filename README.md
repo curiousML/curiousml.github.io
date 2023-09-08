@@ -2,7 +2,7 @@
 
 I am a senior data scientist (PhD) and lecturer in machine learning and computational statistics at ENSAE, EPITA and Institut des Actuaires. In a nutshell...
 
-**Since 2022:** Postdoctoral Researcher in the Department of Mathematics and Statistics at l’[Université de Montréal](https://www.umontreal.ca/) (UdeM) with [Arthur Charpentier](https://freakonometrics.github.io/) and [Manuel Morales](https://www.manuelmorales.org/). 
+**Since 2022:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) with [Arthur Charpentier] (UQAM)(https://freakonometrics.github.io/) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). 
 
 I am currently engaged in collaborative research within multiple domains, notably in:
 1. **Finance**: I am currently collaborating on a research project in sustainable finance with [Algora Lab](https://algoralab.ca/fr/lalgora-lab/), an interdisciplinary laboratory jointly affiliated with the University of Montreal (UdeM) and the research institute [Mila](https://mila.quebec/mila/).
