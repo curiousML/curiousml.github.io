@@ -21,7 +21,7 @@ My topics of interest are the following :
 - ML in Insurance & Finance
 - ML fairness & transparency
 - ML-based for Early Warning Systems
-- NLP in ESG Reporting for Sustainable Finance
+- NLP related topics. _Examples_: ESG Reporting for Sustainable Finance, news and posts about infectious diseases, ...
 - Semi-supervised learning & sampling methods
 
 
