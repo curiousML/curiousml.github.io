@@ -5,9 +5,9 @@ I am a senior data scientist (PhD) and lecturer in machine learning and computat
 **Since 2022:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). 
 
 I am currently engaged in collaborative research within multiple domains, notably in:
-1. **Finance**: I am currently collaborating on a research project in sustainable finance with [Algora Lab](https://algoralab.ca/fr/lalgora-lab/), an interdisciplinary laboratory jointly affiliated with the University of Montreal (UdeM) and the research institute [Mila](https://mila.quebec/mila/).
+1. **Statistics**: I specialize in the domain of algorithmic fairness, particularly within the context of statistical (machine/deep) and mathematical models.
 2. **Epidemiology / Biostatistics**: I also work on the project "*Design and implementation of an early warning system for infectious diseases*" which is part of the [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health) (Mfph) initiative.
-3. **Statistics**: I specialize in the domain of algorithmic fairness, particularly within the context of statistical (machine/deep) and mathematical models.
+3. **Finance**: I am collaborating on a research project in sustainable finance with [Algora Lab](https://algoralab.ca/fr/lalgora-lab/), an interdisciplinary laboratory jointly affiliated with the University of Montreal (UdeM) and the research institute [Mila](https://mila.quebec/mila/).
 
 **2019 - 2022:** [Award for the best thesis in actuarial science in France](https://www.institutdesactuaires.com/news/ceremonie-de-remise-des-prix-actuariat-2022-5762). 
 
