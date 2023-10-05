@@ -19,9 +19,8 @@ PhD thesis in Machine Learning and Insurance at [Institut Polytechnique de Paris
 
 My topics of interest are the following :
 - ML in Insurance & Finance
-- ML fairness & transparency
-- ML-based for Early Warning Systems
-- NLP related topics. _Examples_: ESG Reporting for Sustainable Finance, news and posts about infectious diseases, ...
+- ML Fairness, Interpretability and Privacy
+- NLP related topics, _examples_: ESG Reporting for Sustainable Finance, news and posts about infectious diseases, ...
 - Semi-supervised learning & sampling methods
 
 
