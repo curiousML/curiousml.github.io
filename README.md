@@ -26,6 +26,10 @@ My topics of interest are the following :
 
 **Recent papers**
 
+- **2023** [Parametric Fairness with Statistical Guarantees](https://arxiv.org/abs/2310.20508)
+   - Authors: F. Hu, P. Ratz and A. Charpentier
+   - (Pre-)publication: *Arxiv*
+
 - **2023** [A Sequentially Fair Mechanism for Multiple Sensitive Attributes](https://arxiv.org/abs/2309.06627)
    - Authors: F. Hu, P. Ratz and A. Charpentier
    - (Pre-)publication: *Arxiv*
@@ -34,7 +38,7 @@ My topics of interest are the following :
    - Authors: F. Hu, P. Ratz and A. Charpentier
    - Publication: **ECML-PKDD 2023 Research Track**
  
-- **2023** [Addressing Fairness and Explainability in Image Classification Using Optimal Transport](https://arxiv.org/abs/2308.11090)
+- **2023** [Fairness Explainability using Optimal Transport with Applications in Image Classification](https://arxiv.org/abs/2308.11090)
    - Authors: *P. Ratz, F. Hu and A. Charpentier*
    - (Pre-)publication: *Arxiv*
    
