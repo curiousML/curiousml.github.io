@@ -4,21 +4,42 @@ I am a senior data scientist (PhD) and lecturer in machine learning and computat
 
 **Since 2022:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). 
 
-**Short description:** I am currently engaged in collaborative research within diverse domains, with notable expertise in the following areas:
+**TL;DR:** My expertise lies in statistical learning and mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
+<details>
+  <summary>
+    Longer description: click here
+  </summary>
+I am currently engaged in collaborative research within diverse domains, with notable expertise in the following areas:
+
 1. **Statistics & Statistical learning**: I specialize in algorithmic fairness, specifically in the realms of statistical (machine/deep) learning and mathematical modeling. My expertise is underscored by the publication of multiple papers in **top journals and conferences** within this domain.
 2. **Epidemiology & Biostatistics**: Within the field of biostatistics, my focus revolves around the application of spatiotemporal and NLP techniques. Specifically, I am actively involved in the development and implementation of an 'Early Warning System for Infectious Diseases'. This project is part of the [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health) (Mfph) initiative.
 3. **Finance**: My active participation in collaborative research extends to the finance domain, where our efforts are concentrated on algorithmic fairness and NLP techniques. The objective is to identify Environmental, Social, and Governance (ESG) concepts within Canadian companies. This joint initiative, conducted in partnership with [Algora Lab](https://algoralab.ca/) (affiliated with UdeM and [Mila](https://mila.quebec/mila/)), strives to advance sustainable finance and instill ethical considerations within the realms of AI and ML.
+</details>
+
 
 **2019 - 2022:** [Award for the best thesis in actuarial science in France](https://www.institutdesactuaires.com/news/ceremonie-de-remise-des-prix-actuariat-2022-5762).
 
 3-years PhD thesis in Machine Learning and Insurance at [Institut Polytechnique de Paris](https://www.ip-paris.fr/) ([CREST](http://crest.science/)-[ENSAE](https://www.ensae.fr/)) titled *Semi-supervised learning in insurance: Fairness and Labeling* under the supervision of [Caroline HILLAIRET](https://sites.google.com/site/carolinehillairet/home) and [Romuald ELIE](https://perso.math.u-pem.fr/elie.romuald/elie.html). 
 
-**Short description:** Insurance and financial institutions amass substantial volumes of unstructured data on a daily basis. However, effectively managing this extensive data presents numerous challenges within the field of machine learning and model transparency : (1) the existing manual tagging approach by experts is inefficient for handling large volumes and near-real-time information; and (2) the data may contain biased information, raising ethical concerns and making it unsuitable for use. To address these issues, there is a critical need for the implementation of a precise (in terms of **prediction**), cost-effective (in terms of **labeling**), and ethical (in terms of **transparency and fairness**) learning system within the insurance and finance sector. This thesis is dedicated to resolving these challenges, offering a comprehensive solution to improve data management and ensure compliance.
+<details>
+  <summary>
+    <p style="color: #DCDCDC;">Short abstract: click here</p>
+  </summary>
+
+   Insurance and financial institutions amass substantial volumes of unstructured data on a daily basis. However, effectively managing this extensive data presents numerous challenges within the field of machine learning and model transparency : (1) the existing manual tagging approach by experts is inefficient for handling large volumes and near-real-time information; and (2) the data may contain biased information, raising ethical concerns and making it unsuitable for use. To address these issues, there is a critical need for the implementation of a precise (in terms of **prediction**), cost-effective (in terms of **labeling**), and ethical (in terms of **transparency and fairness**) learning system within the insurance and finance sector. This thesis is dedicated to resolving these challenges, offering a comprehensive solution to improve data management and ensure compliance.
+
+</details>
 
 **2018 - 2022:** over 4 years of industry experience in Data Science in the Datalab of [Société Générale](https://particuliers.societegenerale.fr/) Insurance with [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard).
 
-**Short description:** 
+<details>
+  <summary>
+    Longer description: click here
+  </summary>
+
 I specialize in textual data analysis, emphasizing fairness and transparency in machine learning models. My responsibilities include **overseeing various statistical projects**, such as online learning, semi-supervised learning, transparency in deep learning models, and computer vision. I play a crucial role in **deploying machine learning models for insurance scoring**, covering habitation (MRH) and automotive (Auto) domains. Furthermore, I actively contributed to implementing ETL tools and remain involved in constructing a streamlined End-to-End ML orchestration pipeline, utilizing MLOps tools like MLflow, GitLab, CICD / automated tests ...
+
+</details>
 
 # Research
 
