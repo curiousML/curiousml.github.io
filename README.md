@@ -20,7 +20,7 @@ I am a senior data scientist (PhD) and lecturer in machine learning and computat
 
 **2018 - 2022:** over 4 years of industry experience in Data Science in the Datalab of [Société Générale](https://particuliers.societegenerale.fr/) Insurance with [Marc JUILLARD](https://www.researchgate.net/profile/Marc_Juillard).
 
-**Short description:** I specialize in textual data analysis, emphasizing fairness and transparency in machine learning models. My responsibilities include **overseeing various statistical projects**, such as online learning, semi-supervised learning, transparency in deep learning models, and computer vision. I play a crucial role in **deploying machine learning models for insurance scoring**, covering habitation (MRH) and automotive (Auto) domains. Furthermore, I actively contributed to implementing ETL tools and remain involved in constructing a streamlined End-to-End ML orchestration pipeline, utilizing MLOps tools like MLflow, GitLab, CICD / automated tests ...
+**Short description:** I specialize in textual data analysis, emphasizing fairness and transparency in machine learning models. My responsibilities include **overseeing various statistical projects**, such as online learning, semi-supervised learning, transparency in deep learning models, and computer vision. I played a crucial role in **deploying machine learning models for insurance scoring**, covering habitation (MRH) and automotive (Auto) domains. Furthermore, I actively contributed to implementing ETL tools and remain involved in constructing a streamlined End-to-End ML orchestration pipeline, utilizing MLOps tools like Git (Github/Gitlab), MLflow, Kedro, CICD / automated tests ...
 
 # Research
 
