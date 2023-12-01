@@ -122,27 +122,27 @@ My topics of interest are the following :
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Calculus refresher 
- [ [Lecture](./teaching/epita-NA/1_calculus_refresher_slides.html)] [ [Notebook](./teaching/epita-NA/1_calculus_refresher.ipynb) ]
+ [ [Lecture](./teaching/epita-NA/1_calculus_refresher_slides.html) ] [ [Notebook](./teaching/epita-NA/1_calculus_refresher.ipynb) ]
   - **Lecture 2** : Unconstrained optimization
- [ [Lecture](./teaching/epita-NA/2_optim1_slides.html)] [ [Notebook](./teaching/epita-NA/2_optim1.ipynb) ]
+ [ [Lecture](./teaching/epita-NA/2_optim1_slides.html) ] [ [Notebook](./teaching/epita-NA/2_optim1.ipynb) ]
   - **Lecture 3** : Constrained optimization [ [Lecture](./teaching/epita-NA/3_optim2_lecture_slides.html) ]
   - **Lecture 4** : Numerical methods in linear algebra [ [Lecture](./teaching/epita-NA/4_linalg_ml_lecture_slides.html) ]
   - **Lecture 5** : Machine learning applications
   - **Lecture 6** : [Oral presentations]**-> Titanic challenge**
-  - **Practical work** : Linear/Logistic regression, PCA (and SVM) [ [Notebook](./teaching/epita-NA/5_application_ml_all.ipynb)]
+  - **Practical work** : Linear/Logistic regression, PCA (and SVM) [ [Notebook](./teaching/epita-NA/5_application_ml_all.ipynb) ]
 
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
-  - **Lecture 1** : Bayesian statistics [[Lecture]](./teaching/epita-BML/bayes_1_intro.pdf)
-  - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture]](./teaching/epita-BML/bayes_2_LVM.pdf) 
-  - **Lecture 3** : Variational Inference and intro to NLP [[Lecture]](./teaching/epita-BML/bayes_3_VI.pdf) 
-  - **Lecture 4** : Markov Chain Monte Carlo (& Gaussian Process) [[Lecture]](./teaching/epita-BML/bayes_4_MCMC.pdf) 
+  - **Lecture 1** : Bayesian statistics [ [Lecture](./teaching/epita-BML/bayes_1_intro.pdf) ]
+  - **Lecture 2** : Latent Variable Models and EM-algorithm [ [Lecture](./teaching/epita-BML/bayes_2_LVM.pdf) ]
+  - **Lecture 3** : Variational Inference and intro to NLP [ [Lecture](./teaching/epita-BML/bayes_3_VI.pdf) ]
+  - **Lecture 4** : Markov Chain Monte Carlo (& Gaussian Process) [ [Lecture]](./teaching/epita-BML/bayes_4_MCMC.pdf) 
   - **Lecture 5** : [Oral presentations]**-> Topic models, Bayesian optim, Uncertainty and t-SNE**
-  - **Practical work 1** : Naive Bayes Classifier [[Notebook]](./teaching/epita-BML/naive_bayes_classifier.ipynb)
-  - **Practical work 2** : GMM, Probabilistic K-means and PCA [[Notebook]](./teaching/epita-BML/latent_variable_models.ipynb)
-  - **Practical work 3** : Topic Modeling with LDA [[Notebook]](./teaching/epita-BML/topic_modeling_lda.ipynb)
-  - **Practical work 4** : Sampling posteriors with MCMC [[Notebook]](./teaching/epita-BML/mcmc_gaussian.ipynb)
-  - **Practical work 5** : Bayesian Linear Regression [[Notebook]](./teaching/epita-BML/bayesian_linear_regression.ipynb)
+  - **Practical work 1** : Naive Bayes Classifier [ [Notebook](./teaching/epita-BML/naive_bayes_classifier.ipynb) ]
+  - **Practical work 2** : GMM, Probabilistic K-means and PCA [ [Notebook](./teaching/epita-BML/latent_variable_models.ipynb) ]
+  - **Practical work 3** : Topic Modeling with LDA [ [Notebook](./teaching/epita-BML/topic_modeling_lda.ipynb) ]
+  - **Practical work 4** : Sampling posteriors with MCMC [ [Notebook](./teaching/epita-BML/mcmc_gaussian.ipynb) ]
+  - **Practical work 5** : Bayesian Linear Regression [ [Notebook](./teaching/epita-BML/bayesian_linear_regression.ipynb) ]
   - **Bonus points** : p85-ex1 Lec1 (0.5pt); PW1 (1pt); PW2 (2pt); PW3 (0.5pt); PW4 (1pt); PW5 (1pt)
 
 ## [Institut des Actuaires](https://www.institutdesactuaires.com/article/dsa-1123) (2019 - ...)
@@ -152,15 +152,15 @@ My topics of interest are the following :
 - November 2019 : Text Mining
 - October 2020 : Text Mining
 - July 2021 : Text Mining and Introduction to Active Learning
-  - **Introduction** : Preprocessing in NLP [[Lecture]](./teaching/DSA/dsa_nlp_introduction.pdf)
-  - **Lecture 1** : vector representations and topic models [[Lecture]](./teaching/DSA/dsa_nlp_lecture1.pdf)
-  - **Lecture 2** : Deep Learning for NLP [[Lecture]](./teaching/DSA/dsa_nlp_lecture2.pdf)
-  - **Lecture 3** : Introduction to Active Learning [[Lecture]](./teaching/DSA/Annotations.html)
+  - **Introduction** : Preprocessing in NLP [ [Lecture](./teaching/DSA/dsa_nlp_introduction.pdf) ]
+  - **Lecture 1** : vector representations and topic models [ [Lecture](./teaching/DSA/dsa_nlp_lecture1.pdf) ]
+  - **Lecture 2** : Deep Learning for NLP [ [Lecture](./teaching/DSA/dsa_nlp_lecture2.pdf) ]
+  - **Lecture 3** : Introduction to Active Learning [ [Lecture](./teaching/DSA/Annotations.html) ]
   - **Animations** : 
     - [RNN, forward propagation](./teaching/DSA/RNNforward.html) 
     - [RNN, back propagation](./teaching/DSA/RNNbackprop.html) 
     - [BRNN, forward propagation](./teaching/DSA/BRNNforward.html)
-  - **Practical work** : Topic modeling [[Notebook]](./teaching/DSA/dsa_nlp_tp.ipynb) [[Correction]](./teaching/DSA/dsa_nlp_tp_corr.html)
+  - **Practical work** : Topic modeling [ [Notebook](./teaching/DSA/dsa_nlp_tp.ipynb) ] [ [Correction](./teaching/DSA/dsa_nlp_tp_corr.html) ]
 
 
 # Teaching assistant
@@ -171,27 +171,27 @@ My topics of interest are the following :
   - [Feuille de route 2019](http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a)
 
 - 2A - semester 2 (2019 - 2021) : **Simulation et Monte Carlo** by [Nicolas Chopin](https://sites.google.com/site/nicolaschopinstatistician/)
-  - **TD1** : Loi uniforme et Monte Carlo (ex1) [[Corr in R]](./teaching/2A-monte-carlo/TD1_corr.R) [[Written corr]](./teaching/2A-monte-carlo/TD1_MC.pdf) 
-  - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [[Corr in R]](./teaching/2A-monte-carlo/TD2_code_corr.html)
-  - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [[Corr in R]](./teaching/2A-monte-carlo/TD3_code_corr.html) 
-  - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [[Corr in R]](./teaching/2A-monte-carlo/TD4_code_corr.html)
-  - **TD5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [[1-Corr in R]](./teaching/2A-monte-carlo/TD5_code_corr.html) et [[2-Corr in R]](./teaching/2A-monte-carlo/quasi_monte_carlo.Rmd)
+  - **TD1** : Loi uniforme et Monte Carlo (ex1) [ [Corr in R](./teaching/2A-monte-carlo/TD1_corr.R) ] [ [Written corr](./teaching/2A-monte-carlo/TD1_MC.pdf) ]
+  - **TD2** : Méthode de rejet et Box-Muller Amélioré (ex2 et ex3) [ [Corr in R](./teaching/2A-monte-carlo/TD2_code_corr.html) ]
+  - **TD3** : Loi Géométrique, Variables de contrôle et Variables antithétiques (ex4 et ex5) [ [Corr in R](./teaching/2A-monte-carlo/TD3_code_corr.html) ]
+  - **TD4** : MCMC et Importance Sampling (ex6 et ex7) [ [Corr in R](./teaching/2A-monte-carlo/TD4_code_corr.html) ]
+  - **TD5** : Méthode Cross-Entropy et Quasi Monte Carlo (ex9 et ex5-falc) [ [1-Corr in R](./teaching/2A-monte-carlo/TD5_code_corr.html) ] et [ [2-Corr in R](./teaching/2A-monte-carlo/quasi_monte_carlo.Rmd) ]
   - **TD6** : Soutenance
   
   
 - 2A - semester 2 (2019 - 2020) : **Theoretical foundations of Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
-  - **Directed work 1** : Plug-in methods and over/under-fitting [[Written corr]](./teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf)
-  - **Practical work 1** : Linear/polynomial regression and k-NN [[Corr in Python]](./teaching/2A-machine-learning/TD1_TP1_corr.html)
-  - **Directed work 2** : Selection and penalization of models [[Written corr]](./teaching/2A-machine-learning/correction_TD2.pdf)
-  - **Practical work 2** : k-NN, Perceptron and Cross-Validation [[Corr in Python]](./teaching/2A-machine-learning/TP2_corr.html)
-  - **Practical work 3** : SVM, Decistion Tree and Random Forest [[Corr in Python]](./teaching/2A-machine-learning/TP3_corr.html)
+  - **Directed work 1** : Plug-in methods and over/under-fitting [ [Written corr](./teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf) ]
+  - **Practical work 1** : Linear/polynomial regression and k-NN [ [Corr in Python](./teaching/2A-machine-learning/TD1_TP1_corr.html) ]
+  - **Directed work 2** : Selection and penalization of models [ [Written corr](./teaching/2A-machine-learning/correction_TD2.pdf) ]
+  - **Practical work 2** : k-NN, Perceptron and Cross-Validation [ [Corr in Python](./teaching/2A-machine-learning/TP2_corr.html) ]
+  - **Practical work 3** : SVM, Decistion Tree and Random Forest [ [Corr in Python](./teaching/2A-machine-learning/TP3_corr.html) ]
 
 
 - 3A - semester 1 (2020 - 2021) : **Advanced Machine Learning** by [Vianney Perchet](https://sites.google.com/site/vianneyperchet/)
   - This course is about ERM, SVM, Boosting, Neural Net and Optimization
   - **Directed work** : VC-dimension and ERM *(correction soon available)*
-  - **Practical work** : Python, Linear Regression and SVM [[Corr in Python]](./teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html)
-  - **Practical work** : RKHS, optimization and neural networks [[Written corr]](./teaching/3A-advanced-machine-learning/aml_td2_raw_correction.pdf) [[Neural Nets in python]](./teaching/3A-advanced-machine-learning/aml_neural_nets.html)
+  - **Practical work** : Python, Linear Regression and SVM [ [Corr in Python](./teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html) ]
+  - **Practical work** : RKHS, optimization and neural networks [ [Written corr](./teaching/3A-advanced-machine-learning/aml_td2_raw_correction.pdf) ] [ [Neural Nets in python](./teaching/3A-advanced-machine-learning/aml_neural_nets.html) ]
 
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
