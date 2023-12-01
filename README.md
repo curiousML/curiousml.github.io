@@ -68,12 +68,12 @@ My topics of interest are the following :
 
 **Recent talks**
 
-- **22-09-23** [BIAS 2023](https://sites.google.com/view/bias2023/) - Mitigating Discrimination in Insurance [[slides]](talks/BIAS2023_slides.pdf)
-- **21-09-23** [ECML-PKDD 2023](https://2023.ecmlpkdd.org/) - Fairness in Multi-Task Learning via Wasserstein Barycenters [[slides]](talks/ECML2023_slides.pdf)
-- **07-02-23** [Institut des actuaires](https://www.institutdesactuaires.com/agenda/equite-et-apprentissage-actif-dans-les-problemes-multi-classes-3914) - Fairness and Labeling for multi-class problems: application [[slides]](talks/TheseHuAppliedPDF.pdf)
-- **15-06-22** - PhD Defense [[slides]](talks/SLIDES_PhD_defense_HU_VF.pdf) -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
-- **28-04-20** [OICA](https://oica.univ-lyon1.fr/) - Efficient labeling with active learning [[slides]](talks/HU_OICA_slides.pdf)
-- **29-11-19** [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) - Active learning for the detection of categories in text fields [[slides]](talks/100DS.pdf)
+- **22-09-23** [BIAS 2023](https://sites.google.com/view/bias2023/) - Mitigating Discrimination in Insurance [ [slides](talks/BIAS2023_slides.pdf) ]
+- **21-09-23** [ECML-PKDD 2023](https://2023.ecmlpkdd.org/) - Fairness in Multi-Task Learning via Wasserstein Barycenters [ [slides](talks/ECML2023_slides.pdf) ]
+- **07-02-23** [Institut des actuaires](https://www.institutdesactuaires.com/agenda/equite-et-apprentissage-actif-dans-les-problemes-multi-classes-3914) - Fairness and Labeling for multi-class problems: application [ [slides](talks/TheseHuAppliedPDF.pdf) ]
+- **15-06-22** - PhD Defense [ [slides](talks/SLIDES_PhD_defense_HU_VF.pdf) ] -> [Actuarial Award 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/)
+- **28-04-20** [OICA](https://oica.univ-lyon1.fr/) - Efficient labeling with active learning [ [slides](talks/HU_OICA_slides.pdf) ]
+- **29-11-19** [100% Data Science](https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128) - Active learning for the detection of categories in text fields [ [slides](talks/100DS.pdf) ]
 
 # Teaching
 
@@ -82,33 +82,33 @@ My topics of interest are the following :
 *Master of Science :*
 
 - **Python & Algorithm Workshop** (and initiation to programming) by [François HU](https://curiousml.github.io/)
-  - **Workshop 1** : Integer arithmetic [[Lecture]](./teaching/epita-AW/AW1_integers.pdf) [[Exercices ipynb]](./teaching/epita-AW/1_integer_python.ipynb) [[Exercices html]](./teaching/epita-AW/1_integer_python.html)
-  - **Workshop 2** : Floating-point arithmetic & pseudo-random numbers [[Lecture]](./teaching/epita-AW/2_float_python.html) [[Notebook]](./teaching/epita-AW/2_float_python.ipynb)
-  - **Workshop 3** : Matrix representation and arithmetic [[Lecture]](./teaching/epita-AW/3_matrix_python.html) [[Notebook]](./teaching/epita-AW/3_matrix_python.ipynb)
-  - **Workshop 4** : Solving linear systems [[Lecture]](./teaching/epita-AW/4_linear_systems.html) [[Notebook]](./teaching/epita-AW/4_linear_systems.ipynb)
-  - **Workshop 5** : Solving nonlinear systems [[Lecture]](./teaching/epita-AW/5_nonlinear_systems.html) [[Notebook]](./teaching/epita-AW/5_nonlinear_systems.ipynb)
-  - **Workshop 6** : Evaluation and interpolation [[Lecture]](./teaching/epita-AW/6_evaluation_interpolation.html) [[Notebook]](./teaching/epita-AW/6_evaluation_interpolation.ipynb)
-  - **Workshop 7** : [Oral presentations]
+  - **Workshop 1** : Integer arithmetic [ [Lecture](./teaching/epita-AW/AW1_integers.pdf) ] [ [Exercices ipynb](./teaching/epita-AW/1_integer_python.ipynb) ] [ [Exercices html](./teaching/epita-AW/1_integer_python.html) ]
+  - **Workshop 2** : Floating-point arithmetic & pseudo-random numbers [ [Lecture](./teaching/epita-AW/2_float_python.html) ] [ [Notebook](./teaching/epita-AW/2_float_python.ipynb) ]
+  - **Workshop 3** : Matrix representation and arithmetic [ [Lecture](./teaching/epita-AW/3_matrix_python.html) ] [ [Notebook](./teaching/epita-AW/3_matrix_python.ipynb) ]
+  - **Workshop 4** : Solving linear systems [ [Lecture](./teaching/epita-AW/4_linear_systems.html) ] [ [Notebook](./teaching/epita-AW/4_linear_systems.ipynb) ]
+  - **Workshop 5** : Solving nonlinear systems [ [Lecture](./teaching/epita-AW/5_nonlinear_systems.html) ] [ [Notebook](./teaching/epita-AW/5_nonlinear_systems.ipynb) ]
+  - **Workshop 6** : Evaluation and interpolation [ [Lecture](./teaching/epita-AW/6_evaluation_interpolation.html) ] [ [Notebook](./teaching/epita-AW/6_evaluation_interpolation.ipynb) ]
+  - **Workshop 7** : Oral presentations
 
 - **Python** by [François HU](https://curiousml.github.io/)
   - **[Why Python ?](./pages/why_python.html)**
   - **[Installing Python](./pages/install_python.html)**
   - **Practical work 1** : Basics of Python 
-    [[Lecture]](./teaching/epita-python/1_introduction_python.html) [[Notebook]](./teaching/epita-python/1_introduction_python.ipynb)
+    [ [Lecture](./teaching/epita-python/1_introduction_python.html) ] [ [Notebook](./teaching/epita-python/1_introduction_python.ipynb) ]
   - **Practical work 2** : Application
-    [[Exercices html]](./teaching/epita-python/2_additional_exercices.html) [[Exercices ipynb]](./teaching/epita-python/2_additional_exercices.ipynb) [[Usual mistakes]](./teaching/epita-python/2_application.slides.html)
+    [ [Exercices html](./teaching/epita-python/2_additional_exercices.html) ] [ [Exercices ipynb](./teaching/epita-python/2_additional_exercices.ipynb) ] [ [Usual mistakes](./teaching/epita-python/2_application.slides.html) ]
   - **Practical work 3** : Scientific Computing 
-    [[Lecture]](./teaching/epita-python/3_scientific_computing.html) [[Notebook]](./teaching/epita-python/3_scientific_computing.ipynb) [[Correction]](./teaching/epita-python/3_scientific_computing_corr.html)
+    [ [Lecture](./teaching/epita-python/3_scientific_computing.html) ] [ [Notebook](./teaching/epita-python/3_scientific_computing.ipynb) ] [ [Correction](./teaching/epita-python/3_scientific_computing_corr.html) ]
   - **Practical work 4** : Data Visualization 
-    [[Lecture]](./teaching/epita-python/4_dataviz.html) [[Notebook]](./teaching/epita-python/4_dataviz.ipynb) [[Correction]](./teaching/epita-python/4_dataviz_corr.html)
+    [ [Lecture](./teaching/epita-python/4_dataviz.html) ] [ [Notebook](./teaching/epita-python/4_dataviz.ipynb) ] [ [Correction](./teaching/epita-python/4_dataviz_corr.html) ]
   - **Practical work 5** : Data Manipulation 
-    [[Lecture]](./teaching/epita-python/5_dataframe.html) [[Notebook]](./teaching/epita-python/5_dataframe.ipynb) [[Correction]](./teaching/epita-python/5_dataframe_corr.html)
+    [ [Lecture](./teaching/epita-python/5_dataframe.html) ] [ [Notebook](./teaching/epita-python/5_dataframe.ipynb) ] [ [Correction](./teaching/epita-python/5_dataframe_corr.html) ]
   - **Practical work 6** : Engineering tools 
-    [[Lecture]](./teaching/epita-python/6_intro_engineering_slides.html)
-  - **Additional exercices (basics of python)** : [[Exercices]](./teaching/epita-python/6_additional_exercices_basics.html) [[Notebook]](teaching/epita-python/6_additional_exercices_basics.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_basics_corr.html)
-  - **Additional exercices (exam-like)** : [[Exercices]](./teaching/epita-python/6_additional_exercices.html) [[Notebook]](teaching/epita-python/6_additional_exercices.ipynb) [[Correction]](./teaching/epita-python/6_additional_exercices_corr.html)
+    [ [Lecture](./teaching/epita-python/6_intro_engineering_slides.html) ]
+  - **Additional exercices (basics of python)** : [ [Exercices](./teaching/epita-python/6_additional_exercices_basics.html) ] [ [Notebook](teaching/epita-python/6_additional_exercices_basics.ipynb) ] [ [Correction](./teaching/epita-python/6_additional_exercices_basics_corr.html) ]
+  - **Additional exercices (exam-like)** : [ [Exercices](./teaching/epita-python/6_additional_exercices.html) ] [ [Notebook](teaching/epita-python/6_additional_exercices.ipynb) ] [ [Correction](./teaching/epita-python/6_additional_exercices_corr.html) ]
   - **Datasets** : 
-    [[Iris]](./teaching/epita-python/Iris.csv) [[Defra consumption]](./teaching/epita-BML/defra_consumption.csv)
+    [ [Iris](./teaching/epita-python/Iris.csv) ] [ [Defra consumption](./teaching/epita-BML/defra_consumption.csv) ]
   - **Exam** : [2022.05.25 Exam](teaching/epita-python/firstname_lastname.ipynb)
   - ~~**Old lectures**~~ (still available) :
     - [Basics of Python](./pages/1_introduction_python.html)
@@ -122,14 +122,14 @@ My topics of interest are the following :
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Calculus refresher 
- [[Lecture]](./teaching/epita-NA/1_calculus_refresher_slides.html) [[Notebook]](./teaching/epita-NA/1_calculus_refresher.ipynb)
+ [ [Lecture](./teaching/epita-NA/1_calculus_refresher_slides.html)] [ [Notebook](./teaching/epita-NA/1_calculus_refresher.ipynb) ]
   - **Lecture 2** : Unconstrained optimization
- [[Lecture]](./teaching/epita-NA/2_optim1_slides.html) [[Notebook]](./teaching/epita-NA/2_optim1.ipynb)
-  - **Lecture 3** : Constrained optimization [[Lecture]](./teaching/epita-NA/3_optim2_lecture_slides.html) 
-  - **Lecture 4** : Numerical methods in linear algebra [[Lecture]](./teaching/epita-NA/4_linalg_ml_lecture_slides.html) 
+ [ [Lecture](./teaching/epita-NA/2_optim1_slides.html)] [ [Notebook](./teaching/epita-NA/2_optim1.ipynb) ]
+  - **Lecture 3** : Constrained optimization [ [Lecture](./teaching/epita-NA/3_optim2_lecture_slides.html) ]
+  - **Lecture 4** : Numerical methods in linear algebra [ [Lecture](./teaching/epita-NA/4_linalg_ml_lecture_slides.html) ]
   - **Lecture 5** : Machine learning applications
   - **Lecture 6** : [Oral presentations]**-> Titanic challenge**
-  - **Practical work** : Linear/Logistic regression, PCA (and SVM) [[Notebook]](./teaching/epita-NA/5_application_ml_all.ipynb)
+  - **Practical work** : Linear/Logistic regression, PCA (and SVM) [ [Notebook](./teaching/epita-NA/5_application_ml_all.ipynb)]
 
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
