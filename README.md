@@ -39,7 +39,7 @@ My topics of interest are the following :
 
 - **2023** [A Sequentially Fair Mechanism for Multiple Sensitive Attributes](https://arxiv.org/abs/2309.06627)
    - Authors: F. Hu, P. Ratz and A. Charpentier
-   - (Pre-)publication: *Arxiv*
+   - Publication: **AAAI-2024**
    - **Check out EquiPy, our Python package for fair calibration:** https://equilibration.github.io/equipy/equipy.fairness.html 
 
 - **2023** [Fairness in Multi-Task Learning via Wasserstein Barycenters](http://arxiv.org/abs/2306.10155)
