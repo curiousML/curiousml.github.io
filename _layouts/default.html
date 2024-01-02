@@ -45,23 +45,25 @@
         </section>
 
         <aside id="sidebar">
+		<img src="images/photo_FH.png"  alt="Avatar" class="avatar" width="200"/>
+		
           {% if site.show_downloads %}
             <a href="cv/cv_hu.pdf" class="button">
-              <small>Download</small>
               CV
             </a>
           {% endif %}
+		
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
-		
-	<img src="images/photo_FH.png"  alt="Avatar" class="avatar" width="220"/>
 
 	<a class="linkedin-button" href="{{ site.linkedin }}">
 	  <i class="fab fa-linkedin-in"></i>
 	  <span>Contact me on <strong>LinkedIn</strong></span>
 	</a>
+		
+	
 
         </aside>
       </div>
