@@ -2,7 +2,7 @@
 
 I am a senior data scientist (PhD) and lecturer in machine learning and computational statistics at ENSAE, EPITA and Institut des Actuaires. In a nutshell...
 
-**Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab in tandem with [Adel Cherchali](https://fr.milliman.com/fr-FR/consultants/Cherchali-Adel), with a focus on projects in Generative AI (#GenAI) and Trustworthy AI within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
+**Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab in tandem with [Adel Cherchali](https://fr.milliman.com/fr-FR/consultants/Cherchali-Adel), with a focus on projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
 
 **2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning and mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
 
