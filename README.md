@@ -33,7 +33,11 @@ My topics of interest are the following :
 - Semi-supervised learning & sampling methods
 
 
-**Recent papers**
+**Some notable papers**. For the latest papers, please refer to my [Google Scholar](https://scholar.google.fr/citations?user=fYtrQLAAAAAJ&hl=fr) profile.
+
+- **2024** [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642)
+   - Authors: C. Denis, R. Elie, M. Hebiri and F. Hu.
+   - Publication: **Journal of Machine Learning Research (JMLR)**
 
 - **2023** [Parametric Fairness with Statistical Guarantees](https://arxiv.org/abs/2310.20508)
    - Authors: F. Hu, P. Ratz and A. Charpentier
@@ -59,10 +63,6 @@ My topics of interest are the following :
 - **2022** [Fairness and Labeling for multi-class problems](research/TheseFrancoisHUSubmitted.pdf)
    - **[SCOR 2022](https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/):** Awarded best actuarial thesis in France in 2022
    - *PhD Thesis*
- 
-- **2021** [Fairness guarantee in multi-class classification](https://arxiv.org/pdf/2109.13642)
-   - Authors: C. Denis, R. Elie, M. Hebiri and F. Hu.
-   - (Pre-)publication: *Arxiv*
 
 - **2021** [An overview of active learning methods for insurance with fairness appreciation](https://arxiv.org/pdf/2112.09466)
    - Authors: R. Elie, C. Hillairet, F. HU and M. Juillard.
