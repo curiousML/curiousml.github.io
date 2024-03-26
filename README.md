@@ -71,6 +71,8 @@ My topics of interest are the following :
 
 **Recent talks**
 
+- **March 24** [Risk forum] - Algorithmic Fairness for multiple sensitive attributes, with applications in insurance 
+- **February 24** [AAAI-24] - A sequentially fair mechanism for multiple sensitive attributes 
 - **22-09-23** [BIAS 2023](https://sites.google.com/view/bias2023/) - Mitigating Discrimination in Insurance [[slides](talks/BIAS2023_slides.pdf)]
 - **21-09-23** [ECML-PKDD 2023](https://2023.ecmlpkdd.org/) - Fairness in Multi-Task Learning via Wasserstein Barycenters [[slides](talks/ECML2023_slides.pdf)]
 - **07-02-23** [Institut des actuaires](https://www.institutdesactuaires.com/agenda/equite-et-apprentissage-actif-dans-les-problemes-multi-classes-3914) - Fairness and Labeling for multi-class problems: application [[slides](talks/TheseHuAppliedPDF.pdf)]
