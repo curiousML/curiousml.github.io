@@ -123,6 +123,8 @@ My topics of interest are the following :
     - [Engineering tools](./teaching/epita-python/6_intro_engineering_slides.html)
     - [2022.01.14 Exam](teaching/epita-python/exam.ipynb)
 
+  - **Case study with freMPL Dataset** [[Notebook](./teaching/epita-python/python_insurance.ipynb)], [[Dataset](./teaching/epita-python/freMPL.csv)]
+
 *Master of Science in Artificial Intelligence Systems :*
 
 - **Numerical Algorithms** (and optimization for Machine Learning) by [François HU](https://curiousml.github.io/)
