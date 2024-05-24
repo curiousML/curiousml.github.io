@@ -141,7 +141,7 @@ My topics of interest are the following :
 
 - **Bayesian Machine Learning** by [François HU](https://curiousml.github.io/)
   - **Lecture 1** : Bayesian statistics [[Lecture](./teaching/epita-BML/bayes_1_intro.pdf)]
-  - **Lecture 2** : Latent Variable Models and EM-algorithm 
+  - **Lecture 2** : Latent Variable Models and EM-algorithm [[Lecture](./teaching/epita-BML/bayes_2_LVM.pdf)]
   - **Lecture 3** : Variational Inference and application to NLP
   - **Lecture 4** : Causal Inference
   - **Lecture 5** : [Oral presentations]**-> Topic models, Bayesian optim, Uncertainty and t-SNE**
