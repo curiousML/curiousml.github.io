@@ -4,7 +4,7 @@ I am a senior data scientist (PhD) and lecturer in machine learning and computat
 
 **Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab in tandem with [Adel Cherchali](https://fr.milliman.com/fr-FR/consultants/Cherchali-Adel), with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
 
-**2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM, and affiliated to MILA) with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning and mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
+**2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) and affiliated with MILA via Algora Lab with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning and mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
 
 **Short description:** I am currently engaged in collaborative research within diverse domains, with notable expertise in the following areas:
 
