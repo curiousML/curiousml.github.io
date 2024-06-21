@@ -103,19 +103,19 @@ My topics of interest are the following :
   - **Practical work 2** : Application
     [[Exercices html](./teaching/epita-python/2_additional_exercices.html)] [[Exercices ipynb](./teaching/epita-python/2_additional_exercices.ipynb)] [[Usual mistakes](./teaching/epita-python/2_application.slides.html)]
   - **Practical work 3** : Scientific Computing 
-    [[Lecture](./teaching/epita-python/3_scientific_computing.html)] [[Notebook](./teaching/epita-python/3_scientific_computing.ipynb)]
+    [[Lecture](./teaching/epita-python/3_scientific_computing.html)] [[Notebook](./teaching/epita-python/3_scientific_computing.ipynb)]  [[Correction](./teaching/epita-python/3_scientific_computing_corr.html)]
   - **Practical work 4** : Data Visualization 
     [[Lecture](./teaching/epita-python/4_dataviz.html)] [[Notebook](./teaching/epita-python/4_dataviz.ipynb)]
   - **Practical work 5** : Data Manipulation 
     [[Lecture](./teaching/epita-python/5_dataframe.html)] [[Notebook](./teaching/epita-python/5_dataframe.ipynb)] 
   - **Practical work 6** : Engineering tools 
     [[Lecture](./teaching/epita-python/6_intro_engineering_slides.html)]
-  - **Additional exercices (basics of python)** : [[Exercices](./teaching/epita-python/6_additional_exercices_basics.html)] [[Notebook](teaching/epita-python/6_additional_exercices_basics.ipynb)] [[Correction](./teaching/epita-python/6_additional_exercices_basics_corr.html)]
-  - **Additional exercices (exam-like)** : [[Exercices](./teaching/epita-python/6_additional_exercices.html)] [[Notebook](teaching/epita-python/6_additional_exercices.ipynb)] [[Correction](./teaching/epita-python/6_additional_exercices_corr.html)]
+  - **Additional exercices (basics of python)** : [[Exercices](./teaching/epita-python/6_additional_exercices_basics.html)] [[Notebook](teaching/epita-python/6_additional_exercices_basics.ipynb)]
+  - **Additional exercices (exam-like)** : [[Exercices](./teaching/epita-python/6_additional_exercices.html)] [[Notebook](teaching/epita-python/6_additional_exercices.ipynb)]
   - **Datasets** : 
     [[Iris](./teaching/epita-python/Iris.csv)] [[Defra consumption](./teaching/epita-BML/defra_consumption.csv)]
   - **Exam** : [2022.05.25 Exam](teaching/epita-python/firstname_lastname.ipynb)
-  - ~~**Old lectures**~~ (still available) :
+  - ~~**Old lectures**~~ (still available):
     - [Basics of Python](./pages/1_introduction_python.html)
     - [Scientific Computing](./pages/3_scientific_computing.html)
     - [Data Visualization](./pages/4_dataviz.html)
