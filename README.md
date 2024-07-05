@@ -114,7 +114,7 @@ My topics of interest are the following :
   - **Additional exercices (exam-like)** : [[Exercices](./teaching/epita-python/6_additional_exercices.html)] [[Notebook](teaching/epita-python/6_additional_exercices.ipynb)]
   - **Datasets** : 
     [[Iris](./teaching/epita-python/Iris.csv)] [[Defra consumption](./teaching/epita-BML/defra_consumption.csv)]
-  - **Exam** : [2024.05.07 Exam (not available yet)]()
+  - **Exam** : [2024.05.07 Exam (not available yet)](teaching/epita-python/2024_firstname_lastname.ipynb)
   - ~~**Old lectures**~~ (still available):
     - [Basics of Python](./pages/1_introduction_python.html)
     - [Scientific Computing](./pages/3_scientific_computing.html)
