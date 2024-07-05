@@ -114,7 +114,7 @@ My topics of interest are the following :
   - **Additional exercices (exam-like)** : [[Exercices](./teaching/epita-python/6_additional_exercices.html)] [[Notebook](teaching/epita-python/6_additional_exercices.ipynb)]
   - **Datasets** : 
     [[Iris](./teaching/epita-python/Iris.csv)] [[Defra consumption](./teaching/epita-BML/defra_consumption.csv)]
-  - **Exam** : [2022.05.25 Exam](teaching/epita-python/firstname_lastname.ipynb)
+  - **Exam** : [2024.05.07 Exam (not available yet)]()
   - ~~**Old lectures**~~ (still available):
     - [Basics of Python](./pages/1_introduction_python.html)
     - [Scientific Computing](./pages/3_scientific_computing.html)
@@ -122,6 +122,7 @@ My topics of interest are the following :
     - [Data Manipulation](./pages/5_dataframe.html)
     - [Engineering tools](./teaching/epita-python/6_intro_engineering_slides.html)
     - [2022.01.14 Exam](teaching/epita-python/exam.ipynb)
+    - [2022.05.25 Exam](teaching/epita-python/firstname_lastname.ipynb)
 
   - **Case study with freMPL Dataset** [[Notebook](./teaching/epita-python/python_insurance.ipynb)], [[Dataset](./teaching/epita-python/freMPL.csv)]
 
