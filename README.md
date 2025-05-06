@@ -2,14 +2,14 @@
 
 I am a senior data scientist (PhD) and lecturer in machine learning and computational statistics at ENSAE, EPITA and Institut des Actuaires. In a nutshell...
 
-**Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab in tandem with [Adel Cherchali](https://fr.milliman.com/fr-FR/consultants/Cherchali-Adel), with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
+**Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab in tandem with [Adel Cherchali](https://fr.milliman.com/fr-FR/consultants/Cherchali-Adel), with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) for insurance and finance applications within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
 
-**2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) and affiliated with MILA via Algora Lab with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning and mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
+**2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) and affiliated with MILA via Algora Lab with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning, mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
 
 **Short description:** I am currently engaged in collaborative research within diverse domains, with notable expertise in the following areas:
 
-1. **Statistics & Statistical learning**: I specialize in algorithmic fairness, specifically in the realms of statistical (machine/deep) learning and mathematical modeling. My expertise is underscored by the publication of multiple papers in **top journals and conferences** within this domain.
-2. **Epidemiology & Biostatistics**: Within the field of biostatistics, my focus revolves around the application of spatiotemporal and NLP techniques. Specifically, I am actively involved in the development and implementation of an 'Early Warning System for Infectious Diseases'. This project is part of the [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health) (Mfph) initiative.
+1. **Insurance, Statistics & Statistical learning**: I specialize in applying statistical (machine and deep) learning and mathematical modeling to the insurance industry, with a particular focus on algorithmic fairness. My expertise is further demonstrated by several publications in **leading journals and conferences** in this field.
+2. **Biostatistics & Pandemic Modeling**: Within the field of biostatistics, my focus revolves around the application of spatiotemporal and NLP techniques. Specifically, I am actively involved in the development and implementation of an 'Early Warning System for Infectious Diseases'. This project is part of the [Mathematics for Public Health](http://www.fields.utoronto.ca/activities/public-health) (Mfph) initiative.
 3. **Finance**: My active participation in collaborative research extends to the finance domain, where our efforts are concentrated on algorithmic fairness and NLP techniques. The objective is to identify Environmental, Social, and Governance (ESG) concepts within Canadian companies. This joint initiative, conducted in partnership with [Algora Lab](https://algoralab.ca/) (affiliated with UdeM and [Mila](https://mila.quebec/mila/)), strives to advance sustainable finance and instill ethical considerations within the realms of AI and ML.
 
 
@@ -27,9 +27,9 @@ I am a senior data scientist (PhD) and lecturer in machine learning and computat
 # Research
 
 My topics of interest are the following :
-- ML in Insurance & Finance
+- ML, primarily in Insurance, but also in Finance
 - ML Fairness, Interpretability and Privacy
-- NLP related topics, _examples_: ESG Reporting for Sustainable Finance, news and posts about infectious diseases, ...
+- NLP/LLM/GenAI related topics, _examples_: Insights in ESG Reporting for Sustainable Finance, Stduying news and posts about infectious diseases, ...
 - Semi-supervised learning & sampling methods
 
 
@@ -69,7 +69,7 @@ My topics of interest are the following :
    - (Pre-)publication: *Arxiv*
 
 
-**Recent talks**
+**Recent talks** *Not updated since March 2024, see CV*
 
 - **March 24** [Risk forum] - Algorithmic Fairness for multiple sensitive attributes, with applications in insurance 
 - **February 24** [AAAI-24] - A sequentially fair mechanism for multiple sensitive attributes 
@@ -156,6 +156,8 @@ My topics of interest are the following :
 
 *Formation Data Science pour l'Actuaire :*
 
+- 2025 : Machine learning methods for individual mortality modeling
+
 - November 2019 : Text Mining
 - October 2020 : Text Mining
 - July 2021 : Text Mining and Introduction to Active Learning
@@ -168,6 +170,13 @@ My topics of interest are the following :
     - [RNN, back propagation](./teaching/DSA/RNNbackprop.html) 
     - [BRNN, forward propagation](./teaching/DSA/BRNNforward.html)
   - **Practical work** : Topic modeling [[Notebook](./teaching/DSA/dsa_nlp_tp.ipynb)] [[Correction](./teaching/DSA/dsa_nlp_tp_corr.html)]
+ 
+
+## [Cnam (Conservatoire national des arts et métiers)]([https://www.institutdesactuaires.com/article/dsa-1123](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp)) (2024 - ...)
+
+*Master of Science in Actuarial Science :*
+
+- Lecturer on Fairness in Insurance (6 hours), integrated into the Contemporary Actuarial Science course.
 
 
 # Teaching assistant
