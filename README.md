@@ -1,6 +1,6 @@
 # About me
 
-I am a senior data scientist (PhD) and lecturer in machine learning and computational statistics at ENSAE, EPITA and Institut des Actuaires. In a nutshell...
+I am a Lead AI researcher and lecturer in machine learning and computational statistics at Cnam, ENSAE, EPITA and Institut des Actuaires. In a nutshell...
 
 **Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab in tandem with [Adel Cherchali](https://fr.milliman.com/fr-FR/consultants/Cherchali-Adel), with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) for insurance and finance applications within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
 
