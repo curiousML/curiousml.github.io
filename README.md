@@ -2,7 +2,7 @@
 
 I am a Lead AI researcher and lecturer in machine learning and computational statistics at Cnam, ENSAE, EPITA and Institut des Actuaires. In a nutshell...
 
-**Since 2024:** Lead AI Research Scientist at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) for insurance and finance applications within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
+**Since 2024:** Head of R&D AI Lab at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) for insurance and finance applications within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
 
 **2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) and affiliated with MILA via Algora Lab with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning, mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
 
