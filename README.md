@@ -158,7 +158,7 @@ My topics of interest are the following :
 
 - 2025 : Machine learning methods for individual mortality modeling
    - **datasets :** [[labeled.zip](./teaching/DSA/labeled.zip)] [[unlabeled.zip](./teaching/DSA/unlabeled.zip)]
-   - **Mortality scores :** [[Notebook](./teaching/DSA/mortality_score_dev.ipynb)]
+   - **Mortality scores :** [[Notebook](./teaching/DSA/mortality_score_dev.ipynb)] [[Introduction biais algorithmique](./teaching/DSA/DSA_introduction_discrimination_morta.pdf)]
 
 - November 2019 : Text Mining
 - October 2020 : Text Mining
