@@ -181,6 +181,20 @@ My topics of interest are the following :
 - Lecturer on Fairness in Insurance (6 hours), integrated into the Contemporary Actuarial Science course.
 
 
+## [ISFA (Institut de Science Financière et d'Assurances)](https://isfa.univ-lyon1.fr/formation/actuariat) (2025 - ...)
+
+*Master of Science in Actuarial Science :*
+
+- Lecturer on Data Science
+   - **Lecture 1** : Apprentissage statistique et lien avec l’Actuariat (soon available)
+   - **Lecture 2** : Modèles linéaires généralisés et pénalisés (soon available)
+   - **Lecture 3** : Arbre de décision et méthodes ensemblistes (soon available)
+   - **Lecture 4** : Interprétabilité des modèles d’apprentissage (soon available)
+   - **Lecture 5** : IA de confiance et biais algorithmiques (soon available)
+   - **Lecture 6** : Apprentissage non supervisé (soon available)
+   - **Notebook** : [[Notebook](./teaching/DSA/mortality_score_dev.ipynb)]
+
+
 # Teaching assistant
 
 ## [Institut polytechnique de Paris (ENSAE, Polytechnique)](https://www.ensae.fr/) (2019 - ...)
