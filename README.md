@@ -192,7 +192,7 @@ My topics of interest are the following :
    - **Lecture 4** : Interprétabilité des modèles d’apprentissage (soon available)
    - **Lecture 5** : IA de confiance et biais algorithmiques (soon available)
    - **Lecture 6** : Apprentissage non supervisé (soon available)
-   - **Notebook** : [[Notebook](./teaching/ISFA/mortality_score_ISFA.ipynb)]
+   - **Notebook** : [[Notebook](https://github.com/curiousML/teaching/ISFA/mortality_score_ISFA.ipynb)]
 
 
 # Teaching assistant
