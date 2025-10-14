@@ -186,12 +186,13 @@ My topics of interest are the following :
 *Master of Science in Actuarial Science :*
 
 - Lecturer on Data Science
-   - **Lecture 1** : Apprentissage statistique et lien avec l’Actuariat [[cours](https://github.com/curiousML/curiousml.github.io/tree/master/teaching/ISFA/1_introduction_DS.pdf)]
+   - **Lecture 1** : Apprentissage statistique et lien avec l’Actuariat [[cours](./teaching/ISFA/1_introduction_DS.pdf)]
    - **Lecture 2** : Modèles linéaires généralisés et pénalisés (soon available)
    - **Lecture 3** : Arbre de décision et méthodes ensemblistes (soon available)
    - **Lecture 4** : Interprétabilité des modèles d’apprentissage (soon available)
    - **Lecture 5** : IA de confiance et biais algorithmiques (soon available)
    - **Lecture 6** : Apprentissage non supervisé (soon available)
+   - **Description Projet** : [[slides](./teaching/ISFA/projet_recherche_ISFA.pdf)]
    - **Notebook** : [[Notebook](https://github.com/curiousML/curiousml.github.io/tree/master/teaching/ISFA/mortality_score_ISFA.ipynb)]
 
 
