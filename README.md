@@ -179,6 +179,9 @@ My topics of interest are the following :
 *Master of Science in Actuarial Science :*
 
 - Lecturer on Fairness in Insurance (6 hours), integrated into the Contemporary Actuarial Science course.
+- Notebook : [[Notebook](https://github.com/curiousML/curiousml.github.io/tree/master/teaching/CNAM/mortality_score_CNAMv3.ipynb)]
+
+
 
 
 ## [ISFA (Institut de Science Financière et d'Assurances)](https://isfa.univ-lyon1.fr/formation/actuariat) (2025 - ...)
@@ -194,6 +197,8 @@ My topics of interest are the following :
    - **Lecture 6** : Apprentissage non supervisé [[cours](./teaching/ISFA/6_cours_Unsupervised.pdf)]
    - **Description Projet** : [[slides](./teaching/ISFA/projet_recherche_ISFA.pdf)]
    - **Notebook** : [[Notebook](https://github.com/curiousML/curiousml.github.io/tree/master/teaching/ISFA/mortality_score_ISFA.ipynb)]
+
+
 
 
 # Teaching assistant
