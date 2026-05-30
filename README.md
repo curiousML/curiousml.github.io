@@ -184,19 +184,19 @@ My topics of interest are the following :
 
 
 
-## [ISFA (Institut de Science Financière et d'Assurances)](https://isfa.univ-lyon1.fr/formation/actuariat) (2025 - ...)
+## [ISFA (Institut de Science Financière et d'Assurances)](https://isfa.univ-lyon1.fr/formation/actuariat) et ENSEA Abidjan (2025 - ...)
 
 *Master of Science in Actuarial Science :*
 
 - Lecturer on Data Science
    - **Lecture 1** : Apprentissage statistique et lien avec l’Actuariat [[cours](./teaching/ISFA/1_introduction_DS.pdf)]
-   - **Lecture 2** : Modèles linéaires généralisés et pénalisés [[cours](./teaching/ISFA/2_cours_GLM.pdf)]
-   - **Lecture 3** : Arbre de décision et méthodes ensemblistes [[cours](./teaching/ISFA/3_cours_RF_GBM.pdf)]
+   - **Lecture 2** : Modèles linéaires généralisés et pénalisés [Soon available]
+   - **Lecture 3** : Arbre de décision et méthodes ensemblistes [Soon available]
    - **Lecture 4** : Interprétabilité des modèles d’apprentissage [Soon available]
    - **Lecture 5** : IA de confiance et biais algorithmiques [Soon available]
-   - **Lecture 6** : Apprentissage non supervisé [[cours](./teaching/ISFA/6_cours_Unsupervised.pdf)]
-   - **Description Projet** : [[slides](./teaching/ISFA/projet_recherche_ISFA.pdf)]
-   - **Notebook** : [[Notebook](https://github.com/curiousML/curiousml.github.io/tree/master/teaching/ISFA/mortality_score_ISFA.ipynb)]
+   - **Lecture 6** : Apprentissage non supervisé [Soon available]
+   - **Description Projet** : [Soon available]
+   - **Notebook** : [Soon available]
 
 
 
