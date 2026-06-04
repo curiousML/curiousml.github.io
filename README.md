@@ -234,3 +234,10 @@ My topics of interest are the following :
 
 - 3A - semester 2 (2019 - 2020) : **Machine Learning for finance** by [Romuald Elie](https://perso.math.u-pem.fr/elie.romuald/elie.html)
   - Speaker in NLP
+
+
+# Hackaton Milliman x Université Gustave Eiffel
+
+- Generative AI Hackaton [[hackaton](./teaching/3A-advanced-machine-learning/hackaton.pdf)]
+- Cours Express RAG [[rag](./teaching/3A-advanced-machine-learning/hackaton_rag.pdf)]
+- Parcours de la baseline [[baseline](./teaching/3A-advanced-machine-learning/hackaton_baseline.pdf)]
