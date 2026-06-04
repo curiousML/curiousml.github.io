@@ -4,7 +4,7 @@ I am a Lead AI researcher and lecturer in machine learning and computational sta
 
 **Since 2024:** Head of R&D AI Lab at [Milliman France](https://fr.milliman.com/fr-fr/). Leading the AI Lab with a focus on R&D projects in Generative AI (#GenAI) and Trustworthy AI (Fairness, Interpretability, Privacy) for insurance and finance applications within the R&D division of [Alexandre Boumezoued](https://fr.milliman.com/fr-FR/consultants/Boumezoued-Alexandre).
 
-**2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) and affiliated with MILA via Algora Lab with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) (UdeM). **TL;DR:** My expertise lies in statistical learning, mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
+**2022 - 2024:** Postdoctoral Researcher in the Department of Mathematics and Statistics at [Université de Montréal](https://www.umontreal.ca/) (UdeM) and affiliated with MILA via Algora Lab with [Arthur Charpentier](https://freakonometrics.github.io/) (UQAM) and [Manuel Morales](https://www.manuelmorales.org/) https://github.com/curiousML/curiousml.github.io/edit/master/README.md(UdeM). **TL;DR:** My expertise lies in statistical learning, mathematics, primarily within the insurance domains, but it also extends to biostatistics and finance.
 
 **Short description:** I am currently engaged in collaborative research within diverse domains, with notable expertise in the following areas:
 
@@ -236,7 +236,9 @@ My topics of interest are the following :
   - Speaker in NLP
 
 
-# Hackaton Milliman x Université Gustave Eiffel
+# Hackaton 
+
+## Milliman x Université Gustave Eiffel
 
 - Generative AI Hackaton [[hackaton](./teaching/3A-advanced-machine-learning/hackaton.pdf)]
 - Cours Express RAG [[rag](./teaching/3A-advanced-machine-learning/hackaton_rag.pdf)]
