@@ -243,3 +243,4 @@ My topics of interest are the following :
 - Generative AI Hackaton [[hackaton](./teaching/3A-advanced-machine-learning/hackaton.pdf)]
 - Cours Express RAG [[rag](./teaching/3A-advanced-machine-learning/hackaton_rag.pdf)]
 - Parcours de la baseline [[baseline](./teaching/3A-advanced-machine-learning/hackaton_baseline.pdf)]
+- Debrief J1 [[debrief](./teaching/3A-advanced-machine-learning/hackaton_debriefJ1.pdf)]
