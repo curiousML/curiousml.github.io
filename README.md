@@ -198,8 +198,12 @@ My topics of interest are the following :
    - **Description Projet** : [Soon available]
    - **Notebook** : [Soon available]
 
-
-
+- Practical Work
+   - [[01_EDA_freMPL](./teaching/ISFA/01_EDA_freMPL.ipynb)]
+   - [[02_preprocessing_freMPL](./teaching/ISFA/02_preprocessing_freMPL.ipynb)]
+   - [[03_GLM_logistique](./teaching/ISFA/03_GLM_logistique.ipynb)]
+   - [[04_evaluation_actuarielle](./teaching/ISFA/04_evaluation_actuarielle.ipynb)]
+   - **Case study with freMPL Dataset** [[Notebook](./teaching/epita-python/python_insurance.ipynb)], [[Dataset](./teaching/epita-python/freMPL.csv)]
 
 # Teaching assistant
 
