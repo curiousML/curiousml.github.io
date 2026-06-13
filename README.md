@@ -198,17 +198,17 @@ My topics of interest are the following :
    - **Description Projet** : [Soon available]
 
 - Practical Work on Actuarial Data Science
-   - [[TP1 EDA in insurance](./teaching/ISFA/01_EDA_freMPL.ipynb)]
-   - [[TP2 Preprocessing](./teaching/ISFA/02_preprocessing_freMPL.ipynb)]
-   - [[TP3 Logistic Regression](./teaching/ISFA/03_GLM_logistique.ipynb)]
-   - [[TP4 Actuarial Evaluation](./teaching/ISFA/04_evaluation_actuarielle.ipynb)]
+   - TP1 EDA in insurance [[Notebook](./teaching/ISFA/01_EDA_freMPL.ipynb)]
+   - TP2 Preprocessing [[Notebook](./teaching/ISFA/02_preprocessing_freMPL.ipynb)]
+   - TP3 Logistic Regression [[Notebook](./teaching/ISFA/03_GLM_logistique.ipynb)]
+   - TP4 Actuarial Evaluation [[Notebook](./teaching/ISFA/04_evaluation_actuarielle.ipynb)]
    - [TP5 TBD]
    - [TP6 TBD]
-   - [[TP7 Advanced Machine Learning](./teaching/ISFA/07_ML_avance.ipynb)]
+   - TP7 Advanced Machine Learning [[Notebook](./teaching/ISFA/07_ML_avance.ipynb)]
    - [TP8 TBD]
    - [TP9 TBD]
    - [TP10 TBD]
-   - **freMPL Dataset** [[Dataset](./teaching/epita-python/freMPL.csv)] ; [[Notebook, Data Analysis with Pandas](./teaching/epita-python/python_insurance.ipynb)]
+   - **freMPL Dataset** [[Dataset](./teaching/epita-python/freMPL.csv)] ; Data Analysis with Pandas [[Notebook](./teaching/epita-python/python_insurance.ipynb)]
 
 # Teaching assistant
 
