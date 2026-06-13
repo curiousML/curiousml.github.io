@@ -191,12 +191,11 @@ My topics of interest are the following :
 - Lecturer on Data Science
    - **Lecture 1** : Apprentissage statistique et lien avec l’Actuariat [[cours](./teaching/ISFA/1_introduction_DS.pdf)]
    - **Lecture 2** : Modèles linéaires généralisés et pénalisés [[cours](./teaching/ISFA/2_cours_GLM.pdf)]
-   - **Lecture 3** : Arbre de décision et méthodes ensemblistes [Soon available]
+   - **Lecture 3** : Arbre de décision et méthodes ensemblistes [[cours](./teaching/ISFA/3_cours_RF_GBM.pdf)]
    - **Lecture 4** : Interprétabilité des modèles d’apprentissage [Soon available]
    - **Lecture 5** : IA de confiance et biais algorithmiques [Soon available]
-   - **Lecture 6** : Apprentissage non supervisé [Soon available]
+   - **Lecture 6** : Apprentissage non supervisé [[cours](./teaching/ISFA/6_cours_Unsupervised.pdf)]
    - **Description Projet** : [Soon available]
-   - **Notebook** : [Soon available]
 
 - Practical Work on Actuarial Data Science
    - [[TP1 EDA in insurance](./teaching/ISFA/01_EDA_freMPL.ipynb)]
