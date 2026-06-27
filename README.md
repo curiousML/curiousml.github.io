@@ -202,7 +202,7 @@ My topics of interest are the following :
    - TP2 Preprocessing [[Notebook](./teaching/ISFA/02_preprocessing_freMPL.ipynb)]
    - TP3 Logistic Regression [[Notebook](./teaching/ISFA/03_GLM_logistique.ipynb)]
    - TP4 Actuarial Evaluation [[Notebook](./teaching/ISFA/04_evaluation_actuarielle.ipynb)]
-   - [TP5 TBD]
+   - TP5 GLM vs Credibility [[Notebook](./teaching/ISFA/05_credibilite_vs_GLM.ipynb)]
    - [TP6 TBD]
    - TP7 Advanced Machine Learning [[Notebook](./teaching/ISFA/07_ML_avance.ipynb)]
    - [TP8 TBD]
