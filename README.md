@@ -209,6 +209,7 @@ My topics of interest are the following :
    - [TP9 TBD]
    - [TP10 TBD]
    - **freMPL Dataset** [[Dataset](./teaching/epita-python/freMPL.csv)] ; Data Analysis with Pandas [[Notebook](./teaching/epita-python/python_insurance.ipynb)]
+   - **freMTPL2freq Dataset** [[Dataset](./teaching/GAIN/freMTPL2freq.xlsb)]
 
 # Teaching assistant
 
