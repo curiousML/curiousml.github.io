@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /pages/install_python.html
 title: "Installing Python"
 eyebrow: Course material
 lede: >-

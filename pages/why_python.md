@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /pages/why_python.html
 title: "Why Python?"
 eyebrow: Course material
 lede: >-
