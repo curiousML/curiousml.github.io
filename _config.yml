@@ -27,7 +27,7 @@ author:
   cv: /cv/cv_hu.pdf
   # Channel URL, e.g. https://www.youtube.com/@yourhandle
   # Fills the Subscribe button on /recommendations/ once set.
-  youtube: ""
+  youtube: https://www.youtube.com/@DemythifiedMyths
   email: hu.faugon@gmail.com
   bio: >-
     I am Associate Professor in AI and Actuarial Science at ISFA, Université
