@@ -1,0 +1,41 @@
+---
+layout: page
+permalink: /blog/
+title: Blog
+eyebrow: Notes, tutorials and opinions
+lede: >-
+  Longer-form writing about fairness, machine learning in insurance, teaching,
+  and whatever else I have been thinking about. Roughly one post when I have
+  something worth saying.
+full_width: true
+---
+
+{%- assign all_tags = "" | split: "," -%}
+{%- for post in site.posts -%}
+  {%- assign all_tags = all_tags | concat: post.tags -%}
+{%- endfor -%}
+{%- assign tags = all_tags | uniq | sort -%}
+
+<section class="wrap">
+  {%- if site.posts.size > 0 -%}
+  <div class="filters" data-filter-group="posts">
+    <span class="filters__label">Topics</span>
+    <button class="filter-btn is-active" type="button" data-filter="all" aria-pressed="true">All</button>
+    {%- for tag in tags -%}
+    <button class="filter-btn" type="button" data-filter="{{ tag | downcase }}" aria-pressed="false">{{ tag }}</button>
+    {%- endfor -%}
+    <input class="search-input" type="search" placeholder="Search posts…"
+           data-filter-search="posts" aria-label="Search posts">
+    <a class="chip" href="{{ '/feed.xml' | relative_url }}" style="margin-left:auto">{% include icon.html name="rss" %}RSS</a>
+  </div>
+
+  <div class="grid grid--3" data-filter-target="posts">
+    {%- for post in site.posts -%}
+      {% include post-card.html post=post %}
+    {%- endfor -%}
+  </div>
+  <p class="empty-state is-hidden" data-filter-empty="posts">Nothing matches that search.</p>
+  {%- else -%}
+  <p class="empty-state">No posts yet. The first one is on its way.</p>
+  {%- endif -%}
+</section>

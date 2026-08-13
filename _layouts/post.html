@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+{%- assign words = content | number_of_words -%}
+{%- assign minutes = words | divided_by: 220 | plus: 1 -%}
+
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="page-head page-head--post">
+    <div class="wrap wrap--text">
+      <p class="eyebrow">
+        <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        <span aria-hidden="true">/</span>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+        <span aria-hidden="true">/</span>
+        {{ minutes }} min read
+      </p>
+      <h1 class="page-head__title" itemprop="headline">{{ page.title }}</h1>
+      {%- if page.lede %}<p class="page-head__lede" itemprop="description">{{ page.lede }}</p>{% endif -%}
+      {%- if page.tags and page.tags.size > 0 %}
+      <ul class="tag-list">
+        {%- for tag in page.tags -%}
+        <li><span class="tag">{{ tag }}</span></li>
+        {%- endfor -%}
+      </ul>
+      {% endif -%}
+    </div>
+  </header>
+
+  {%- if page.image %}
+  <div class="wrap">
+    <figure class="post__hero">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" loading="lazy">
+      {%- if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif -%}
+    </figure>
+  </div>
+  {% endif -%}
+
+  <div class="wrap wrap--text">
+    <div class="prose" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <footer class="post__foot">
+      <div class="post__author">
+        <img src="{{ site.author.avatar | relative_url }}" alt="" width="56" height="56" loading="lazy">
+        <div>
+          <p class="post__author-name">{{ site.author.name }}</p>
+          <p class="post__author-bio">{{ site.author.role }}, {{ site.author.affiliation }}</p>
+        </div>
+      </div>
+
+      <nav class="post__nav" aria-label="More posts">
+        {%- if page.previous %}
+        <a class="post__nav-link" href="{{ page.previous.url | relative_url }}">
+          <span class="post__nav-dir">← Previous</span>
+          <span class="post__nav-title">{{ page.previous.title }}</span>
+        </a>
+        {% endif -%}
+        {%- if page.next %}
+        <a class="post__nav-link post__nav-link--next" href="{{ page.next.url | relative_url }}">
+          <span class="post__nav-dir">Next →</span>
+          <span class="post__nav-title">{{ page.next.title }}</span>
+        </a>
+        {% endif -%}
+      </nav>
+    </footer>
+  </div>
+</article>

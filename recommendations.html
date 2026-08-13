@@ -1,0 +1,99 @@
+---
+layout: page
+permalink: /recommendations/
+title: Recommendations
+eyebrow: Channels worth your time
+lede: >-
+  What I tell students to watch when they want the intuition rather than the
+  notation.
+full_width: true
+---
+
+<section class="wrap wrap--text">
+  <div class="prose">
+    <p>
+      A distribution moving on screen does more for intuition than three pages
+      of notation, and the people below are very good at it. I send students to
+      them regularly.
+    </p>
+    <p>
+      It is a short list, and everything on it is something I actually watch.
+    </p>
+  </div>
+</section>
+
+{%- for section in site.data.recommendations -%}
+{%- if section.channels and section.channels.size > 0 -%}
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Recommended</p>
+        <h2 class="section__title">{{ section.group }}</h2>
+        {%- if section.intro %}
+        <p class="card__text" style="margin-top:.7rem;max-width:44em">{{ section.intro }}</p>
+        {% endif -%}
+      </div>
+    </div>
+
+    <div class="grid grid--2">
+      {%- for c in section.channels -%}
+      <article class="card card--channel">
+        <a class="card__title-link" href="{{ c.url }}" rel="noopener">
+          <span class="channel__mark" aria-hidden="true">{% include icon.html name="youtube" %}</span>
+          <span>
+            <h3 class="card__title">{{ c.name }}</h3>
+            {%- if c.by %}<p class="card__meta" style="margin:0">{{ c.by }}</p>{% endif -%}
+          </span>
+        </a>
+        {%- if c.note %}<p class="card__text">{{ c.note }}</p>{% endif -%}
+      </article>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+{%- endif -%}
+{%- endfor -%}
+
+<section class="section section--tint">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Mine</p>
+        <h2 class="section__title">My own channel</h2>
+        <p class="card__text" style="margin-top:.7rem;max-width:44em">
+          Two separate things: course material cut down to something watchable
+          over a coffee, and animation, which is a hobby and has nothing to do
+          with the day job. Both are getting started rather than established.
+        </p>
+      </div>
+    </div>
+
+    {%- if site.author.youtube and site.author.youtube != "" %}
+    <div class="btn-row" style="margin-top:0">
+      <a class="btn btn--primary" href="{{ site.author.youtube }}">
+        {% include icon.html name="youtube" %}Watch on YouTube
+      </a>
+    </div>
+    {%- else %}
+    <p class="note">
+      Set <code>author.youtube</code> in <code>_config.yml</code> to your channel
+      URL and a link appears here.
+    </p>
+    {%- endif %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap wrap--text">
+    <div class="prose">
+      <h2>Suggest one</h2>
+      <p>
+        If you know a channel that belongs on this list,
+        <a href="mailto:{{ site.author.email }}">send it to me</a>. I am trying
+        to keep it short rather than complete, but I am always happy to find
+        something new.
+      </p>
+    </div>
+  </div>
+</section>

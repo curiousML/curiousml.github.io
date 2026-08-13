@@ -1,0 +1,98 @@
+# Teaching assistant duties at Institut Polytechnique de Paris (ENSAE, Polytechnique).
+- course: "Algorithme et programmation"
+  year: "2019 to 2020"
+  level: "1A, semester 1"
+  lead: "Xavier Dupré"
+  lead_url: http://www.xavierdupre.fr/
+  items:
+    - name: "Feuille de route 2019"
+      links:
+        - { label: "Course page", url: "http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx3/questions/route_1A_2019.html#l-feuille-de-route-2019-1a", icon: link }
+
+- course: "Simulation et Monte Carlo"
+  year: "2019 to 2021"
+  level: "2A, semester 2"
+  lead: "Nicolas Chopin"
+  lead_url: https://sites.google.com/site/nicolaschopinstatistician/
+  items:
+    - name: "TD1: Loi uniforme et Monte Carlo"
+      links:
+        - { label: "R correction", url: "/teaching/2A-monte-carlo/TD1_corr.R", icon: code }
+        - { label: "Written", url: "/teaching/2A-monte-carlo/TD1_MC.pdf", icon: pdf }
+    - name: "TD2: Méthode de rejet et Box-Muller amélioré"
+      links:
+        - { label: "R correction", url: "/teaching/2A-monte-carlo/TD2_code_corr.html", icon: code }
+    - name: "TD3: Loi géométrique, variables de contrôle et antithétiques"
+      links:
+        - { label: "R correction", url: "/teaching/2A-monte-carlo/TD3_code_corr.html", icon: code }
+    - name: "TD4: MCMC et importance sampling"
+      links:
+        - { label: "R correction", url: "/teaching/2A-monte-carlo/TD4_code_corr.html", icon: code }
+    - name: "TD5: Cross-entropy et quasi Monte Carlo"
+      links:
+        - { label: "R correction", url: "/teaching/2A-monte-carlo/TD5_code_corr.html", icon: code }
+        - { label: "Quasi-MC (Rmd)", url: "/teaching/2A-monte-carlo/quasi_monte_carlo.Rmd", icon: code }
+
+- course: "Theoretical foundations of Machine Learning"
+  year: "2019 to 2020"
+  level: "2A, semester 2"
+  lead: "Vianney Perchet"
+  lead_url: https://sites.google.com/site/vianneyperchet/
+  items:
+    - name: "TD1: Plug-in methods and over/under-fitting"
+      links:
+        - { label: "Written", url: "/teaching/2A-machine-learning/TD1_Intro_ML_Corrig_.pdf", icon: pdf }
+        - { label: "Python", url: "/teaching/2A-machine-learning/TD1_TP1_corr.html", icon: code }
+    - name: "TD2: Model selection and penalisation"
+      links:
+        - { label: "Written", url: "/teaching/2A-machine-learning/correction_TD2.pdf", icon: pdf }
+    - name: "TP2: k-NN, perceptron and cross-validation"
+      links:
+        - { label: "Python", url: "/teaching/2A-machine-learning/TP2_corr.html", icon: code }
+        - { label: "Notebook", url: "/teaching/2A-machine-learning/TP2_corr.ipynb", icon: notebook }
+    - name: "TP3: SVM, decision trees and random forests"
+      links:
+        - { label: "Python", url: "/teaching/2A-machine-learning/TP3_corr.html", icon: code }
+        - { label: "Notebook", url: "/teaching/2A-machine-learning/TP3_corr.ipynb", icon: notebook }
+
+- course: "Advanced Machine Learning"
+  year: "2020 to 2021"
+  level: "3A, semester 1"
+  lead: "Vianney Perchet"
+  lead_url: https://sites.google.com/site/vianneyperchet/
+  items:
+    - name: "PW: Python, linear regression and SVM"
+      links:
+        - { label: "Python", url: "/teaching/3A-advanced-machine-learning/tp_advanced_machine_learning.html", icon: code }
+    - name: "PW: RKHS, optimisation and neural networks"
+      links:
+        - { label: "Written", url: "/teaching/3A-advanced-machine-learning/aml_td2_raw_correction.pdf", icon: pdf }
+        - { label: "Neural nets", url: "/teaching/3A-advanced-machine-learning/aml_neural_nets.html", icon: code }
+
+- course: "Machine Learning for Finance"
+  year: "2019 to 2020"
+  level: "3A, semester 2"
+  lead: "Romuald Elie"
+  lead_url: https://perso.math.u-pem.fr/elie.romuald/elie.html
+  items:
+    - name: "Guest speaker on NLP"
+      links: []
+
+- course: "Machine Learning for Finance: NLP module"
+  year: "2020 to 2022"
+  level: "3A"
+  lead: ""
+  lead_url:
+  items:
+    - name: "Introduction"
+      links:
+        - { label: "Slides", url: "/teaching/3A-machine-learning-finance/Introduction.slides.html", icon: slides }
+        - { label: "Notebook", url: "/teaching/3A-machine-learning-finance/Introduction.ipynb", icon: notebook }
+    - name: "Représentations vectorielles"
+      links:
+        - { label: "Slides", url: "/teaching/3A-machine-learning-finance/Representations_vectorielles.slides.html", icon: slides }
+        - { label: "Notebook", url: "/teaching/3A-machine-learning-finance/Representations_vectorielles.ipynb", icon: notebook }
+    - name: "TP: Topic modelling"
+      links:
+        - { label: "Notebook", url: "/teaching/3A-machine-learning-finance/TP_topic_modeling.ipynb", icon: notebook }
+        - { label: "Correction", url: "/teaching/3A-machine-learning-finance/TP_topic_modeling_corr.ipynb", icon: notebook }

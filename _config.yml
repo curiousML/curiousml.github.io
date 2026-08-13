@@ -1,15 +1,122 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-theme: jekyll-theme-architect
+# ---------------------------------------------------------------------------
+#  Site
+# ---------------------------------------------------------------------------
 title: François HU
-description: About me, my research, my teaching and my experimentations
+tagline: Associate Professor & AI Researcher
+description: >-
+  Personal site of François HU, Associate Professor in AI and Actuarial Science
+  at ISFA, Université Claude Bernard Lyon 1, and Head of the R&D AI Lab at
+  Milliman France. Research on trustworthy AI, algorithmic fairness, and
+  statistical learning for insurance and finance.
+url: https://curiousml.github.io
+baseurl: ""
+lang: en
+
+# ---------------------------------------------------------------------------
+#  Author / identity
+# ---------------------------------------------------------------------------
+author:
+  name: François HU
+  short_name: François
+  role: Associate Professor & AI Researcher
+  affiliation: ISFA, Université Claude Bernard Lyon 1
+  affiliation_2: R&D AI Lab, Milliman France
+  location: Paris, France
+  photo: /images/photo_FH.png
+  avatar: /images/francois_HU.jpeg
+  cv: /cv/cv_hu.pdf
+  # Channel URL, e.g. https://www.youtube.com/@yourhandle
+  # Fills the Subscribe button on /recommendations/ once set.
+  youtube: ""
+  email: hu.faugon@gmail.com
+  bio: >-
+    I am Associate Professor in AI and Actuarial Science at ISFA, Université
+    Claude Bernard Lyon 1, and I lead the R&D AI Lab at Milliman France. My work
+    sits at the intersection of statistical learning and trustworthy AI
+    (fairness, interpretability, privacy), mostly applied to insurance and
+    finance. I also teach at EPITA, Cnam and the Institut des Actuaires.
+
+# Order matters: this drives the "Elsewhere" lists and the footer.
+social:
+  - name: Google Scholar
+    icon: scholar
+    url: https://scholar.google.fr/citations?user=fYtrQLAAAAAJ&hl=fr
+  - name: GitHub
+    icon: github
+    url: https://github.com/curiousML
+  - name: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/fran%C3%A7ois-hu-9b6295136/
+  - name: arXiv
+    icon: arxiv
+    url: https://arxiv.org/a/hu_f_1
+  - name: Email
+    icon: mail
+    url: mailto:hu.faugon@gmail.com
+
+# ---------------------------------------------------------------------------
+#  Navigation
+# ---------------------------------------------------------------------------
+nav:
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: Projects
+    url: /projects/
+  - title: Blog
+    url: /blog/
+  - title: Experience
+    url: /experience/
+  - title: Recommendations
+    url: /recommendations/
+
+# ---------------------------------------------------------------------------
+#  Build
+# ---------------------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+permalink: /blog/:title/
+timezone: Europe/Paris
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+feed:
+  path: /feed.xml
+
 google_analytics: UA-163147530-1
-logo: images/logo.png
-logo1: images/logo1.png
-logo2: images/logo2.png
-photo: images/logo.png
-currect_cv: cv/cv_hu.pdf
-linkedin: https://www.linkedin.com/in/fran%C3%A7ois-hu-9b6295136/?originalSubdomain=fr
-show_downloads: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .DS_Store
+  - "**/.ipynb_checkpoints"
+  - "**/.DS_Store"

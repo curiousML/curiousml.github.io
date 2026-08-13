@@ -1,0 +1,65 @@
+# Career timeline, most recent first.
+- period: "Since 2026"
+  role: "Associate Professor in AI and Actuarial Science"
+  org: "ISFA, Université Claude Bernard Lyon 1"
+  org_url: https://isfa.univ-lyon1.fr/
+  location: "Lyon"
+  summary: >-
+    Teaching and research at the Institut de Science Financière et d'Assurances,
+    at the meeting point of artificial intelligence and actuarial science.
+  highlights:
+    - "Research on trustworthy AI and statistical learning for insurance."
+    - "Lecturing on data science and actuarial machine learning in the MSc in Actuarial Science."
+    - "Supervising student research projects at ISFA and ENSEA Abidjan."
+
+- period: "Since 2024"
+  role: "Head of the R&D AI Lab"
+  org: "Milliman France"
+  org_url: https://fr.milliman.com/fr-fr/
+  location: "Paris"
+  summary: >-
+    Leading the AI Lab inside the R&D division of Alexandre Boumezoued, with a
+    focus on generative AI and trustworthy AI for insurance and finance.
+  highlights:
+    - "Set the research agenda for GenAI and trustworthy AI (fairness, interpretability, privacy)."
+    - "Build and lead the team turning research prototypes into client-facing work."
+    - "Bridge academic collaborations and applied actuarial practice."
+
+- period: "2022 to 2024"
+  role: "Postdoctoral Researcher"
+  org: "Université de Montréal, Department of Mathematics and Statistics"
+  org_url: https://www.umontreal.ca/
+  location: "Montréal"
+  summary: >-
+    Affiliated with Mila through Algora Lab, working with Arthur Charpentier
+    (UQAM) and Manuel Morales (UdeM) on fairness, insurance and NLP.
+  highlights:
+    - "Optimal-transport approaches to fairness with multiple sensitive attributes (AAAI 2024, ECML-PKDD 2023)."
+    - "Early Warning System for Infectious Diseases, part of the Mathematics for Public Health initiative."
+    - "ESG concept extraction for Canadian companies with Algora Lab, for sustainable finance."
+
+- period: "2019 to 2022"
+  role: "PhD in Machine Learning and Insurance"
+  org: "Institut Polytechnique de Paris (CREST-ENSAE)"
+  org_url: https://www.ip-paris.fr/
+  location: "Palaiseau"
+  summary: >-
+    “Semi-supervised learning in insurance: fairness and labelling”, supervised
+    by Caroline Hillairet and Romuald Elie.
+  highlights:
+    - "Awarded best actuarial thesis in France (SCOR Prize 2022)."
+    - "Designed learning systems that are accurate in prediction, cheap in labelling and fair by construction."
+    - "Published in JMLR, AAAI and ECML-PKDD."
+
+- period: "2018 to 2022"
+  role: "Data Scientist"
+  org: "Société Générale Insurance, Datalab"
+  org_url: https://particuliers.societegenerale.fr/
+  location: "Paris"
+  summary: >-
+    Four years of applied data science on textual data, model transparency and
+    insurance scoring.
+  highlights:
+    - "Deployed machine-learning scoring models for home (MRH) and motor insurance."
+    - "Led projects on online learning, semi-supervised learning, transparency in deep models and computer vision."
+    - "Built end-to-end ML orchestration with Git, MLflow, Kedro and CI/CD."

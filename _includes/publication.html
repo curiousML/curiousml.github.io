@@ -1,0 +1,34 @@
+{%- comment -%}
+  Renders one publication. Usage: {% include publication.html pub=item %}
+{%- endcomment -%}
+{%- assign pub = include.pub -%}
+<li class="pub" data-year="{{ pub.year }}" data-topics="{{ pub.topics | join: ',' }}" data-kind="{{ pub.kind }}">
+  <div class="pub__year" aria-hidden="true">{{ pub.year }}</div>
+  <div class="pub__body">
+    <h3 class="pub__title">
+      {%- if pub.url -%}
+      <a href="{{ pub.url }}">{{ pub.title }}</a>
+      {%- else -%}
+      {{ pub.title }}
+      {%- endif -%}
+    </h3>
+    <p class="pub__authors">
+      {%- for a in pub.authors -%}
+        {%- if a == 'F. Hu' -%}<strong>{{ a }}</strong>{%- else -%}{{ a }}{%- endif -%}
+        {%- unless forloop.last %}, {% endunless -%}
+      {%- endfor -%}
+    </p>
+    <p class="pub__venue">
+      <span class="badge badge--{{ pub.kind }}">{{ pub.venue }}</span>
+      {%- if pub.note %}<span class="pub__note">{{ pub.note }}</span>{% endif -%}
+    </p>
+    {%- if pub.abstract %}<p class="pub__abstract">{{ pub.abstract }}</p>{% endif -%}
+    {%- if pub.links and pub.links.size > 0 %}
+    <p class="pub__links">
+      {%- for link in pub.links -%}
+      <a class="chip" href="{{ link.url | relative_url }}">{% include icon.html name=link.icon %}{{ link.label }}</a>
+      {%- endfor -%}
+    </p>
+    {% endif -%}
+  </div>
+</li>

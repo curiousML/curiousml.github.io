@@ -1,4 +1,10 @@
-# Why Python ?
+---
+layout: page
+title: "Why Python?"
+eyebrow: Course material
+lede: >-
+  Where Python sits among programming languages, why it took over scientific computing, and what that means if you are learning it now.
+---
 
 ## 1. About python <a name="subpar11"></a>
 

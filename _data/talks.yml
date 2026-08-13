@@ -1,0 +1,63 @@
+# Invited talks and conference presentations, most recent first.
+- date: "March 2024"
+  sort: 202403
+  title: "Algorithmic fairness for multiple sensitive attributes, with applications in insurance"
+  event: "Risk Forum"
+  event_url:
+  links: []
+
+- date: "February 2024"
+  sort: 202402
+  title: "A sequentially fair mechanism for multiple sensitive attributes"
+  event: "AAAI-24"
+  event_url: https://aaai.org/aaai-conference/
+  links: []
+
+- date: "22 Sep 2023"
+  sort: 202309
+  title: "Mitigating discrimination in insurance"
+  event: "BIAS 2023"
+  event_url: https://sites.google.com/view/bias2023/
+  links:
+    - { label: "Slides", url: "/talks/BIAS2023_slides.pdf", icon: slides }
+
+- date: "21 Sep 2023"
+  sort: 202309
+  title: "Fairness in multi-task learning via Wasserstein barycenters"
+  event: "ECML-PKDD 2023"
+  event_url: https://2023.ecmlpkdd.org/
+  links:
+    - { label: "Slides", url: "/talks/ECML2023_slides.pdf", icon: slides }
+
+- date: "07 Feb 2023"
+  sort: 202302
+  title: "Fairness and labelling for multi-class problems: application"
+  event: "Institut des Actuaires"
+  event_url: https://www.institutdesactuaires.com/agenda/equite-et-apprentissage-actif-dans-les-problemes-multi-classes-3914
+  links:
+    - { label: "Slides", url: "/talks/TheseHuAppliedPDF.pdf", icon: slides }
+
+- date: "15 Jun 2022"
+  sort: 202206
+  title: "PhD defence: semi-supervised learning in insurance, fairness and labelling"
+  event: "Institut Polytechnique de Paris"
+  event_url:
+  links:
+    - { label: "Slides", url: "/talks/SLIDES_PhD_defense_HU_VF.pdf", icon: slides }
+    - { label: "Actuarial Award 2022", url: "https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/", icon: link }
+
+- date: "28 Apr 2020"
+  sort: 202004
+  title: "Efficient labelling with active learning"
+  event: "OICA"
+  event_url: https://oica.univ-lyon1.fr/
+  links:
+    - { label: "Slides", url: "/talks/HU_OICA_slides.pdf", icon: slides }
+
+- date: "29 Nov 2019"
+  sort: 201911
+  title: "Active learning for the detection of categories in text fields"
+  event: "100% Data Science"
+  event_url: https://www.institutdesactuaires.com/se-documenter/supports-des-presentations/100-data-science-128
+  links:
+    - { label: "Slides", url: "/talks/100DS.pdf", icon: slides }

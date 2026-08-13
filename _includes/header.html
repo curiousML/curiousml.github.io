@@ -1,0 +1,40 @@
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header" id="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand__mark" aria-hidden="true">FH</span>
+      <span class="brand__text">
+        <span class="brand__name">{{ site.title }}</span>
+        <span class="brand__role">{{ site.author.role }}</span>
+      </span>
+    </a>
+
+    <nav class="nav" id="site-nav" aria-label="Primary">
+      <ul class="nav__list">
+        {%- for item in site.nav -%}
+          {%- assign is_current = false -%}
+          {%- if page.url == item.url -%}{%- assign is_current = true -%}{%- endif -%}
+          {%- if item.url != '/' and page.url contains item.url -%}{%- assign is_current = true -%}{%- endif -%}
+          <li>
+            <a href="{{ item.url | relative_url }}"
+               class="nav__link{% if is_current %} is-current{% endif %}"
+               {% if is_current %}aria-current="page"{% endif %}>{{ item.title }}</a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+
+    <div class="site-header__tools">
+      <button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch colour theme">
+        <span class="icon-btn__light">{% include icon.html name="sun" %}</span>
+        <span class="icon-btn__dark">{% include icon.html name="moon" %}</span>
+      </button>
+      <button class="icon-btn nav-toggle" id="nav-toggle" type="button"
+              aria-expanded="false" aria-controls="site-nav" aria-label="Open menu">
+        <span class="nav-toggle__open">{% include icon.html name="menu" %}</span>
+        <span class="nav-toggle__close">{% include icon.html name="close" %}</span>
+      </button>
+    </div>
+  </div>
+</header>

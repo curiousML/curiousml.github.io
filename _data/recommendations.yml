@@ -1,0 +1,38 @@
+# Channels I recommend, grouped. Rendered on /recommendations/.
+#
+# Only add channels you actually watch and would put your name next to. Every
+# URL here has been checked to resolve; if you add one, check the handle too
+# (a wrong @handle is a silent 404).
+#
+# To add a group, copy the block below. Groups with an empty `channels:` list
+# are skipped entirely, so you can leave a heading in place while you fill it.
+
+- group: "For people getting into AI"
+  intro: >-
+    The two I point students to first. Between them they cover a lot of the
+    intuition that textbooks assume you already have.
+  channels:
+    - name: "3Blue1Brown"
+      url: "https://www.youtube.com/@3blue1brown"
+      by: "Grant Sanderson"
+      note: >-
+        Linear algebra, calculus and neural networks made visual. Probably the
+        best there is at this.
+    - name: "StatQuest"
+      url: "https://www.youtube.com/@statquest"
+      by: "Josh Starmer"
+      note: >-
+        Statistics and machine learning explained slowly and without
+        hand-waving. Excellent before an exam, and honestly after one too.
+
+# Copy this block to add your own groups, for example:
+#
+# - group: "Actuarial science and insurance"
+#   intro: >-
+#     One or two sentences on why this group is here.
+#   channels:
+#     - name: "Channel name"
+#       url: "https://www.youtube.com/@handle"
+#       by: "Who makes it"
+#       note: >-
+#         Why you recommend it.

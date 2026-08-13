@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<article class="project">
+  <header class="page-head">
+    <div class="wrap wrap--text">
+      <p class="eyebrow">
+        <a href="{{ '/projects/' | relative_url }}">Projects</a>
+        {%- if page.status %}<span aria-hidden="true">/</span> {{ page.status }}{% endif -%}
+        {%- if page.period %}<span aria-hidden="true">/</span> {{ page.period }}{% endif -%}
+      </p>
+      <h1 class="page-head__title">{{ page.title }}</h1>
+      {%- if page.lede %}<p class="page-head__lede">{{ page.lede }}</p>{% endif -%}
+
+      {%- if page.links and page.links.size > 0 %}
+      <div class="btn-row">
+        {%- for link in page.links -%}
+        <a class="btn {% if forloop.first %}btn--primary{% else %}btn--ghost{% endif %}" href="{{ link.url }}">
+          {% include icon.html name=link.icon %}{{ link.label }}
+        </a>
+        {%- endfor -%}
+      </div>
+      {% endif -%}
+
+      {%- if page.stack and page.stack.size > 0 %}
+      <ul class="tag-list">
+        {%- for item in page.stack -%}<li><span class="tag">{{ item }}</span></li>{%- endfor -%}
+      </ul>
+      {% endif -%}
+    </div>
+  </header>
+
+  <div class="wrap wrap--text">
+    <div class="prose">
+      {{ content }}
+    </div>
+
+    <p class="back-link">
+      <a href="{{ '/projects/' | relative_url }}">← All projects</a>
+    </p>
+  </div>
+</article>

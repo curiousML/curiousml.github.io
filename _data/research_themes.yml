@@ -1,0 +1,40 @@
+- title: "Algorithmic fairness"
+  summary: >-
+    Optimal-transport methods that correct discrimination in predictive models,
+    for one sensitive attribute or several at once, with statistical guarantees
+    on what accuracy that costs.
+  keywords: [Wasserstein barycenters, demographic parity, multi-class, EquiPy]
+
+- title: "Trustworthy AI for insurance"
+  summary: >-
+    Pricing, scoring and mortality models that regulators and policyholders can
+    actually scrutinise: interpretability, privacy and bias auditing on real
+    actuarial portfolios.
+  keywords: [interpretability, privacy, actuarial science, model risk]
+
+- title: "Probability calibration"
+  summary: >-
+    A score is only useful if its numbers mean what they claim. Recalibrating
+    predicted probabilities so that they match observed frequencies, and keeping
+    them calibrated once a fairness correction has been applied on top.
+  keywords: [calibration, reliability, proper scoring rules, post-processing]
+
+- title: "Bayesian statistics"
+  summary: >-
+    Latent variable models, variational inference and MCMC, used both as a
+    research tool for uncertainty quantification and as the backbone of the
+    Bayesian machine learning course I teach.
+  keywords: [Bayesian inference, latent variable models, MCMC, uncertainty]
+
+- title: "NLP, LLMs and generative AI"
+  summary: >-
+    Extracting structure from unstructured text: ESG concepts in corporate
+    reporting, early signals of infectious disease outbreaks, and retrieval-
+    augmented systems for insurance.
+  keywords: [LLM, RAG, topic models, ESG]
+
+- title: "Semi-supervised & active learning"
+  summary: >-
+    When labels are expensive, which ones should you buy? Sampling and labelling
+    strategies that keep both cost and bias under control.
+  keywords: [active learning, labelling, sampling, semi-supervised]

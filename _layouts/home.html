@@ -1,0 +1,178 @@
+---
+layout: default
+---
+
+{%- assign featured_pubs = site.data.publications | where: "featured", true -%}
+{%- assign recent_posts = site.posts -%}
+{%- assign featured_projects = site.projects | where: "featured", true | sort: "order" -%}
+
+<section class="hero">
+  <div class="wrap hero__inner">
+    <div class="hero__text">
+      <p class="eyebrow">{{ site.author.affiliation }} · {{ site.author.affiliation_2 }}</p>
+      <h1 class="hero__title">{{ site.author.name }}</h1>
+      <p class="hero__role">{{ site.author.role }}</p>
+      <p class="hero__bio">{{ site.author.bio }}</p>
+
+      <div class="btn-row">
+        <a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Read the research {% include icon.html name="arrow" %}</a>
+        <a class="btn btn--ghost" href="{{ site.author.cv | relative_url }}">{% include icon.html name="pdf" %}Curriculum vitae</a>
+      </div>
+
+      <ul class="social-row">
+        {%- for link in site.social -%}
+        <li>
+          <a class="social-row__link" href="{{ link.url }}" rel="me noopener" title="{{ link.name }}">
+            {% include icon.html name=link.icon %}<span>{{ link.name }}</span>
+          </a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+
+    <div class="hero__media">
+      <div class="portrait">
+        <img src="{{ site.author.photo | relative_url }}" alt="Portrait of {{ site.author.name }}" width="420" height="420">
+      </div>
+      <div class="status-card">
+        <p class="status-card__label">Currently</p>
+        <ul>
+          {%- for item in site.data.now -%}
+          <li><span class="status-card__dot" aria-hidden="true"></span>{{ item }}</li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Research</p>
+        <h2 class="section__title">What I work on</h2>
+      </div>
+      <a class="section__more" href="{{ '/research/' | relative_url }}">All research {% include icon.html name="arrow" %}</a>
+    </div>
+
+    <div class="grid grid--3">
+      {%- for theme in site.data.research_themes -%}
+      <article class="card card--theme">
+        <p class="card__index" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</p>
+        <h3 class="card__title">{{ theme.title }}</h3>
+        <p class="card__text">{{ theme.summary }}</p>
+        {%- if theme.keywords %}
+        <ul class="tag-list tag-list--sm">
+          {%- for k in theme.keywords -%}<li><span class="tag">{{ k }}</span></li>{%- endfor -%}
+        </ul>
+        {% endif -%}
+      </article>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+<section class="section section--tint">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Publications</p>
+        <h2 class="section__title">Selected papers</h2>
+      </div>
+      <a class="section__more" href="{{ '/research/#publications' | relative_url }}">Full list {% include icon.html name="arrow" %}</a>
+    </div>
+
+    <ol class="pub-list">
+      {%- for pub in featured_pubs -%}
+        {% include publication.html pub=pub %}
+      {%- endfor -%}
+    </ol>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Writing</p>
+        <h2 class="section__title">From the blog</h2>
+      </div>
+      <a class="section__more" href="{{ '/blog/' | relative_url }}">All posts {% include icon.html name="arrow" %}</a>
+    </div>
+
+    {%- if recent_posts.size > 0 -%}
+    <div class="grid grid--3">
+      {%- for post in recent_posts limit: 3 -%}
+        {% include post-card.html post=post %}
+      {%- endfor -%}
+    </div>
+    {%- else -%}
+    <p class="muted">No posts yet. The first one is being written.</p>
+    {%- endif -%}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Projects</p>
+        <h2 class="section__title">Projects</h2>
+      </div>
+      <a class="section__more" href="{{ '/projects/' | relative_url }}">All projects {% include icon.html name="arrow" %}</a>
+    </div>
+
+    <div class="grid grid--2">
+      {%- for project in featured_projects -%}
+      <article class="card card--project">
+        <p class="card__meta">{{ project.status }}{% if project.period %} · {{ project.period }}{% endif %}</p>
+        <h3 class="card__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+        <p class="card__text">{{ project.lede }}</p>
+        {%- if project.stack %}
+        <ul class="tag-list tag-list--sm">
+          {%- for s in project.stack limit: 4 -%}<li><span class="tag">{{ s }}</span></li>{%- endfor -%}
+        </ul>
+        {% endif -%}
+      </article>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+<section class="section section--tint">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Teaching</p>
+        <h2 class="section__title">Where I teach</h2>
+      </div>
+      <a class="section__more" href="{{ '/teaching/' | relative_url }}">Courses & material {% include icon.html name="arrow" %}</a>
+    </div>
+
+    <ul class="inst-row">
+      {%- for inst in site.data.teaching -%}
+      <li class="inst">
+        <p class="inst__name">{{ inst.name }}</p>
+        <p class="inst__meta">{{ inst.period }} · {{ inst.courses | size }} course{% if inst.courses.size != 1 %}s{% endif %}</p>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="wrap cta__inner">
+    <div>
+      <h2 class="cta__title">Let's talk</h2>
+      <p class="cta__text">
+        Happy to discuss collaborations on trustworthy AI, guest lectures or
+        research internships. Email is the fastest way to reach me.
+      </p>
+    </div>
+    <div class="btn-row">
+      <a class="btn btn--primary" href="mailto:{{ site.author.email }}">{% include icon.html name="mail" %}Get in touch</a>
+      <a class="btn btn--ghost" href="{{ '/recommendations/' | relative_url }}">Recommendations</a>
+    </div>
+  </div>
+</section>

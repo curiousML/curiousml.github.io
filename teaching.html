@@ -1,0 +1,163 @@
+---
+layout: page
+permalink: /teaching/
+title: Teaching
+eyebrow: Lectures · Practical work · Material
+lede: >-
+  Slide decks, notebooks and datasets from the courses I teach, in one place.
+  Free to reuse for teaching. A link back is appreciated.
+full_width: true
+---
+
+<section class="wrap">
+  <div class="filters" data-filter-group="courses" style="margin-bottom:2.5rem">
+    <span class="filters__label">Jump to</span>
+    {%- for inst in site.data.teaching -%}
+    <a class="filter-btn" href="#{{ inst.id }}">{{ inst.name }}</a>
+    {%- endfor -%}
+    <a class="filter-btn" href="#assistant">Teaching assistant</a>
+    <a class="filter-btn" href="#hackathons">Hackathons</a>
+    <a class="filter-btn" href="#cheatsheets">Cheat sheets</a>
+  </div>
+</section>
+
+{%- for inst in site.data.teaching -%}
+{%- assign alt = forloop.index0 | modulo: 2 -%}
+<section class="section{% if alt == 1 %} section--tint{% endif %}" id="{{ inst.id }}">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">{{ inst.period }} · {{ inst.role }}</p>
+        <h2 class="section__title">
+          {%- if inst.url -%}<a href="{{ inst.url }}" style="color:inherit;text-decoration:none">{{ inst.name }}</a>
+          {%- else -%}{{ inst.name }}{%- endif -%}
+        </h2>
+        <p class="card__text" style="margin-top:.7rem;max-width:44em">{{ inst.summary }}</p>
+      </div>
+    </div>
+
+    {%- for course in inst.courses -%}
+    <details class="course"{% if forloop.first %} open{% endif %}>
+      <summary>
+        <span class="course__level">{{ course.level }}</span>
+        <span>{{ course.title }}</span>
+      </summary>
+      <div class="course__inner">
+        {%- if course.description %}<p class="course__desc">{{ course.description }}</p>{% endif -%}
+        <div class="course__items">
+          {%- for item in course.items -%}
+          <div class="course__item">
+            <span class="course__item-name">
+              {{ item.name }}
+              {%- if item.note %} <span class="tag">{{ item.note }}</span>{% endif -%}
+            </span>
+            <span class="course__item-links">
+              {%- for link in item.links -%}
+              <a class="chip" href="{{ link.url | relative_url }}">{% include icon.html name=link.icon %}{{ link.label }}</a>
+              {%- endfor -%}
+            </span>
+          </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    </details>
+    {%- endfor -%}
+  </div>
+</section>
+{%- endfor -%}
+
+<section class="section" id="assistant">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">2019 to 2022 · Institut Polytechnique de Paris</p>
+        <h2 class="section__title">Teaching assistant</h2>
+        <p class="card__text" style="margin-top:.7rem;max-width:44em">
+          Tutorials and practical sessions at ENSAE and École polytechnique,
+          alongside the course leads.
+        </p>
+      </div>
+    </div>
+
+    {%- for ta in site.data.teaching_assistant -%}
+    <details class="course">
+      <summary>
+        <span class="course__level">{{ ta.level }}</span>
+        <span>{{ ta.course }}</span>
+        <span class="card__meta" style="margin:0">{{ ta.year }}</span>
+      </summary>
+      <div class="course__inner">
+        {%- if ta.lead != "" and ta.lead %}
+        <p class="course__desc">
+          Course led by
+          {%- if ta.lead_url %} <a href="{{ ta.lead_url }}">{{ ta.lead }}</a>{% else %} {{ ta.lead }}{% endif -%}.
+        </p>
+        {% endif -%}
+        <div class="course__items">
+          {%- for item in ta.items -%}
+          <div class="course__item">
+            <span class="course__item-name">{{ item.name }}</span>
+            <span class="course__item-links">
+              {%- for link in item.links -%}
+              <a class="chip" href="{{ link.url | relative_url }}">{% include icon.html name=link.icon %}{{ link.label }}</a>
+              {%- endfor -%}
+            </span>
+          </div>
+          {%- endfor -%}
+        </div>
+      </div>
+    </details>
+    {%- endfor -%}
+  </div>
+</section>
+
+<section class="section section--tint" id="hackathons">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Milliman × Université Gustave Eiffel</p>
+        <h2 class="section__title">Generative AI hackathon</h2>
+      </div>
+    </div>
+    <div class="grid grid--2">
+      <article class="card">
+        <h3 class="card__title">Brief and baseline</h3>
+        <p class="card__text">Everything students received to get started in two days.</p>
+        <p class="pub__links">
+          <a class="chip" href="{{ '/teaching/3A-advanced-machine-learning/hackaton.pdf' | relative_url }}">{% include icon.html name="pdf" %}Hackathon brief</a>
+          <a class="chip" href="{{ '/teaching/3A-advanced-machine-learning/hackaton_baseline.pdf' | relative_url }}">{% include icon.html name="pdf" %}Baseline walkthrough</a>
+        </p>
+      </article>
+      <article class="card">
+        <h3 class="card__title">Crash course &amp; debrief</h3>
+        <p class="card__text">A fast introduction to retrieval-augmented generation, and the day-one debrief.</p>
+        <p class="pub__links">
+          <a class="chip" href="{{ '/teaching/3A-advanced-machine-learning/hackaton_rag.pdf' | relative_url }}">{% include icon.html name="pdf" %}RAG crash course</a>
+          <a class="chip" href="{{ '/teaching/3A-advanced-machine-learning/hackaton_debriefJ1.pdf' | relative_url }}">{% include icon.html name="pdf" %}Day 1 debrief</a>
+        </p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="cheatsheets">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Handouts</p>
+        <h2 class="section__title">Cheat sheets</h2>
+        <p class="card__text" style="margin-top:.7rem;max-width:44em">
+          The reference sheets I hand out at the start of every Python course.
+        </p>
+      </div>
+    </div>
+    <p class="pub__links">
+      <a class="chip" href="{{ '/teaching/python-cheatsheets.pdf' | relative_url }}">{% include icon.html name="pdf" %}Python</a>
+      <a class="chip" href="{{ '/teaching/python-jupyter-cheatsheets.pdf' | relative_url }}">{% include icon.html name="pdf" %}Jupyter</a>
+      <a class="chip" href="{{ '/teaching/numpy-scipy-cheatsheets.pdf' | relative_url }}">{% include icon.html name="pdf" %}NumPy &amp; SciPy</a>
+      <a class="chip" href="{{ '/teaching/pandas-cheatsheets.pdf' | relative_url }}">{% include icon.html name="pdf" %}pandas</a>
+      <a class="chip" href="{{ '/teaching/matplotlib-seaborn-bokeh-cheatsheets.pdf' | relative_url }}">{% include icon.html name="pdf" %}Matplotlib, Seaborn, Bokeh</a>
+      <a class="chip" href="{{ '/teaching/scikit-learn-cheatsheets.pdf' | relative_url }}">{% include icon.html name="pdf" %}scikit-learn</a>
+    </p>
+  </div>
+</section>

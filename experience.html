@@ -1,0 +1,93 @@
+---
+layout: page
+permalink: /experience/
+title: Experience
+eyebrow: Career · Awards · Service
+lede: >-
+  Moving between industry data science and academic research, and currently
+  doing both at once.
+full_width: true
+actions:
+  - { label: "Download the CV", url: "/cv/cv_hu.pdf" }
+---
+
+<section class="wrap wrap--text">
+  <ol class="timeline">
+    {%- for job in site.data.experience -%}
+    <li class="timeline__item">
+      <p class="timeline__period">{{ job.period }}</p>
+      <h2 class="timeline__role">{{ job.role }}</h2>
+      <p class="timeline__org">
+        {%- if job.org_url -%}<a href="{{ job.org_url }}">{{ job.org }}</a>{%- else -%}{{ job.org }}{%- endif -%}
+        {%- if job.location %} · {{ job.location }}{% endif -%}
+      </p>
+      <div class="timeline__body">
+        <p>{{ job.summary }}</p>
+        {%- if job.highlights %}
+        <ul>
+          {%- for h in job.highlights -%}<li>{{ h }}</li>{%- endfor -%}
+        </ul>
+        {% endif -%}
+      </div>
+    </li>
+    {%- endfor -%}
+  </ol>
+</section>
+
+<section class="section section--tint" style="margin-top:var(--section-y)">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Recognition</p>
+        <h2 class="section__title">Awards and coverage</h2>
+      </div>
+    </div>
+    <div class="grid grid--2">
+      <article class="card">
+        <p class="card__index">{% include icon.html name="award" %}</p>
+        <h3 class="card__title">Best actuarial thesis in France, 2022</h3>
+        <p class="card__text">
+          SCOR Prize, awarded by the Institut des Actuaires for
+          <em>Semi-supervised learning in insurance: fairness and labelling</em>.
+        </p>
+        <p class="pub__links">
+          <a class="chip" href="https://www.institutdesactuaires.com/news/ceremonie-de-remise-des-prix-actuariat-2022-5762">{% include icon.html name="link" %}Ceremony</a>
+          <a class="chip" href="{{ '/research/TheseFrancoisHUSubmitted.pdf' | relative_url }}">{% include icon.html name="pdf" %}Thesis</a>
+        </p>
+      </article>
+      <article class="card">
+        <p class="card__index">{% include icon.html name="link" %}</p>
+        <h3 class="card__title">Montreal AI Ethics Institute</h3>
+        <p class="card__text">
+          Our AAAI 2024 paper, <em>A sequentially fair mechanism for multiple
+          sensitive attributes</em>, was written up as a research summary by the
+          Montreal AI Ethics Institute.
+        </p>
+        <p class="pub__links">
+          <a class="chip" href="https://montrealethics.ai/a-sequentially-fair-mechanism-for-multiple-sensitive-attributes/">{% include icon.html name="link" %}Read the summary</a>
+          <a class="chip" href="https://arxiv.org/abs/2309.06627">{% include icon.html name="pdf" %}The paper</a>
+        </p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap wrap--text">
+    <div class="prose">
+      <h2>Skills, in practice</h2>
+      <p>
+        Statistical and machine learning (fairness, semi-supervised methods,
+        optimal transport), NLP and LLM systems including retrieval-augmented
+        pipelines, and the engineering to ship them: Python, R, Git, MLflow,
+        Kedro, CI/CD and automated testing. The work usually involves
+        presenting the same result to a research seminar and to a risk
+        committee, which are not the same conversation.
+      </p>
+      <p>
+        The <a href="{{ site.author.cv | relative_url }}">CV</a> has the detailed
+        and current version.
+      </p>
+    </div>
+  </div>
+</section>

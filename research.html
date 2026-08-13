@@ -1,0 +1,164 @@
+---
+layout: page
+permalink: /research/
+title: Research
+eyebrow: Fairness · Trustworthy AI · Insurance
+lede: >-
+  Statistical learning for settings where a prediction has consequences:
+  fairness, calibration and labelling, mostly in insurance and finance.
+full_width: true
+---
+
+{%- assign all_topics = "" | split: "," -%}
+{%- for pub in site.data.publications -%}
+  {%- assign all_topics = all_topics | concat: pub.topics -%}
+{%- endfor -%}
+{%- assign topics = all_topics | uniq | sort -%}
+{%- assign pubs = site.data.publications | sort: "year" | reverse -%}
+{%- assign talks = site.data.talks -%}
+
+<section class="wrap wrap--text">
+  <div class="prose">
+    <p>
+      Predictive models in insurance and finance are often trained on data that
+      already encodes historical inequality, and then deployed in settings where
+      the decision matters a great deal to the person on the other side. Two
+      questions follow from that. First: given a model you
+      already have, how do you correct its discriminatory behaviour, for one
+      protected attribute or several at once, and what does the correction
+      provably cost you in accuracy? Second: when labels are scarce and
+      expensive, which observations should you pay to label, and how does that
+      choice feed back into fairness?
+    </p>
+    <p>
+      Underneath both sits a third concern: whether the numbers a model produces
+      mean anything. A score that is well ranked but badly calibrated is not a
+      probability, and a fairness correction applied on top of it can quietly
+      destroy what calibration there was. Probability calibration and Bayesian
+      statistics are the tools I use for that part.
+    </p>
+    <p>
+      The methods are mostly optimal transport, Wasserstein barycenters,
+      semi-supervised learning, calibration and Bayesian inference; the
+      applications are motor and health insurance pricing, mortality scoring,
+      ESG text analysis and epidemic early-warning. Work in the R&amp;D AI Lab at
+      Milliman extends this to generative AI, where the same questions reappear
+      with different vocabulary.
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Themes</p>
+        <h2 class="section__title">Lines of work</h2>
+      </div>
+    </div>
+    <div class="grid grid--2">
+      {%- for theme in site.data.research_themes -%}
+      <article class="card card--theme">
+        <p class="card__index" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</p>
+        <h3 class="card__title">{{ theme.title }}</h3>
+        <p class="card__text">{{ theme.summary }}</p>
+        {%- if theme.keywords %}
+        <ul class="tag-list tag-list--sm">
+          {%- for k in theme.keywords -%}<li><span class="tag">{{ k }}</span></li>{%- endfor -%}
+        </ul>
+        {% endif -%}
+      </article>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
+<section class="section section--tint" id="publications">
+  <div class="wrap">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Publications</p>
+        <h2 class="section__title">Papers &amp; preprints</h2>
+      </div>
+      <a class="section__more" href="https://scholar.google.fr/citations?user=fYtrQLAAAAAJ&hl=fr">
+        Google Scholar {% include icon.html name="arrow" %}
+      </a>
+    </div>
+
+    <div class="filters" data-filter-group="pubs">
+      <span class="filters__label">Filter</span>
+      <button class="filter-btn is-active" type="button" data-filter="all" aria-pressed="true">All</button>
+      {%- for topic in topics -%}
+      <button class="filter-btn" type="button" data-filter="{{ topic }}" aria-pressed="false">{{ topic }}</button>
+      {%- endfor -%}
+      <input class="search-input" type="search" placeholder="Search titles and authors…"
+             data-filter-search="pubs" aria-label="Search publications">
+    </div>
+
+    <ol class="pub-list" data-filter-target="pubs">
+      {%- for pub in pubs -%}
+        {% include publication.html pub=pub %}
+      {%- endfor -%}
+    </ol>
+    <p class="empty-state is-hidden" data-filter-empty="pubs">No publication matches that filter.</p>
+  </div>
+</section>
+
+<section class="section" id="talks">
+  <div class="wrap wrap--text">
+    <div class="section__head">
+      <div>
+        <p class="eyebrow">Talks</p>
+        <h2 class="section__title">Selected presentations</h2>
+      </div>
+    </div>
+
+    <ul class="talks">
+      {%- for talk in talks -%}
+      <li class="talk">
+        <span class="talk__date">{{ talk.date }}</span>
+        <div>
+          <p class="talk__title">{{ talk.title }}</p>
+          <p class="talk__event">
+            {%- if talk.event_url -%}
+            <a href="{{ talk.event_url }}">{{ talk.event }}</a>
+            {%- else -%}
+            {{ talk.event }}
+            {%- endif -%}
+          </p>
+          {%- if talk.links and talk.links.size > 0 %}
+          <p class="talk__links">
+            {%- for link in talk.links -%}
+            <a class="chip" href="{{ link.url | relative_url }}">{% include icon.html name=link.icon %}{{ link.label }}</a>
+            {%- endfor -%}
+          </p>
+          {% endif -%}
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="note" style="margin-top:1.5rem">
+      Talk list last curated in March 2024. The <a href="{{ site.author.cv | relative_url }}">CV</a>
+      has the complete record.
+    </p>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="wrap cta__inner">
+    <div>
+      <h2 class="cta__title">Collaborations</h2>
+      <p class="cta__text">
+        I supervise research internships and co-author with academic and
+        industry teams. If your problem involves fairness, labelling or
+        trustworthy models in a regulated setting, I would be glad to hear
+        about it.
+      </p>
+    </div>
+    <div class="btn-row">
+      <a class="btn btn--primary" href="mailto:{{ site.author.email }}">{% include icon.html name="mail" %}Email me</a>
+      <a class="btn btn--ghost" href="{{ '/projects/' | relative_url }}">See the projects</a>
+    </div>
+  </div>
+</section>

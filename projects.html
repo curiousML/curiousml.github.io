@@ -1,0 +1,46 @@
+---
+layout: page
+permalink: /projects/
+title: Projects
+eyebrow: Software · Research programmes · Experiments
+lede: >-
+  Open-source packages, research collaborations and side experiments. Some are
+  peer-reviewed, some are just curiosity with a version number.
+full_width: true
+---
+
+{%- assign projects = site.projects | sort: "order" -%}
+
+<section class="wrap">
+  <div class="grid grid--2">
+    {%- for project in projects -%}
+    <article class="card card--project">
+      <p class="card__meta">
+        {{ project.status }}{% if project.period %} · {{ project.period }}{% endif %}
+      </p>
+      <h3 class="card__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <p class="card__text">{{ project.lede }}</p>
+
+      {%- if project.stack %}
+      <ul class="tag-list tag-list--sm">
+        {%- for s in project.stack -%}<li><span class="tag">{{ s }}</span></li>{%- endfor -%}
+      </ul>
+      {% endif -%}
+
+      {%- if project.links and project.links.size > 0 %}
+      <p class="pub__links">
+        {%- for link in project.links limit: 3 -%}
+        <a class="chip" href="{{ link.url }}">{% include icon.html name=link.icon %}{{ link.label }}</a>
+        {%- endfor -%}
+      </p>
+      {% endif -%}
+    </article>
+    {%- endfor -%}
+  </div>
+
+  <p class="note" style="margin-top:2.5rem">
+    More experiments live on <a href="https://github.com/curiousML">GitHub</a>,
+    including the notebooks behind the courses on the
+    <a href="{{ '/teaching/' | relative_url }}">teaching page</a>.
+  </p>
+</section>

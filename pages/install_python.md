@@ -1,4 +1,10 @@
-# Installing Python <a name="par2"></a>
+---
+layout: page
+title: "Installing Python"
+eyebrow: Course material
+lede: >-
+  The quickest reliable way to get a working scientific Python environment, with Anaconda and Jupyter.
+---
 
 The easiest way to install python (and some related data science toolkits) is to install [Anaconda](https://www.anaconda.com/products/individual-d).
 

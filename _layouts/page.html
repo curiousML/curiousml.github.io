@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<header class="page-head">
+  <div class="wrap wrap--text">
+    {%- if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif -%}
+    <h1 class="page-head__title">{{ page.title }}</h1>
+    {%- if page.lede %}<p class="page-head__lede">{{ page.lede }}</p>{% endif -%}
+    {%- if page.actions %}
+    <div class="btn-row">
+      {%- for action in page.actions -%}
+      <a class="btn {% if forloop.first %}btn--primary{% else %}btn--ghost{% endif %}" href="{{ action.url | relative_url }}">
+        {{ action.label }}{% if forloop.first %} {% include icon.html name="arrow" %}{% endif %}
+      </a>
+      {%- endfor -%}
+    </div>
+    {% endif -%}
+  </div>
+</header>
+
+{% if page.full_width %}
+  {{ content }}
+{% else %}
+<div class="wrap wrap--text">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+{% endif %}

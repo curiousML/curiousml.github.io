@@ -1,0 +1,316 @@
+# Teaching. One entry per institution, each with a list of courses.
+# Link icons: pdf | notebook | slides | code | data | link
+
+- name: EPITA
+  url: https://www.epita.fr/
+  period: Since 2020
+  role: Lecturer
+  id: epita
+  summary: >-
+    Machine learning, numerical methods and programming for the MSc and the
+    MSc in Artificial Intelligence Systems.
+  courses:
+    - title: "Python & Algorithm Workshop"
+      level: "MSc"
+      description: >-
+        Seven workshops introducing programming through numerical problems:
+        integer and floating-point arithmetic, matrices, linear and nonlinear
+        systems, interpolation.
+      items:
+        - name: "Workshop 1: Integer arithmetic"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-AW/AW1_integers.pdf", icon: pdf }
+            - { label: "Notebook", url: "/teaching/epita-AW/1_integer_python.ipynb", icon: notebook }
+            - { label: "HTML", url: "/teaching/epita-AW/1_integer_python.html", icon: link }
+        - name: "Workshop 2: Floating-point arithmetic & pseudo-random numbers"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-AW/2_float_python.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-AW/2_float_python.ipynb", icon: notebook }
+        - name: "Workshop 3: Matrix representation and arithmetic"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-AW/3_matrix_python.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-AW/3_matrix_python.ipynb", icon: notebook }
+        - name: "Workshop 4: Solving linear systems"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-AW/4_linear_systems.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-AW/4_linear_systems.ipynb", icon: notebook }
+        - name: "Workshop 5: Solving nonlinear systems"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-AW/5_nonlinear_systems.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-AW/5_nonlinear_systems.ipynb", icon: notebook }
+        - name: "Workshop 6: Evaluation and interpolation"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-AW/6_evaluation_interpolation.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-AW/6_evaluation_interpolation.ipynb", icon: notebook }
+        - name: "Workshop 7: Oral presentations"
+          links: []
+
+    - title: "Python"
+      level: "MSc"
+      description: >-
+        From the basics of the language to scientific computing, visualisation,
+        dataframes and engineering tooling, with an insurance case study.
+      items:
+        - name: "Why Python?"
+          links:
+            - { label: "Read", url: "/pages/why_python.html", icon: link }
+        - name: "Installing Python"
+          links:
+            - { label: "Read", url: "/pages/install_python.html", icon: link }
+        - name: "PW 1: Basics of Python"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-python/1_introduction_python.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/1_introduction_python.ipynb", icon: notebook }
+        - name: "PW 2: Application"
+          links:
+            - { label: "Exercises", url: "/teaching/epita-python/2_additional_exercices.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/2_additional_exercices.ipynb", icon: notebook }
+            - { label: "Usual mistakes", url: "/teaching/epita-python/2_application.slides.html", icon: slides }
+        - name: "PW 3: Scientific computing"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-python/3_scientific_computing.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/3_scientific_computing.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/epita-python/3_scientific_computing_corr.html", icon: link }
+        - name: "PW 4: Data visualisation"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-python/4_dataviz.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/4_dataviz.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/epita-python/4_dataviz_corr.html", icon: link }
+        - name: "PW 5: Data manipulation"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-python/5_dataframe.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/5_dataframe.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/epita-python/5_dataframe_corr.html", icon: link }
+        - name: "PW 6: Engineering tools"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-python/6_intro_engineering_slides.html", icon: slides }
+        - name: "Additional exercises: basics"
+          links:
+            - { label: "Exercises", url: "/teaching/epita-python/6_additional_exercices_basics.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/6_additional_exercices_basics.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/epita-python/6_additional_exercices_basics_corr.html", icon: link }
+        - name: "Additional exercises: exam-like"
+          links:
+            - { label: "Exercises", url: "/teaching/epita-python/6_additional_exercices.html", icon: link }
+            - { label: "Notebook", url: "/teaching/epita-python/6_additional_exercices.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/epita-python/6_additional_exercices_corr.html", icon: link }
+        - name: "Case study: freMPL dataset"
+          links:
+            - { label: "Notebook", url: "/teaching/epita-python/python_insurance.ipynb", icon: notebook }
+            - { label: "freMPL.csv", url: "/teaching/epita-python/freMPL.csv", icon: data }
+            - { label: "Iris.csv", url: "/teaching/epita-python/Iris.csv", icon: data }
+        - name: "Exams"
+          links:
+            - { label: "2024.05.07", url: "/teaching/epita-python/2024_firstname_lastname.ipynb", icon: notebook }
+            - { label: "2022.05.25", url: "/teaching/epita-python/firstname_lastname.ipynb", icon: notebook }
+            - { label: "2022.01.14", url: "/teaching/epita-python/exam.ipynb", icon: notebook }
+
+    - title: "Numerical Algorithms"
+      level: "MSc AI Systems"
+      description: >-
+        Optimisation for machine learning: calculus refresher, unconstrained and
+        constrained optimisation, numerical linear algebra, ML applications.
+      items:
+        - name: "Lecture 1: Calculus refresher"
+          links:
+            - { label: "Slides", url: "/teaching/epita-NA/1_calculus_refresher_slides.html", icon: slides }
+            - { label: "Notebook", url: "/teaching/epita-NA/1_calculus_refresher.ipynb", icon: notebook }
+        - name: "Lecture 2: Unconstrained optimisation"
+          links:
+            - { label: "Slides", url: "/teaching/epita-NA/2_optim1_slides.html", icon: slides }
+            - { label: "Notebook", url: "/teaching/epita-NA/2_optim1.ipynb", icon: notebook }
+        - name: "Lecture 3: Constrained optimisation"
+          links:
+            - { label: "Slides", url: "/teaching/epita-NA/3_optim2_lecture_slides.html", icon: slides }
+            - { label: "Application", url: "/teaching/epita-NA/3_application_linear.ipynb", icon: notebook }
+        - name: "Lecture 4: Numerical methods in linear algebra"
+          links:
+            - { label: "Slides", url: "/teaching/epita-NA/4_linalg_ml_lecture_slides.html", icon: slides }
+            - { label: "PCA application", url: "/teaching/epita-NA/4_application_pca.ipynb", icon: notebook }
+        - name: "Lecture 5: Machine learning applications"
+          links:
+            - { label: "Notebook", url: "/teaching/epita-NA/5_application_ml_all.ipynb", icon: notebook }
+        - name: "Lecture 6: Oral presentations (Titanic challenge)"
+          links: []
+
+    - title: "Bayesian Machine Learning"
+      level: "MSc AI Systems"
+      description: >-
+        Bayesian statistics, latent variable models and the EM algorithm,
+        variational inference with NLP applications, and causal inference.
+      items:
+        - name: "Lecture 1: Bayesian statistics"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-BML/bayes_1_intro.pdf", icon: pdf }
+            - { label: "Notebook", url: "/teaching/epita-BML/bayes_intro_statistics.ipynb", icon: notebook }
+        - name: "Lecture 2: Latent variable models and the EM algorithm"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-BML/bayes_2_LVM.pdf", icon: pdf }
+        - name: "Lecture 3: Variational inference and application to NLP"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-BML/bayes_3_VI.pdf", icon: pdf }
+        - name: "Lecture 4: MCMC"
+          links:
+            - { label: "Lecture", url: "/teaching/epita-BML/bayes_4_MCMC.pdf", icon: pdf }
+            - { label: "Notebook", url: "/teaching/epita-BML/mcmc_gaussian.ipynb", icon: notebook }
+        - name: "PW 1: Naive Bayes classifier"
+          links:
+            - { label: "Notebook", url: "/teaching/epita-BML/naive_bayes_classifier.ipynb", icon: notebook }
+        - name: "PW 2: GMM, probabilistic k-means and PCA"
+          links:
+            - { label: "Notebook", url: "/teaching/epita-BML/latent_variable_models.ipynb", icon: notebook }
+        - name: "PW 3: Topic modelling with LDA"
+          links:
+            - { label: "Notebook", url: "/teaching/epita-BML/topic_modeling_lda.ipynb", icon: notebook }
+        - name: "PW 4: Bayesian linear regression"
+          links:
+            - { label: "Notebook", url: "/teaching/epita-BML/bayesian_linear_regression.ipynb", icon: notebook }
+            - { label: "Conjugate priors", url: "/teaching/epita-BML/conjugate_prior.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/epita-BML/conjugate_prior_corr.html", icon: link }
+        - name: "Dataset: Defra consumption"
+          links:
+            - { label: "CSV", url: "/teaching/epita-BML/defra_consumption.csv", icon: data }
+
+- name: Institut des Actuaires
+  url: https://www.institutdesactuaires.com/article/dsa-1123
+  period: Since 2019
+  role: Lecturer, Data Science pour l'Actuaire (DSA)
+  id: ida
+  summary: >-
+    Text mining, NLP and active learning for practising actuaries, plus
+    machine-learning methods for individual mortality modelling.
+  courses:
+    - title: "Machine learning for individual mortality modelling"
+      level: "2025"
+      description: >-
+        Building mortality scores from individual data, and what algorithmic
+        bias means in that setting.
+      items:
+        - name: "Mortality scores"
+          links:
+            - { label: "Notebook", url: "/teaching/DSA/mortality_score_dev.ipynb", icon: notebook }
+        - name: "Introduction to algorithmic bias"
+          links:
+            - { label: "Lecture", url: "/teaching/DSA/DSA_introduction_discrimination_morta.pdf", icon: pdf }
+        - name: "Datasets"
+          links:
+            - { label: "labeled.zip", url: "/teaching/DSA/labeled.zip", icon: data }
+            - { label: "unlabeled.zip", url: "/teaching/DSA/unlabeled.zip", icon: data }
+
+    - title: "Text mining and introduction to active learning"
+      level: "2019 to 2021"
+      description: >-
+        Preprocessing for NLP, vector representations, topic models, deep
+        learning for text, and annotation strategies.
+      items:
+        - name: "Introduction: Preprocessing in NLP"
+          links:
+            - { label: "Lecture", url: "/teaching/DSA/dsa_nlp_introduction.pdf", icon: pdf }
+        - name: "Lecture 1: Vector representations and topic models"
+          links:
+            - { label: "Lecture", url: "/teaching/DSA/dsa_nlp_lecture1.pdf", icon: pdf }
+        - name: "Lecture 2: Deep learning for NLP"
+          links:
+            - { label: "Lecture", url: "/teaching/DSA/dsa_nlp_lecture2.pdf", icon: pdf }
+        - name: "Lecture 3: Introduction to active learning"
+          links:
+            - { label: "Lecture", url: "/teaching/DSA/dsa_nlp_lecture3.pdf", icon: pdf }
+            - { label: "Annotations", url: "/teaching/DSA/Annotations.html", icon: link }
+        - name: "Animations: recurrent networks"
+          links:
+            - { label: "RNN forward", url: "/teaching/DSA/RNNforward.html", icon: link }
+            - { label: "RNN backprop", url: "/teaching/DSA/RNNbackprop.html", icon: link }
+            - { label: "BRNN forward", url: "/teaching/DSA/BRNNforward.html", icon: link }
+        - name: "Practical work: Topic modelling"
+          links:
+            - { label: "Notebook", url: "/teaching/DSA/dsa_nlp_tp.ipynb", icon: notebook }
+            - { label: "Correction", url: "/teaching/DSA/dsa_nlp_tp_corr.html", icon: link }
+
+- name: Cnam
+  url: https://www.cnam.fr/
+  period: Since 2024
+  role: Lecturer, MSc Actuarial Science
+  id: cnam
+  summary: >-
+    Six hours on fairness in insurance, integrated into the Contemporary
+    Actuarial Science course.
+  courses:
+    - title: "Fairness in insurance"
+      level: "MSc Actuarial Science"
+      description: >-
+        How discrimination arises in actuarial models, how to measure it, and
+        what post-processing can and cannot fix.
+      items:
+        - name: "Mortality score: hands-on notebook"
+          links:
+            - { label: "Notebook", url: "/teaching/CNAM/mortality_score_CNAMv3.ipynb", icon: notebook }
+
+- name: ISFA, Université Claude Bernard Lyon 1
+  url: https://isfa.univ-lyon1.fr/formation/actuariat
+  period: Since 2025
+  role: Associate Professor in AI and Actuarial Science
+  id: isfa
+  summary: >-
+    A full data-science track for actuarial students: statistical learning,
+    GLMs, ensembles, interpretability, trustworthy AI and unsupervised methods.
+    Also taught at ENSEA Abidjan.
+  courses:
+    - title: "Data Science: lectures"
+      level: "MSc Actuarial Science"
+      description: "Taught in French."
+      items:
+        - name: "Lecture 1: Apprentissage statistique et lien avec l'actuariat"
+          links:
+            - { label: "Cours", url: "/teaching/ISFA/1_introduction_DS.pdf", icon: pdf }
+        - name: "Lecture 2: Modèles linéaires généralisés et pénalisés"
+          links:
+            - { label: "Cours", url: "/teaching/ISFA/2_cours_GLM.pdf", icon: pdf }
+        - name: "Lecture 3: Arbres de décision et méthodes ensemblistes"
+          links:
+            - { label: "Cours", url: "/teaching/ISFA/3_cours_RF_GBM.pdf", icon: pdf }
+        - name: "Lecture 4: Interprétabilité des modèles d'apprentissage"
+          note: "Coming soon"
+          links: []
+        - name: "Lecture 5: IA de confiance et biais algorithmiques"
+          note: "Coming soon"
+          links: []
+        - name: "Lecture 6: Apprentissage non supervisé"
+          links:
+            - { label: "Cours", url: "/teaching/ISFA/6_cours_Unsupervised.pdf", icon: pdf }
+        - name: "Research project briefs"
+          links:
+            - { label: "Abidjan", url: "/teaching/ISFA/projet_recherche_abidjan.pdf", icon: pdf }
+            - { label: "ISFA", url: "/teaching/ISFA/projet_recherche_ISFA.pdf", icon: pdf }
+
+    - title: "Actuarial Data Science: practical work"
+      level: "MSc Actuarial Science"
+      description: >-
+        Ten sessions from exploratory analysis to advanced machine learning on
+        real motor insurance portfolios.
+      items:
+        - name: "TP1: EDA in insurance"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/01_EDA_freMPL.ipynb", icon: notebook }
+        - name: "TP2: Preprocessing"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/02_preprocessing_freMPL.ipynb", icon: notebook }
+        - name: "TP3: Logistic regression"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/03_GLM_logistique.ipynb", icon: notebook }
+        - name: "TP4: Actuarial evaluation"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/04_evaluation_actuarielle.ipynb", icon: notebook }
+        - name: "TP5: GLM versus credibility"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/05_credibilite_vs_GLM.ipynb", icon: notebook }
+        - name: "TP7: Advanced machine learning"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/07_ML_avance.ipynb", icon: notebook }
+        - name: "Mortality score"
+          links:
+            - { label: "Notebook", url: "/teaching/ISFA/mortality_score_ISFA.ipynb", icon: notebook }
+        - name: "Datasets"
+          links:
+            - { label: "freMPL", url: "/teaching/epita-python/freMPL.csv", icon: data }
+            - { label: "freMTPL2freq", url: "/teaching/challenge/freMTPL2freq.xlsb", icon: data }
+            - { label: "Pandas walkthrough", url: "/teaching/epita-python/python_insurance.ipynb", icon: notebook }

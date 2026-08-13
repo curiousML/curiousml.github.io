@@ -1,0 +1,36 @@
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <div class="site-footer__brand">
+      <p class="site-footer__name">{{ site.title }}</p>
+      <p class="site-footer__meta">{{ site.author.role }} · {{ site.author.location }}</p>
+      <p class="site-footer__meta">{{ site.author.affiliation }}</p>
+      <p class="site-footer__meta">{{ site.author.affiliation_2 }}</p>
+    </div>
+
+    <nav class="site-footer__nav" aria-label="Footer">
+      <p class="site-footer__heading">Site</p>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        {%- for item in site.nav -%}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+
+    <nav class="site-footer__nav" aria-label="Elsewhere">
+      <p class="site-footer__heading">Elsewhere</p>
+      <ul>
+        {%- for link in site.social -%}
+        <li><a href="{{ link.url }}" rel="me noopener">{{ link.name }}</a></li>
+        {%- endfor -%}
+        <li><a href="{{ site.author.cv | relative_url }}">CV (PDF)</a></li>
+        <li><a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="wrap site-footer__bar">
+    <p>© {{ 'now' | date: "%Y" }} {{ site.title }}. Built with Jekyll, hosted on GitHub Pages.</p>
+    <p>Content licensed CC BY 4.0 unless stated otherwise.</p>
+  </div>
+</footer>

@@ -1,0 +1,117 @@
+# Publications.
+# kind: journal | conference | preprint | thesis
+# topics: used by the filter buttons on /research/ (lowercase, comma-free)
+# featured: shown on the home page
+# link icons: pdf | code | link | slides | data
+
+- year: 2024
+  title: "Fairness guarantee in multi-class classification"
+  authors: [C. Denis, R. Elie, M. Hebiri, "F. Hu"]
+  venue: "Journal of Machine Learning Research (JMLR)"
+  kind: journal
+  topics: [fairness, theory]
+  featured: true
+  url: https://arxiv.org/pdf/2109.13642
+  abstract: >-
+    Optimal fair classifiers under demographic parity for multi-class problems,
+    with statistical guarantees on the fairness/accuracy trade-off.
+  links:
+    - { label: "PDF", url: "https://arxiv.org/pdf/2109.13642", icon: pdf }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2109.13642", icon: link }
+
+- year: 2024
+  title: "A sequentially fair mechanism for multiple sensitive attributes"
+  authors: ["F. Hu", P. Ratz, A. Charpentier]
+  venue: "AAAI 2024"
+  kind: conference
+  topics: [fairness, insurance]
+  featured: true
+  note: "Covered by the Montreal AI Ethics Institute"
+  url: https://arxiv.org/abs/2309.06627
+  abstract: >-
+    A sequential Wasserstein-barycenter approach that mitigates unfairness across
+    several sensitive attributes at once, with an interpretable fairness path.
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2309.06627", icon: link }
+    - { label: "EquiPy", url: "https://equilibration.github.io/equipy/equipy.fairness.html", icon: code }
+    - { label: "MAIEI summary", url: "https://montrealethics.ai/a-sequentially-fair-mechanism-for-multiple-sensitive-attributes/", icon: link }
+
+- year: 2023
+  title: "Fairness in multi-task learning via Wasserstein barycenters"
+  authors: ["F. Hu", P. Ratz, A. Charpentier]
+  venue: "ECML-PKDD 2023, Research Track"
+  kind: conference
+  topics: [fairness, theory]
+  featured: true
+  url: http://arxiv.org/abs/2306.10155
+  abstract: >-
+    Extends optimal-transport post-processing for demographic parity to
+    simultaneous regression and binary classification tasks.
+  links:
+    - { label: "arXiv", url: "http://arxiv.org/abs/2306.10155", icon: link }
+    - { label: "Slides", url: "/talks/ECML2023_slides.pdf", icon: slides }
+
+- year: 2023
+  title: "Mitigating discrimination in insurance with Wasserstein barycenters"
+  authors: [A. Charpentier, "F. Hu", P. Ratz]
+  venue: "BIAS 2023"
+  kind: conference
+  topics: [fairness, insurance]
+  featured: true
+  url: https://arxiv.org/abs/2306.12912
+  abstract: >-
+    How optimal-transport fairness corrections behave on real insurance pricing
+    data, and what they cost in premium accuracy.
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2306.12912", icon: link }
+    - { label: "Slides", url: "/talks/BIAS2023_slides.pdf", icon: slides }
+
+- year: 2023
+  title: "Parametric fairness with statistical guarantees"
+  authors: ["F. Hu", P. Ratz, A. Charpentier]
+  venue: "Preprint, arXiv"
+  kind: preprint
+  topics: [fairness, theory]
+  featured: false
+  url: https://arxiv.org/abs/2310.20508
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2310.20508", icon: link }
+
+- year: 2023
+  title: "Fairness explainability using optimal transport with applications in image classification"
+  authors: [P. Ratz, "F. Hu", A. Charpentier]
+  venue: "Preprint, arXiv"
+  kind: preprint
+  topics: [fairness, interpretability]
+  featured: false
+  url: https://arxiv.org/abs/2308.11090
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2308.11090", icon: link }
+
+- year: 2022
+  title: "Semi-supervised learning in insurance: fairness and labelling"
+  authors: ["F. Hu"]
+  venue: "PhD thesis, Institut Polytechnique de Paris (CREST-ENSAE)"
+  kind: thesis
+  topics: [fairness, insurance, "semi-supervised"]
+  featured: true
+  note: "Awarded best actuarial thesis in France (SCOR Prize 2022)"
+  url: /research/TheseFrancoisHUSubmitted.pdf
+  abstract: >-
+    A learning system for insurance that is accurate in prediction, cheap in
+    labelling and ethical in transparency and fairness.
+  links:
+    - { label: "Manuscript", url: "/research/TheseFrancoisHUSubmitted.pdf", icon: pdf }
+    - { label: "Defence slides", url: "/talks/SLIDES_PhD_defense_HU_VF.pdf", icon: slides }
+    - { label: "Award", url: "https://www.lactuariel.fr/metier/prix-scor-equite-et-apprentissage-actif-dans-les-problemes-multiclasses/", icon: link }
+
+- year: 2021
+  title: "An overview of active learning methods for insurance with fairness appreciation"
+  authors: [R. Elie, C. Hillairet, "F. Hu", M. Juillard]
+  venue: "Preprint, arXiv"
+  kind: preprint
+  topics: ["semi-supervised", insurance, fairness]
+  featured: false
+  url: https://arxiv.org/pdf/2112.09466
+  links:
+    - { label: "PDF", url: "https://arxiv.org/pdf/2112.09466", icon: pdf }
