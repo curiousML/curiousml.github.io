@@ -6,3 +6,8 @@ Gemfile.lock
 .DS_Store
 **/.DS_Store
 **/.ipynb_checkpoints/
+
+# Editable course sources live in the private teaching-sources repository.
+# Never commit them here: this repository is public.
+**/DRAFT/
+*.pptx
