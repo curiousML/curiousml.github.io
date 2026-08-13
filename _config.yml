@@ -50,6 +50,9 @@ social:
   - name: arXiv
     icon: arxiv
     url: https://arxiv.org/a/hu_f_1
+  - name: Demythified
+    icon: youtube
+    url: https://www.youtube.com/@DemythifiedMyths
   - name: Email
     icon: mail
     url: mailto:hu.faugon@gmail.com
