@@ -215,6 +215,6 @@ in your session afterwards:
 
 ---
 
-Next: [why Python in the first place]({{ '/pages/why_python.html' | relative_url }}),
+Next: [why Python in the first place]({{ '/blog/why-python/' | relative_url }}),
 or go straight to the
 [course notebooks]({{ '/teaching/' | relative_url }}).

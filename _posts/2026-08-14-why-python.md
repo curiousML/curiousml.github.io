@@ -1,17 +1,21 @@
 ---
-layout: page
-permalink: /pages/why_python.html
 title: "Why Python?"
-eyebrow: Course material
+date: 2026-08-14
 lede: >-
   Where Python sits among programming languages, why it took over scientific
   computing, and what it costs you in return.
+tags: [Python, Teaching]
+glyph: ">>>"
 ---
 
 Every course that starts with a language owes you a justification for the
 choice. This is mine. It is not "Python is the best language" — no language is
 — but Python is, today, the shortest path between a statistical idea and a
 result somebody else can reproduce.
+
+*This began as the opening notes of my Python course at EPITA in 2021. The
+argument has held up; the numbers in it had not, so they are current as of
+August 2026.*
 
 ## 1. What Python is
 
@@ -21,7 +25,7 @@ dynamically typed** language created by Guido van Rossum and first released in
 allocation, no pointers, no compilation step to think about. That is the whole
 trade, and everything below follows from it.
 
-Two words worth pinning down now, because the rest of this page leans on them:
+Two words worth pinning down now, because the rest of this post leans on them:
 
 - **Interpreted** — your code is executed statement by statement by another
   program (the interpreter), rather than translated ahead of time into machine
@@ -37,7 +41,7 @@ since October 2021, and its lead has since become embarrassing: **18.5% in
 August 2026**, against roughly 11% for C and 8% for C++. Historically only C and
 Java had ever led that index.
 
-![Programming language ranking](images/ranking_languages.png)
+![Programming language ranking]({{ '/pages/images/ranking_languages.png' | relative_url }})
 *TIOBE top languages. The index is built from search-engine volume, so read it
 as attention, not as lines of code in production.*
 
@@ -45,12 +49,12 @@ as attention, not as lines of code in production.*
 tutorials are searched on Google, puts Python first by a wider margin still —
 unsurprising for a language that absorbs a constant stream of newcomers.
 
-![Language ranking on Google searches](images/ranking_languages_google.png)
+![Language ranking on Google searches]({{ '/pages/images/ranking_languages_google.png' | relative_url }})
 *PYPL: tutorial searches on Google.*
 
 ## 3. Twenty years of drift
 
-![Evolution of language rankings](images/ranking_languages_evolution.png)
+![Evolution of language rankings]({{ '/pages/images/ranking_languages_evolution.png' | relative_url }})
 
 The interesting part of that curve is not that Python rose. It is *what it rose
 against*: Java and C++ in general programming, and Matlab, R and SAS in
@@ -96,7 +100,7 @@ Non-exhaustive reasons for its popularity:
    trip from research to an end-to-end pipeline. Google, Netflix, Meta and most
    insurers' data teams all run on it.
 
-9. <b>Last but not least:</b> <font color="red">the community</font>. Your
+9. **Last but not least: the community.** Your
    question has almost certainly been asked already, and answered. Documentation,
    forums, tutorials and a steady stream of contributors are a genuine technical
    asset, not a soft one.
@@ -136,7 +140,7 @@ An honest list, because you will meet all of these:
 **Most of these drawbacks are addressable** — by a library, a compiler, or a
 convention — which is precisely why the language keeps winning despite them.
 
-## 6. What this means for the rest of the course
+## 6. What this means in practice
 
 You are going to spend most of your time in a small subset of the language,
 calling libraries that are not written in Python at all. That is normal, and it

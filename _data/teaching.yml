@@ -53,7 +53,7 @@
       items:
         - name: "Why Python?"
           links:
-            - { label: "Read", url: "/pages/why_python.html", icon: link }
+            - { label: "Read", url: "/blog/why-python/", icon: link }
         - name: "Installing Python"
           links:
             - { label: "Read", url: "/pages/install_python.html", icon: link }
