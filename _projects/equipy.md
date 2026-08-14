@@ -13,6 +13,7 @@ links:
   - { label: "Documentation", url: "https://equilibration.github.io/equipy/equipy.fairness.html", icon: link }
   - { label: "GitHub", url: "https://github.com/equilibration/equipy", icon: code }
   - { label: "Paper (AAAI 2024)", url: "https://arxiv.org/abs/2309.06627", icon: pdf }
+  - { label: "Software paper (2025)", url: "https://arxiv.org/abs/2503.09866", icon: pdf }
 ---
 
 ## What it does
@@ -37,6 +38,9 @@ for first.
 
 ## Related work
 
+- *EquiPy: sequential fairness using optimal transport in Python*, 2025.
+  [Walkthrough of the package]({{ '/blog/equipy-package/' | relative_url }})
+  with the API, the diagnostic plots and the Census case study.
 - *A sequentially fair mechanism for multiple sensitive attributes*, AAAI 2024
 - *Fairness in multi-task learning via Wasserstein barycenters*, ECML-PKDD 2023
 - *Mitigating discrimination in insurance with Wasserstein barycenters*, BIAS 2023

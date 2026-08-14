@@ -4,6 +4,22 @@
 # featured: shown on the home page
 # link icons: pdf | code | link | slides | data
 
+- year: 2025
+  title: "EquiPy: sequential fairness using optimal transport in Python"
+  authors: ["A. Fernandes Machado", "S. Grondin", "P. Ratz", "A. Charpentier", "F. Hu"]
+  venue: "arXiv preprint"
+  kind: preprint
+  topics: [fairness, software]
+  featured: false
+  url: https://arxiv.org/abs/2503.09866
+  abstract: >-
+    The software paper for EquiPy: a model-agnostic, post-processing toolbox
+    that enforces demographic parity across several sensitive attributes at
+    once, with graphics for reading the fairness and accuracy trade-off.
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2503.09866", icon: link }
+    - { label: "GitHub", url: "https://github.com/equilibration/equipy", icon: code }
+
 - year: 2024
   title: "Fairness guarantee in multi-class classification"
   authors: [C. Denis, R. Elie, M. Hebiri, "F. Hu"]
