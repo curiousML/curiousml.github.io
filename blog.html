@@ -10,19 +10,26 @@ lede: >-
 full_width: true
 ---
 
-{%- assign all_tags = "" | split: "," -%}
+{%- comment -%}
+  Subject buttons come from site.blog_categories (see _config.yml), in that
+  order, and only for subjects that actually have a post. Tags stay free-form:
+  they show on the cards and are reachable through the search box.
+{%- endcomment -%}
+{%- assign used = "" -%}
 {%- for post in site.posts -%}
-  {%- assign all_tags = all_tags | concat: post.tags -%}
+  {%- assign used = used | append: post.category | append: "," -%}
 {%- endfor -%}
-{%- assign tags = all_tags | uniq | sort -%}
+{%- assign used = used | split: "," -%}
 
 <section class="wrap">
   {%- if site.posts.size > 0 -%}
   <div class="filters" data-filter-group="posts">
-    <span class="filters__label">Topics</span>
+    <span class="filters__label">Subject</span>
     <button class="filter-btn is-active" type="button" data-filter="all" aria-pressed="true">All</button>
-    {%- for tag in tags -%}
-    <button class="filter-btn" type="button" data-filter="{{ tag | downcase }}" aria-pressed="false">{{ tag }}</button>
+    {%- for subject in site.blog_categories -%}
+    {%- if used contains subject -%}
+    <button class="filter-btn" type="button" data-filter="{{ subject | downcase | escape }}" aria-pressed="false">{{ subject }}</button>
+    {%- endif -%}
     {%- endfor -%}
     <input class="search-input" type="search" placeholder="Search posts…"
            data-filter-search="posts" aria-label="Search posts">

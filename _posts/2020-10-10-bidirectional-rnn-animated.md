@@ -4,6 +4,7 @@ date: 2020-10-10
 lede: >-
   Two passes over the same sequence, one in each direction, concatenated. It
   buys you context from both sides and costs you the ability to run online.
+category: "Machine learning"
 tags: ["Neural networks", NLP, Teaching]
 glyph: "⇄"
 math: true

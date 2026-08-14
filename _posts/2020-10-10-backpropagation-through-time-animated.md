@@ -5,6 +5,7 @@ lede: >-
   The same picture as the forward pass, run backwards. Watching the gradient
   travel back through every step is the fastest way to understand why long
   sequences are hard.
+category: "Machine learning"
 tags: ["Neural networks", NLP, Teaching]
 glyph: "∂"
 math: true

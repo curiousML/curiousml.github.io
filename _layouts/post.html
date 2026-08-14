@@ -10,6 +10,10 @@ layout: default
     <div class="wrap wrap--text">
       <p class="eyebrow">
         <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        {%- if page.category %}
+        <span aria-hidden="true">/</span>
+        {{ page.category }}
+        {% endif -%}
         <span aria-hidden="true">/</span>
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
         <span aria-hidden="true">/</span>

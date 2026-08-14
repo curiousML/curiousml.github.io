@@ -5,6 +5,7 @@ lede: >-
   One hidden state, carried from step to step, with the same weights reused
   every time. The animation makes that second part obvious in a way the
   equations never quite do.
+category: "Machine learning"
 tags: ["Neural networks", NLP, Teaching]
 glyph: "→"
 math: true

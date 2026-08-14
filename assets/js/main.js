@@ -51,7 +51,7 @@
      Markup contract:
        <div data-filter-group="pubs"> … buttons with data-filter="value" … </div>
        <input data-filter-search="pubs">
-       <ul data-filter-target="pubs"> items with data-topics / data-tags / data-title </ul>
+       <ul data-filter-target="pubs"> items with data-category / data-topics / data-tags / data-title </ul>
        <p data-filter-empty="pubs">
   ------------------------------------------------------------------------- */
   document.querySelectorAll('[data-filter-target]').forEach(function (list) {
@@ -64,6 +64,7 @@
 
     function haystack(el) {
       return [
+        el.getAttribute('data-category') || '',
         el.getAttribute('data-topics') || '',
         el.getAttribute('data-tags') || '',
         el.getAttribute('data-kind') || '',
@@ -78,6 +79,7 @@
 
       items.forEach(function (item) {
         var facets = (
+          (item.getAttribute('data-category') || '') + ',' +
           (item.getAttribute('data-topics') || '') + ',' +
           (item.getAttribute('data-tags') || '') + ',' +
           (item.getAttribute('data-kind') || '')

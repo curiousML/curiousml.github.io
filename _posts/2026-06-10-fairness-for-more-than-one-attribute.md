@@ -5,6 +5,7 @@ lede: >-
   Most bias-correction methods handle one sensitive variable at a time. Real
   problems have several. It turns out the order you correct them in does not
   change where you end up, and that fact is more useful than it sounds.
+category: "Trustworthy AI"
 tags: [Fairness, "Optimal transport", Insurance]
 glyph: "∑"
 ---
