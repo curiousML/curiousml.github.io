@@ -1,4 +1,4 @@
-/* François HU — site behaviour: theme, nav, filters, reveal. */
+/* François HU. Site behaviour: theme, nav, filters, reveal. */
 (function () {
   'use strict';
 

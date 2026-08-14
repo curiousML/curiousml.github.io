@@ -2,12 +2,18 @@
   Renders one blog post card. Usage: {% include post-card.html post=post %}
 {%- endcomment -%}
 {%- assign post = include.post -%}
+{%- comment -%}
+  `cover` is the card thumbnail only; `image` also renders as a hero on the post
+  itself. Posts whose body already shows the figure use `cover` so it is not
+  printed twice.
+{%- endcomment -%}
+{%- assign card_image = post.cover | default: post.image -%}
 {%- assign words = post.content | number_of_words -%}
 {%- assign minutes = words | divided_by: 220 | plus: 1 -%}
 <article class="card card--post" data-category="{{ post.category | downcase | escape }}" data-tags="{{ post.tags | join: ',' | downcase }}" data-title="{{ post.title | downcase }}">
   <a class="card__cover-link" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
-    {%- if post.image -%}
-    <img class="card__cover" src="{{ post.image | relative_url }}" alt="" loading="lazy">
+    {%- if card_image -%}
+    <img class="card__cover" src="{{ card_image | relative_url }}" alt="" loading="lazy">
     {%- else -%}
     <span class="card__cover card__cover--pattern" data-glyph="{{ post.glyph | default: '§' }}"></span>
     {%- endif -%}

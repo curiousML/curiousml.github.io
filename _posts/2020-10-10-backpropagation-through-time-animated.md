@@ -6,6 +6,7 @@ lede: >-
   travel back through every step is the fastest way to understand why long
   sequences are hard.
 category: "Machine learning"
+cover: /images/covers/rnn-backprop.png
 tags: ["Neural networks", NLP, Teaching]
 glyph: "∂"
 math: true
@@ -32,7 +33,7 @@ A product of $$T-k$$ similar terms has two stable behaviours and no third one.
 If the factors are slightly below one, the gradient decays to nothing and the
 network never learns long-range dependencies; slightly above one, it explodes.
 Gradient clipping handles the explosion. The vanishing case is harder, and it is
-the reason LSTMs and GRUs exist — they add a path along which the gradient is
+the reason LSTMs and GRUs exist: they add a path along which the gradient is
 multiplied by something much closer to one.
 
 Two practical notes that always come up in class: this is why people truncate

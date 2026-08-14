@@ -5,6 +5,7 @@ lede: >-
   Two passes over the same sequence, one in each direction, concatenated. It
   buys you context from both sides and costs you the ability to run online.
 category: "Machine learning"
+cover: /images/covers/brnn-forward.png
 tags: ["Neural networks", NLP, Teaching]
 glyph: "⇄"
 math: true
@@ -21,9 +22,9 @@ nothing after it. For most language tasks that is the wrong constraint: whether
 *bank* means a riverside or a branch office is usually settled by a word further
 along the sentence.
 
-A bidirectional RNN runs two independent recurrent layers over the same input —
-one left to right, one right to left — and glues their states together at each
-position:
+A bidirectional RNN runs two independent recurrent layers over the same input,
+one left to right and one right to left, then glues their states together at
+each position:
 
 $$h_t = [\,\overrightarrow{h_t} \; ; \; \overleftarrow{h_t}\,]$$
 
@@ -33,8 +34,8 @@ is then what the output layer sees.
 
 The animation makes the real cost obvious: the backward pass cannot start until
 the last element has arrived. A bidirectional model therefore needs the complete
-sequence up front, which rules it out for anything streaming — live
-transcription, real-time scoring — and is fine for anything where you already
+sequence up front, which rules it out for anything streaming (live
+transcription, real-time scoring) and is fine for anything where you already
 hold the whole document. That trade is the same one BERT makes and GPT does not,
 which is a useful thing to have seen before meeting either.
 

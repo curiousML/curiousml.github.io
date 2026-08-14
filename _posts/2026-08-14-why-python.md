@@ -5,14 +5,15 @@ lede: >-
   Where Python sits among programming languages, why it took over scientific
   computing, and what it costs you in return.
 category: "Dev"
+cover: /images/covers/why-python.png
 tags: [Python, Teaching]
 glyph: ">>>"
 ---
 
 Every course that starts with a language owes you a justification for the
-choice. This is mine. It is not "Python is the best language" — no language is
-— but Python is, today, the shortest path between a statistical idea and a
-result somebody else can reproduce.
+choice. This is mine. It is not that Python is the best language,
+because no language is. It is that Python is, today, the shortest path between
+a statistical idea and a result somebody else can reproduce.
 
 *This began as the opening notes of my Python course at EPITA in 2021. The
 argument has held up; the numbers in it had not, so they are current as of
@@ -28,10 +29,10 @@ trade, and everything below follows from it.
 
 Two words worth pinning down now, because the rest of this post leans on them:
 
-- **Interpreted** — your code is executed statement by statement by another
+- **Interpreted.** Your code is executed statement by statement by another
   program (the interpreter), rather than translated ahead of time into machine
   code. You get instant feedback and one error at a time; you pay in speed.
-- **Dynamically typed** — a variable has no declared type. `x = 3` then
+- **Dynamically typed.** A variable has no declared type. `x = 3` then
   `x = "three"` is legal, and the type is only known while the code runs. You
   write less; the compiler catches less.
 
@@ -47,8 +48,9 @@ Java had ever led that index.
 as attention, not as lines of code in production.*
 
 [PYPL](https://pypl.github.io/PYPL.html), which counts how often language
-tutorials are searched on Google, puts Python first by a wider margin still —
-unsurprising for a language that absorbs a constant stream of newcomers.
+tutorials are searched on Google, puts Python first by a wider margin still,
+which is unsurprising for a language that absorbs a constant stream of
+newcomers.
 
 ![Language ranking on Google searches]({{ '/pages/images/ranking_languages_google.png' | relative_url }})
 *PYPL: tutorial searches on Google.*
@@ -69,7 +71,7 @@ Non-exhaustive reasons for its popularity:
 
 1. **The syntax.** Simple, close to pseudo-code, mostly English words.
    Indentation is the block structure, so badly formatted Python does not
-   compile — which turns out to be a feature when you read other people's code.
+   compile, which turns out to be a feature when you read other people's code.
 
 2. **Free and open-source**, under a permissive licence, on every platform.
 
@@ -96,8 +98,8 @@ Non-exhaustive reasons for its popularity:
    added later for the code you keep, and tools like `mypy` check them without
    ever slowing the interpreter down.
 
-8. **Companies use it.** Python glues well to the rest of a production stack —
-   databases, message queues, CI, cloud SDKs — so the same language survives the
+8. **Companies use it.** Python glues well to the rest of a production stack:
+   databases, message queues, CI, cloud SDKs. The same language survives the
    trip from research to an end-to-end pipeline. Google, Netflix, Meta and most
    insurers' data teams all run on it.
 
@@ -123,9 +125,9 @@ An honest list, because you will meet all of these:
 
 3. **Concurrency is awkward.** The Global Interpreter Lock has long prevented
    several threads from executing Python bytecode at once, pushing everyone
-   towards multiprocessing. This is finally changing — CPython 3.13 shipped an
-   experimental free-threaded build and 3.14 made it officially supported — but
-   the ecosystem will take a few more years to catch up.
+   towards multiprocessing. This is finally changing, since CPython 3.13 shipped
+   an experimental free-threaded build and 3.14 made it officially supported,
+   but the ecosystem will take a few more years to catch up.
 
 4. **Packaging and environments are a mess.** pip, conda, Poetry, uv, virtualenv,
    wheels, lockfiles: the tooling is powerful and badly signposted, and "it works
@@ -138,8 +140,8 @@ An honest list, because you will meet all of these:
    toolboxes. In practice you use both and connect them; `reticulate` and
    `rpy2` exist for exactly that.
 
-**Most of these drawbacks are addressable** — by a library, a compiler, or a
-convention — which is precisely why the language keeps winning despite them.
+**Most of these drawbacks are addressable** by a library, a compiler or a
+convention, which is precisely why the language keeps winning despite them.
 
 ## 6. What this means in practice
 

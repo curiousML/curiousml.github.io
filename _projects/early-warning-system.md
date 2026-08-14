@@ -34,14 +34,14 @@ attention as a confounder?
 Warning people early only works if you know *where* the risk is going to appear,
 and for Lyme disease that question is really a question about a tick. So a large
 part of this collaboration went into a survey of how the research community
-actually predicts tick populations — published in April 2024 in
+actually predicts tick populations, published in April 2024 in
 *[The Lancet Regional Health – Americas](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(24)00033-4/fulltext)*
 with Bouchra Nasri's group at Université de Montréal and colleagues across the
 Mathematics for Public Health network.
 
 **The short version, in plain terms.**
 
-*Ixodes scapularis* — the blacklegged or deer tick — is the animal that carries
+*Ixodes scapularis*, the blacklegged or deer tick, is the animal that carries
 Lyme disease across most of North America. It takes two to three years to go from
 larva to nymph to adult, it needs a mouse or a deer at each stage, and it only
 survives where the temperature and the humidity suit it. Warming winters are
@@ -49,7 +49,7 @@ therefore moving it steadily north, into places that have never had to think
 about it. If you can predict where the ticks will be, you can warn people before
 the cases arrive rather than after.
 
-**What we did.** We read the literature — properly. We screened 4661 papers
+**What we did.** We read the literature, properly. We screened 4661 papers
 published between January 2012 and July 2022 and kept the 41 that actually build
 a predictive model of tick abundance or distribution in North America. For each
 one we recorded what it predicts, how, and on what data.
@@ -65,8 +65,8 @@ one we recorded what it predicts, how, and on what data.
    assumptions about the animal are wrong, and they are much harder to read.
 
 2. **Predicting "where" and predicting "how many" are different jobs.** Just over
-   half the studies (22) predict *distribution* — is the tick present here, is
-   this habitat suitable. A third (14) predict *abundance* — how many. Only five
+   half the studies (22) predict *distribution*: is the tick present here, is
+   this habitat suitable. A third (14) predict *abundance*: how many. Only five
    do both. That matters, because habitat suitability tells you a place is
    plausible, not that it is dangerous; risk tracks the number of *infected*
    ticks.
@@ -78,11 +78,11 @@ one we recorded what it predicts, how, and on what data.
    clearest open gap: models are predicting an animal while ignoring what it
    feeds on.
 
-4. **The data underneath is the real bottleneck.** *Active* surveillance —
-   researchers dragging a cloth through undergrowth — is precise and expensive,
+4. **The data underneath is the real bottleneck.** *Active* surveillance, with
+   researchers dragging a cloth through undergrowth, is precise and expensive,
    and covers short windows that miss a multi-year life cycle. *Passive*
-   surveillance and citizen science — people mailing in the tick they pulled off
-   the dog — scale beautifully and are biased in obvious ways: they undercount
+   surveillance and citizen science, people mailing in the tick they pulled off
+   the dog, scale beautifully and are biased in obvious ways: they undercount
    nymphs, which are small, hard to spot, and the stage that infects most
    people. Roughly a third of studies reported no accuracy measure at all, and
    the ones that did are barely comparable to each other.
@@ -92,7 +92,7 @@ The recommendation is unglamorous and, I think, correct: standardise collection
 protocols, combine active and passive surveillance instead of choosing, publish
 validation results in comparable form, and put hosts and human behaviour into
 the models rather than treating the tick as if it lived alone. That is the
-One Health framing, and for an early-warning system it is not optional — a
+One Health framing, and for an early-warning system it is not optional. A
 warning nobody can validate is not a warning.
 
 ## Reference

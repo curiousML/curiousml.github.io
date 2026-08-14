@@ -6,6 +6,7 @@ lede: >-
   every time. The animation makes that second part obvious in a way the
   equations never quite do.
 category: "Machine learning"
+cover: /images/covers/rnn-forward.png
 tags: ["Neural networks", NLP, Teaching]
 glyph: "→"
 math: true
@@ -24,7 +25,7 @@ the previous step, and produces a new hidden state:
 $$h_t = \tanh(W_x x_t + W_h h_{t-1} + b)$$
 
 That is the entire idea. The hidden state is the network's only memory of
-everything it has read so far, and it is a fixed-size vector — which is both why
+everything it has read so far, and it is a fixed-size vector. That is both why
 RNNs handle sequences of any length and why they forget.
 
 The part worth watching in the animation is the weights. $$W_x$$ and $$W_h$$ do
@@ -32,7 +33,7 @@ not change as the animation moves right: the *same* matrices are applied at
 every step. An unrolled RNN looks like a deep network, but it is one small
 network applied repeatedly. That weight sharing is what makes the parameter
 count independent of sequence length, and it is also what makes the gradients
-behave badly — see
+behave badly. See
 [backpropagation through time]({{ '/blog/backpropagation-through-time-animated/' | relative_url }}).
 
 The original notebook export, if you want it:

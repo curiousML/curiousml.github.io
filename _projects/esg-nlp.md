@@ -22,8 +22,8 @@ the primary documents and extract concepts directly and transparently.
 
 ## What we did
 
-Concept extraction over corporate disclosures — annual reports, sustainability
-reports, management discussion sections — for Canadian issuers, with attention
+Concept extraction over corporate disclosures (annual reports, sustainability
+reports, management discussion sections) for Canadian issuers, with attention
 to the gap between what a company *says* and what a scoring methodology
 *credits*.
 
@@ -49,7 +49,7 @@ Three things make this harder than a standard text-classification exercise:
 The commercial argument for transparent extraction is straightforward: an
 investor who can see which sentences drove a score can contest it, and a company
 can tell whether it is being penalised for a practice or for its prose. The
-research argument is the one I find more interesting — the discrepancy between
+research argument is the one I find more interesting. The discrepancy between
 providers is itself a measurement, and reconstructing scores from primary text
 is a way to find out where the disagreement actually lives.
 

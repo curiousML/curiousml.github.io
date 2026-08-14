@@ -6,6 +6,9 @@ lede: >-
   problems have several. It turns out the order you correct them in does not
   change where you end up, and that fact is more useful than it sounds.
 category: "Trustworthy AI"
+image: /images/covers/sequential-fairness.png
+image_alt: "Two score distributions induced by a sensitive attribute, and their Wasserstein barycenter"
+image_caption: "Two score distributions induced by the sensitive attribute, and the barycenter they are both transported towards."
 tags: [Fairness, "Optimal transport", Insurance]
 glyph: "∑"
 ---

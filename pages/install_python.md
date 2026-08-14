@@ -5,7 +5,7 @@ title: "Installing Python"
 eyebrow: Course material
 lede: >-
   A working scientific Python environment in about twenty minutes, plus the two
-  habits — environments and pinned dependencies — that stop it breaking later.
+  habits (environments and pinned dependencies) that stop it breaking later.
 ---
 
 There is no single official way to install Python, which is the honest reason
@@ -33,7 +33,7 @@ A word on distributions, since the names are confusing:
 
 - **Anaconda** is the batteries-included distribution: Python plus several
   hundred preinstalled packages and a graphical Navigator. Convenient, large,
-  and — since the 2024 change to its terms — **subject to a paid licence for
+  and, since the 2024 change to its terms, **subject to a paid licence for
   larger organisations**. Check with your employer before putting it on a work
   laptop.
 - **Miniforge** is the minimal installer that ships `conda` configured to use
@@ -42,7 +42,7 @@ A word on distributions, since the names are confusing:
 - **Miniconda** is Anaconda's own minimal installer, and carries the same terms
   as Anaconda.
 
-## 2. Route A — conda, step by step
+## 2. Route A: conda, step by step
 
 ### Step 1: download and install
 
@@ -54,7 +54,7 @@ A word on distributions, since the names are confusing:
   64-bit one).
 
 ![Choosing an installer](images/anaconda_installers.png)
-*Installers are per-OS and per-architecture. Take Python 3.x — Python 2 reached
+*Installers are per-OS and per-architecture. Take Python 3.x. Python 2 reached
 end of life in January 2020 and is gone.*
 
 - Run the installer and accept the defaults. On Windows, do **not** tick "add to
@@ -73,7 +73,7 @@ command away, and the command line is the version that fits in a README.*
 
 This is the step people skip and later regret. An **environment** is an isolated
 set of packages with its own Python. One per project means a broken dependency
-in one place cannot break anything else, and the environment is throwaway —
+in one place cannot break anything else, and the environment is throwaway,
 which is what makes it safe to experiment.
 
 ```bash
@@ -97,7 +97,7 @@ conda deactivate
 conda env remove -n course
 ```
 
-## 3. Route B — plain Python, venv and pip
+## 3. Route B: plain Python, venv and pip
 
 If you would rather not have conda, install Python from
 [python.org](https://www.python.org/downloads/) (on Windows, tick
@@ -126,12 +126,12 @@ python -c "import sys, numpy; print(sys.version); print(numpy.__version__)"
 
 If that prints a 3.x version and a NumPy version, you are done. If the shell
 answers *command not found* or *'python' is not recognised*, your environment is
-not activated — go back and run `conda activate course` (or `source
+not activated. Go back and run `conda activate course` (or `source
 .venv/bin/activate`) in the terminal you are actually using.
 
 ## 5. Where you will write code
 
-### Jupyter — for exploration and reports
+### Jupyter, for exploration and reports
 
 A notebook is a sequence of cells mixing text, equations, code and results.
 **This is the format used throughout the course**, because it keeps the
@@ -162,7 +162,7 @@ conda activate course
 python -m ipykernel install --user --name course --display-name "Python (course)"
 ```
 
-### An editor — for code you keep
+### An editor, for code you keep
 
 Notebooks are excellent for exploring and poor for anything reused: cells run
 out of order, and the hidden state is invisible. Once code stabilises, move it
@@ -176,7 +176,7 @@ into `.py` files and import it.
 - **[PyCharm](https://www.jetbrains.com/pycharm/)** if you want a full IDE,
   free for students.
 
-### The command line — for everything else
+### The command line, for everything else
 
 Start an interactive session:
 
@@ -209,7 +209,7 @@ in your session afterwards:
 | --- | --- |
 | `command not found: python` | Environment not activated, or wrong terminal |
 | `ModuleNotFoundError` for a package you just installed | Installed into a different environment from the one running |
-| Notebook cannot see your packages | Kernel points elsewhere — check `sys.executable`, register the kernel |
+| Notebook cannot see your packages | Kernel points elsewhere; check `sys.executable`, register the kernel |
 | `conda` hangs while solving | Use Miniforge/conda-forge, or `conda install -c conda-forge`; `mamba` solves the same environments far faster |
 | Everything is broken | Delete the environment and recreate it from your `environment.yml`. This is why the file exists. |
 

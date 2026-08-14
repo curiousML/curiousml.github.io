@@ -93,7 +93,7 @@ timezone: Europe/Paris
 # ---------------------------------------------------------------------------
 # One per post, declared as `category:` in the post's front matter. This list
 # fixes the wording and the order of the filter buttons on /blog/; a subject
-# with no posts simply does not get a button. Keep the vocabulary short — the
+# with no posts simply does not get a button. Keep the vocabulary short: the
 # filter stops being useful once the categories overlap. Free-form `tags:`
 # handle everything finer-grained.
 blog_categories:
