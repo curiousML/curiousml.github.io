@@ -5,7 +5,7 @@ lede: >-
   Three animations of the same small network: reading a sequence forward, being
   trained backwards through time, and reading from both ends at once. Each one
   makes a point the equations state but do not show.
-category: "Machine learning"
+categories: ["NLP & LLMs", "Machine learning"]
 cover: /images/covers/rnn-forward.png
 tags: ["Neural networks", NLP, Teaching]
 glyph: "→"

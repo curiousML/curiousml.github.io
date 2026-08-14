@@ -12,12 +12,14 @@ full_width: true
 
 {%- comment -%}
   Subject buttons come from site.blog_categories (see _config.yml), in that
-  order, and only for subjects that actually have a post. Tags stay free-form:
-  they show on the cards and are reachable through the search box.
+  order, and only for subjects that actually have a post. A post may declare
+  more than one, in which case it shows under each. Tags stay free-form: they
+  show on the cards and are reachable through the search box.
 {%- endcomment -%}
 {%- assign used = "" -%}
 {%- for post in site.posts -%}
-  {%- assign used = used | append: post.category | append: "," -%}
+  {%- assign cats = post.categories | join: "," -%}
+  {%- assign used = used | append: cats | append: "," -%}
 {%- endfor -%}
 {%- assign used = used | split: "," -%}
 

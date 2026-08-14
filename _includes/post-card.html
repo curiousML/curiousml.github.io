@@ -10,7 +10,7 @@
 {%- assign card_image = post.cover | default: post.image -%}
 {%- assign words = post.content | number_of_words -%}
 {%- assign minutes = words | divided_by: 220 | plus: 1 -%}
-<article class="card card--post" data-category="{{ post.category | downcase | escape }}" data-tags="{{ post.tags | join: ',' | downcase }}" data-title="{{ post.title | downcase }}">
+<article class="card card--post" data-category="{{ post.categories | join: ',' | downcase | escape }}" data-tags="{{ post.tags | join: ',' | downcase }}" data-title="{{ post.title | downcase }}">
   <a class="card__cover-link" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
     {%- if card_image -%}
     <img class="card__cover" src="{{ card_image | relative_url }}" alt="" loading="lazy">
@@ -20,7 +20,7 @@
   </a>
   <div class="card__body">
     <p class="card__meta">
-      {%- if post.category %}{{ post.category }} <span aria-hidden="true">·</span> {% endif -%}
+      {%- if post.categories.size > 0 %}{{ post.categories | join: " · " }} <span aria-hidden="true">·</span> {% endif -%}
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
       <span aria-hidden="true">·</span> {{ minutes }} min
     </p>

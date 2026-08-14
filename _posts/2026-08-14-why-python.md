@@ -4,7 +4,7 @@ date: 2026-08-14
 lede: >-
   Where Python sits among programming languages, why it took over scientific
   computing, and what it costs you in return.
-category: "Dev"
+categories: ["Dev"]
 cover: /images/covers/why-python.png
 tags: [Python, Teaching]
 glyph: ">>>"

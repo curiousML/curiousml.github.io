@@ -5,7 +5,7 @@ lede: >-
   A generative AI hackathon with Milliman and Université Gustave Eiffel, where
   the assistant had to answer actuarial questions accurately, cheaply and with a
   small carbon footprint. All three at once, or it did not score.
-category: "NLP & LLMs"
+categories: ["NLP & LLMs"]
 image: /images/covers/genai-hackathon.jpg
 image_alt: "The Université Gustave Eiffel campus building where the hackathon was held"
 image_caption: "Université Gustave Eiffel, 4 and 5 June 2026."
