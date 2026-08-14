@@ -1,20 +1,13 @@
 ---
-title: "Generative AI Hackathon"
-order: 2
-featured: true
-status: "Teaching · Industry partnership"
-period: "June 2026"
+title: "Juste, pas cher, sobre: 36 hours of RAG"
+date: 2026-06-05
 lede: >-
-  36 hours, Milliman with Université Gustave Eiffel: build a retrieval-augmented
-  assistant that answers actuarial questions correctly, cheaply, and with a
-  small carbon footprint — all three at once.
-stack: [RAG, LLM, Python, "Hugging Face", ChromaDB]
-links:
-  - { label: "Brief", url: "/teaching/3A-advanced-machine-learning/hackaton.pdf", icon: pdf }
-  - { label: "Baseline walkthrough", url: "/teaching/3A-advanced-machine-learning/hackaton_baseline.pdf", icon: pdf }
-  - { label: "RAG crash course", url: "/teaching/3A-advanced-machine-learning/hackaton_rag.pdf", icon: pdf }
-  - { label: "Day 1 debrief", url: "/teaching/3A-advanced-machine-learning/hackaton_debriefJ1.pdf", icon: pdf }
-  - { label: "Results (LinkedIn)", url: "https://www.linkedin.com/posts/fran%C3%A7ois-hu-9b6295136_activity-7469737874192670720-pgbJ", icon: linkedin }
+  A generative AI hackathon with Milliman and Université Gustave Eiffel, where
+  the assistant had to answer actuarial questions correctly, cheaply and with a
+  small carbon footprint — all three at once, or it did not score.
+category: "NLP & LLMs"
+tags: [RAG, LLMs, Insurance, Teaching]
+glyph: "?"
 ---
 
 ## The premise
@@ -82,12 +75,9 @@ Teams from two master's programmes at Gustave Eiffel, including the Master
 Proba-Stat des Nouvelles Données, spent 36 hours and several hundred lines of
 code on it.
 
-- **Grand prize — Groupe 814.** Camille Berguet, Dorian Estimbre, Lisa Pin,
-  Baptiste Monnin, Janelle Tourneur, for the most complete and original system.
-- **Runner-up — Échec et Maths.** Alexis Giulj, Djafarou Oulare, Jeremy Saari,
-  Léa Taillandier, Paul Monnier.
-- **Best presentation — Datack.** Samy Asma, Annaelle Fage, Léa Kerbel, Ewann
-  Lemeunier, Ruben Pina.
+- **Grand prize — Groupe 814**, for the most complete and original system.
+- **Runner-up — Échec et Maths.**
+- **Best presentation — Datack.**
 
 That the pitch had its own prize is not decoration. A result a risk committee
 cannot follow is a result that does not ship, and the students who understood
@@ -111,3 +101,19 @@ Announcements from
 [Milliman France](https://www.linkedin.com/posts/fran%C3%A7ois-hu-9b6295136_activity-7469737874192670720-pgbJ)
 and the
 [master's programme](https://www.linkedin.com/posts/fran%C3%A7ois-hu-9b6295136_activity-7469716779620081664-lTD1).
+
+## The material
+
+Everything the teams received, and the two decks from the sessions, is on the
+[teaching page]({{ '/teaching/#hackathons' | relative_url }}) and here:
+
+- [The brief]({{ '/teaching/3A-advanced-machine-learning/hackaton.pdf' | relative_url }})
+  — the task, the corpus, the scoring, the rules.
+- [Baseline walkthrough]({{ '/teaching/3A-advanced-machine-learning/hackaton_baseline.pdf' | relative_url }})
+  — the RAG pipeline they started from, file by file.
+- [RAG crash course]({{ '/teaching/3A-advanced-machine-learning/hackaton_rag.pdf' | relative_url }})
+  — retrieval-augmented generation from scratch, in one morning.
+- [Day 1 debrief]({{ '/teaching/3A-advanced-machine-learning/hackaton_debriefJ1.pdf' | relative_url }})
+  — the map of optimisation levers described above.
+
+Reusable for teaching. The corpus itself is not redistributable.
