@@ -11,8 +11,21 @@ lede: >-
 stack: [Jupyter, Python, R, "Course design"]
 links:
   - { label: "Browse the material", url: "/teaching/", icon: link }
+  - { label: "Start with Python", url: "/pages/why_python.html", icon: link }
   - { label: "GitHub", url: "https://github.com/curiousML/curiousml.github.io", icon: code }
 ---
+
+## Start here
+
+Two written pieces sit in front of the notebooks, because every cohort loses its
+first session to the same two questions:
+
+- [**Why Python?**]({{ '/pages/why_python.html' | relative_url }}) — where the
+  language sits today, why scientific computing converged on it, and what it
+  costs you in speed, memory and packaging.
+- [**Installing Python**]({{ '/pages/install_python.html' | relative_url }}) —
+  conda versus pip, one environment per project, getting Jupyter to point at the
+  right kernel, and what to do when it breaks.
 
 ## What is in there
 

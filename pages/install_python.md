@@ -4,92 +4,217 @@ permalink: /pages/install_python.html
 title: "Installing Python"
 eyebrow: Course material
 lede: >-
-  The quickest reliable way to get a working scientific Python environment, with Anaconda and Jupyter.
+  A working scientific Python environment in about twenty minutes, plus the two
+  habits — environments and pinned dependencies — that stop it breaking later.
 ---
 
-The easiest way to install python (and some related data science toolkits) is to install [Anaconda](https://www.anaconda.com/products/individual-d).
+There is no single official way to install Python, which is the honest reason
+this page exists. Below are the two routes that work, when to pick each, and the
+handful of conventions that separate an installation that lasts a semester from
+one that breaks in week three.
 
-## 1. Anaconda <a name="subpar21"></a>
+**If you want the short answer:** install
+[Miniforge](https://conda-forge.org/download/), create one environment per
+project, and never install anything into `base`.
 
-Anaconda is created by Continuum Analytics, and it is a Python distribution that comes preinstalled with lots of useful python libraries for data science. Installing ananconda enables you to have a functional python environment alongside with many tools for coding *data science / machine learning* projects.
+## 1. Two routes
 
-## 2. Step by step installation <a name="subpar22"></a>
+| | **conda** (Miniforge / Anaconda) | **pip + venv** (or [uv](https://docs.astral.sh/uv/)) |
+| --- | --- | --- |
+| Installs | Python *and* non-Python dependencies (BLAS, compilers, R, CUDA) | Python packages only |
+| Best for | Data science, teaching machines, anything with heavy numerics | Web, tooling, deployment, lean projects |
+| Download | ~100 MB (Miniforge), ~1 GB (Anaconda) | ~30 MB |
 
-Let us install Anaconda, python and Jupyter Notebook
+For this course either works, and **conda is the safer default** because it
+handles the compiled libraries underneath NumPy and SciPy for you, on Windows
+in particular.
 
-### STEP 1 : Download & Install Anaconda
+A word on distributions, since the names are confusing:
 
-- Go to https://www.anaconda.com/products/individual
-- Scroll down and choose the **adequate operating system**
+- **Anaconda** is the batteries-included distribution: Python plus several
+  hundred preinstalled packages and a graphical Navigator. Convenient, large,
+  and — since the 2024 change to its terms — **subject to a paid licence for
+  larger organisations**. Check with your employer before putting it on a work
+  laptop.
+- **Miniforge** is the minimal installer that ships `conda` configured to use
+  the community-run **conda-forge** channel. Same tool, no licensing question,
+  and you install only what you need. This is what I use.
+- **Miniconda** is Anaconda's own minimal installer, and carries the same terms
+  as Anaconda.
 
-![image](images/anaconda_installers.png)
+## 2. Route A — conda, step by step
 
-- Be careful, Ananconda might ask you which python's version to choose. <font color="orange">*You have to choose Python 3.X*</font>: do not choose Python 2.X displayed bellow since it will not be updated or improved anymore.
+### Step 1: download and install
 
-- After opening the downloaded executable file it is quite straightforward: **press *Next*** until the whole Anaconda ecosystem is installed on your computer. **This process might take a while (30 minutes for me)**.
+- Go to [conda-forge.org/download](https://conda-forge.org/download/) for
+  Miniforge, or [anaconda.com/download](https://www.anaconda.com/download) if
+  your institution provides Anaconda.
+- Pick the installer matching your **operating system and CPU architecture**
+  (Apple Silicon and Intel Macs are different downloads; on Windows, take the
+  64-bit one).
 
-- Once the Anaconda ecosystem installed, you will have the following home screen of the Anaconda Navigator app
+![Choosing an installer](images/anaconda_installers.png)
+*Installers are per-OS and per-architecture. Take Python 3.x — Python 2 reached
+end of life in January 2020 and is gone.*
 
-![image-3.png](images/anaconda_navigators.png)
+- Run the installer and accept the defaults. On Windows, do **not** tick "add to
+  PATH"; use the *Miniforge Prompt* / *Anaconda Prompt* shortcut instead, which
+  is what the installer is telling you when it warns you off. Installation takes
+  a few minutes, or up to half an hour for full Anaconda.
 
-- Great, now you have the environment python (and as a bonus the language R) installed on your computer!
+If you installed Anaconda, you now also have the Navigator, a graphical front
+end to environments and applications:
 
-### STEP 2 : Install Jupyter Notebook (and eventually Spyder)
+![Anaconda Navigator](images/anaconda_navigators.png)
+*The Navigator, if you installed Anaconda. Everything it does is also one
+command away, and the command line is the version that fits in a README.*
 
-- Install Jupyter Notebook. 
+### Step 2: create an environment
 
-Jupyter notebook is a novel IDE to produce easy-to-read reports with text, equations, code and results (called a notebook). **This is what is used here!**. In a nutshell, a notebook is sequence of cells that contain Python commands with comments. For some useful shortcuts, see *Help > Keyboard Shortcuts*. As usual Let us now print *Hello world!* as an initiation ritual (just be sure to have a functional python environment!).
+This is the step people skip and later regret. An **environment** is an isolated
+set of packages with its own Python. One per project means a broken dependency
+in one place cannot break anything else, and the environment is throwaway —
+which is what makes it safe to experiment.
 
-- Let us launch it:
+```bash
+conda create -n course python=3.12 numpy pandas matplotlib scikit-learn jupyterlab
+conda activate course
+```
 
-![image-5.png](images/anaconda_navigators_2.png)
+Your prompt should now be prefixed with `(course)`. Rules of thumb:
 
-**Remark:** since Python is a scripting language, there are several ways to use this language. The main ones are detailed below.
+- **Never install into `base`.** Keep it for `conda` itself.
+- **Prefer `conda install` over `pip install` inside a conda environment**, and
+  when you must mix, install everything you can with conda *first*, then pip.
+  Mixing in the other order is the most common way to corrupt an environment.
+- Record what you use: `conda env export --from-history > environment.yml`.
+  That file, committed next to your code, is what makes the work reproducible.
 
-### STEP 3 : print hello world! with Jupyter Notebook
+To start again from scratch, which is always allowed:
 
-- After launching Jupyter Notebook you'll have the following window on your default browser (at least something roughly similar):
+```bash
+conda deactivate
+conda env remove -n course
+```
 
-![image-6.png](images/example_jupyter.png)
+## 3. Route B — plain Python, venv and pip
 
-- Click **New** and then select **Python 3**. A new window will be created: it's your Jupyter Notebook!
+If you would rather not have conda, install Python from
+[python.org](https://www.python.org/downloads/) (on Windows, tick
+*Add python.exe to PATH*), then:
 
-- Congratulations you can now write your first python program:
+```bash
+python -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install numpy pandas matplotlib scikit-learn jupyterlab
+pip freeze > requirements.txt
+```
 
-![image-7.png](images/example_jupyter_first_code.png)
+Faster modern alternative, if you like your tools sharp: `uv` replaces
+`venv`, `pip` and `pip-tools` in one binary and resolves environments in
+seconds.
 
-### STEP 3b (OPTIONAL) : print hello world! with command line or Spyder
+```bash
+uv venv && uv pip install numpy pandas matplotlib scikit-learn jupyterlab
+```
 
-**Command line**
+## 4. Check that it works
 
-In a shell, execute:
+```bash
+python -c "import sys, numpy; print(sys.version); print(numpy.__version__)"
+```
 
-    $ python
-    
-Then, start using it:
+If that prints a 3.x version and a NumPy version, you are done. If the shell
+answers *command not found* or *'python' is not recognised*, your environment is
+not activated — go back and run `conda activate course` (or `source
+.venv/bin/activate`) in the terminal you are actually using.
 
-    >>> print("hello world!")
-    
-Press CTRL+D or type:
+## 5. Where you will write code
 
-    >>> quit()
-    
-to exit.
+### Jupyter — for exploration and reports
 
-If your code is written in a file *script.py*, you can run it from a shell with:
+A notebook is a sequence of cells mixing text, equations, code and results.
+**This is the format used throughout the course**, because it keeps the
+reasoning and the output in the same document.
 
-    $ python script.py
-    
-or in Python with:
+```bash
+jupyter lab        # or: jupyter notebook
+```
 
-    >>> execfile('script.py')
-    
-**Spyder**
+It opens in your browser. Use *Help > Keyboard Shortcuts* early; `Shift+Enter`
+to run a cell and `Esc` then `A`/`B` to insert one above/below will cover most
+of your day.
 
-[Spyder](http://pythonhosted.org/spyder/) is an IDE that shows both an editor and a Python shell.
-It is an efficient tool for developping and testing codes.
+![The Jupyter file browser](images/example_jupyter.png)
+*The file browser. New notebook: click **New** (or the Launcher) and pick your
+Python 3 kernel.*
 
-In particular feature, it enables to run only part of the script while keeping the previous results (variable states) in memory.
+![A first notebook](images/example_jupyter_first_code.png)
+*The initiation ritual. `print("hello world!")`, `Shift+Enter`.*
 
-To run a script, you can edit it and press F5.
-If you want to execute only a selection of it, select the part of interest and press F9.
+One catch worth knowing before it bites you: the notebook's **kernel** is a
+specific Python, and it is not always the environment you think. Check with
+`import sys; print(sys.executable)` in a cell. If your environment is missing
+from the kernel list, register it:
+
+```bash
+conda activate course
+python -m ipykernel install --user --name course --display-name "Python (course)"
+```
+
+### An editor — for code you keep
+
+Notebooks are excellent for exploring and poor for anything reused: cells run
+out of order, and the hidden state is invisible. Once code stabilises, move it
+into `.py` files and import it.
+
+- **[VS Code](https://code.visualstudio.com/)** with the Python and Jupyter
+  extensions is the common default, and runs notebooks natively.
+- **[Spyder](https://www.spyder-ide.org/)** is closer to Matlab or RStudio: an
+  editor, a console and a variable explorer side by side. `F5` runs the file,
+  `F9` runs the selection while keeping previous variables in memory.
+- **[PyCharm](https://www.jetbrains.com/pycharm/)** if you want a full IDE,
+  free for students.
+
+### The command line — for everything else
+
+Start an interactive session:
+
+```bash
+python              # or: ipython, which is the same thing but pleasant
+```
+
+```python
+>>> print("hello world!")
+hello world!
+>>> quit()          # or Ctrl-D
+```
+
+Run a script:
+
+```bash
+python script.py
+```
+
+And from inside IPython or a notebook, when you want a script's variables left
+in your session afterwards:
+
+```python
+%run script.py
+```
+
+## 6. When something goes wrong
+
+| Symptom | Usual cause |
+| --- | --- |
+| `command not found: python` | Environment not activated, or wrong terminal |
+| `ModuleNotFoundError` for a package you just installed | Installed into a different environment from the one running |
+| Notebook cannot see your packages | Kernel points elsewhere — check `sys.executable`, register the kernel |
+| `conda` hangs while solving | Use Miniforge/conda-forge, or `conda install -c conda-forge`; `mamba` solves the same environments far faster |
+| Everything is broken | Delete the environment and recreate it from your `environment.yml`. This is why the file exists. |
+
+---
+
+Next: [why Python in the first place]({{ '/pages/why_python.html' | relative_url }}),
+or go straight to the
+[course notebooks]({{ '/teaching/' | relative_url }}).
