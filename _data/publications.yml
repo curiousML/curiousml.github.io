@@ -36,6 +36,23 @@
     - { label: "EquiPy", url: "https://equilibration.github.io/equipy/equipy.fairness.html", icon: code }
     - { label: "MAIEI summary", url: "https://montrealethics.ai/a-sequentially-fair-mechanism-for-multiple-sensitive-attributes/", icon: link }
 
+- year: 2024
+  title: "Models and data used to predict the abundance and distribution of Ixodes scapularis (blacklegged tick) in North America: a scoping review"
+  authors: ["Y. Sharma", "E. K. E. Laison", "T. Philippsen", "J. Ma", "J. Kong", "S. Ghaemi", "J. Liu", "F. Hu", "B. Nasri"]
+  venue: "The Lancet Regional Health – Americas, 32:100706"
+  kind: journal
+  topics: ["public health", "spatiotemporal"]
+  featured: false
+  url: https://doi.org/10.1016/j.lana.2024.100706
+  abstract: >-
+    A review of 41 studies, screened from 4661, on how tick abundance and
+    distribution are predicted in North America. Data-driven and mechanistic
+    approaches are compared, and host density is found to be missing from most
+    models despite the tick's dependence on deer and small mammals.
+  links:
+    - { label: "The Lancet", url: "https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(24)00033-4/fulltext", icon: link }
+    - { label: "Open access", url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10943480/", icon: pdf }
+
 - year: 2023
   title: "Fairness in multi-task learning via Wasserstein barycenters"
   authors: ["F. Hu", P. Ratz, A. Charpentier]
