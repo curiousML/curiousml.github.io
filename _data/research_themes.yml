@@ -29,8 +29,8 @@
 - title: "NLP, LLMs and generative AI"
   summary: >-
     Extracting structure from unstructured text: ESG concepts in corporate
-    reporting, early signals of infectious disease outbreaks, and retrieval-
-    augmented systems for insurance.
+    reporting, and retrieval-augmented systems for insurance and actuarial
+    documents.
   keywords: [LLM, RAG, topic models, ESG]
 
 - title: "Semi-supervised & active learning"
