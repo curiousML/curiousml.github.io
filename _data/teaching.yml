@@ -259,24 +259,24 @@
       level: "MSc Actuarial Science"
       description: "Taught in French."
       items:
-        - name: "Lecture 1: Apprentissage statistique et lien avec l'actuariat"
+        - name: "Lecture 1: Statistical learning and its link with actuarial science"
           links:
-            - { label: "Cours", url: "/teaching/ISFA/1_introduction_DS.pdf", icon: pdf }
-        - name: "Lecture 2: Modèles linéaires généralisés et pénalisés"
+            - { label: "Slides", url: "/teaching/ISFA/1_introduction_DS.pdf", icon: pdf }
+        - name: "Lecture 2: Generalised and penalised linear models"
           links:
-            - { label: "Cours", url: "/teaching/ISFA/2_cours_GLM.pdf", icon: pdf }
-        - name: "Lecture 3: Arbres de décision et méthodes ensemblistes"
+            - { label: "Slides", url: "/teaching/ISFA/2_cours_GLM.pdf", icon: pdf }
+        - name: "Lecture 3: Decision trees and ensemble methods"
           links:
-            - { label: "Cours", url: "/teaching/ISFA/3_cours_RF_GBM.pdf", icon: pdf }
-        - name: "Lecture 4: Interprétabilité des modèles d'apprentissage"
+            - { label: "Slides", url: "/teaching/ISFA/3_cours_RF_GBM.pdf", icon: pdf }
+        - name: "Lecture 4: Interpretability of learning models"
           note: "Coming soon"
           links: []
-        - name: "Lecture 5: IA de confiance et biais algorithmiques"
+        - name: "Lecture 5: Trustworthy AI and algorithmic bias"
           note: "Coming soon"
           links: []
-        - name: "Lecture 6: Apprentissage non supervisé"
+        - name: "Lecture 6: Unsupervised learning"
           links:
-            - { label: "Cours", url: "/teaching/ISFA/6_cours_Unsupervised.pdf", icon: pdf }
+            - { label: "Slides", url: "/teaching/ISFA/6_cours_Unsupervised.pdf", icon: pdf }
         - name: "Research project briefs"
           links:
             - { label: "Abidjan", url: "/teaching/ISFA/projet_recherche_abidjan.pdf", icon: pdf }
