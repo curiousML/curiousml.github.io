@@ -25,9 +25,23 @@ author:
   photo: /images/photo_FH.png
   avatar: /images/francois_HU.jpeg
   cv: /cv/cv_hu.pdf
-  # Channel URL, e.g. https://www.youtube.com/@yourhandle
-  # Fills the Subscribe button on /recommendations/ once set.
-  youtube: https://www.youtube.com/@DemythifiedMyths
+  # My own YouTube channels, rendered in the "Mine" block on /recommendations/.
+  # The page loops over this list, so adding a third channel is a data edit and
+  # needs no template change. Order here is the display order. Check the @handle
+  # resolves before committing: a wrong one is a silent 404.
+  channels:
+    - name: Demythified
+      url: https://www.youtube.com/@DemythifiedMyths
+      note: >-
+        Myths and legends from around the world, retold as animated short films.
+        A hobby, with nothing to do with the research, and that is rather the
+        point.
+    - name: Curious Machine Learning
+      url: https://www.youtube.com/@curiousmachinelearning7291
+      note: >-
+        Expect a simplified overview of AI, of insurance, and of the ground
+        where the two meet: the same subjects as the research and the teaching,
+        without the notation. Newly started, one video so far.
   email: hu.faugon@gmail.com
   bio: >-
     I am Associate Professor in AI and Actuarial Science at ISFA, Université
@@ -53,6 +67,9 @@ social:
   - name: Demythified
     icon: youtube
     url: https://www.youtube.com/@DemythifiedMyths
+  - name: Curious Machine Learning
+    icon: youtube
+    url: https://www.youtube.com/@curiousmachinelearning7291
   - name: Email
     icon: mail
     url: mailto:hu.faugon@gmail.com

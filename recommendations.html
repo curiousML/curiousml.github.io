@@ -55,34 +55,38 @@ full_width: true
 {%- endif -%}
 {%- endfor -%}
 
+{%- if site.author.channels and site.author.channels.size > 0 %}
 <section class="section section--tint">
   <div class="wrap">
     <div class="section__head">
       <div>
         <p class="eyebrow">Mine</p>
-        <h2 class="section__title">Demythified</h2>
+        <h2 class="section__title">My own channels</h2>
         <p class="card__text" style="margin-top:.7rem;max-width:44em">
-          My own channel, and the odd one out on this page: myths and legends
-          from around the world, retold as animated short films. It is a hobby,
-          it has nothing to do with the research, and that is rather the point.
+          The odd ones out on this page, since I am the one making them. One is
+          a hobby with nothing to do with the research. The other covers exactly
+          what I work on, in plain language and without the notation.
         </p>
       </div>
     </div>
 
-    {%- if site.author.youtube and site.author.youtube != "" %}
-    <div class="btn-row" style="margin-top:0">
-      <a class="btn btn--primary" href="{{ site.author.youtube }}">
-        {% include icon.html name="youtube" %}Watch Demythified
-      </a>
+    <div class="grid grid--2">
+      {%- for c in site.author.channels -%}
+      <article class="card card--channel">
+        <a class="card__title-link" href="{{ c.url }}" rel="me noopener">
+          <span class="channel__mark" aria-hidden="true">{% include icon.html name="youtube" %}</span>
+          <span>
+            <h3 class="card__title">{{ c.name }}</h3>
+            <p class="card__meta" style="margin:0">{{ site.author.name }}</p>
+          </span>
+        </a>
+        {%- if c.note %}<p class="card__text">{{ c.note }}</p>{% endif -%}
+      </article>
+      {%- endfor -%}
     </div>
-    {%- else %}
-    <p class="note">
-      Set <code>author.youtube</code> in <code>_config.yml</code> to your channel
-      URL and a link appears here.
-    </p>
-    {%- endif %}
   </div>
 </section>
+{%- endif %}
 
 <section class="section">
   <div class="wrap wrap--text">

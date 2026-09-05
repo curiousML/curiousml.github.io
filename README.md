@@ -24,6 +24,7 @@ Almost everything is data, not markup. You should rarely need to touch HTML.
 | Change the research themes | `_data/research_themes.yml` |
 | Change the "Currently" card on the home page | `_data/now.yml` |
 | Change the recommended channels | `_data/recommendations.yml` |
+| Add one of my own YouTube channels | `_config.yml` (`author.channels`) |
 | Change name, bio, social links, navigation | `_config.yml` |
 
 ### Add a blog post
